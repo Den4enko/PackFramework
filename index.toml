@@ -184,6 +184,11 @@ hash = "ad809ef7c5cf83cf091e3ba2af331454f3f6ea092031c88ac329005d8bb8d469"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "bc23f32e54ca3ac7c8a9e9aa55372802b5cecb86824bf421da8397cf0bf2e869"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
