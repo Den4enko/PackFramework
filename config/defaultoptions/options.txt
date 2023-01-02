@@ -1,0 +1,10 @@
+version:2975
+autoJump:false
+guiScale:3
+soundCategory_music:0.0
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+maxFps:260
+simulationDistance:6
+snooperEnabled:false

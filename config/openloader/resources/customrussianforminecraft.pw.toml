@@ -1,0 +1,7 @@
+name = "CustomRussianForMinecraft"
+filename = "CustomRussianForMinecraft.1.18.zip"
+
+[download]
+url = "https://github.com/Den4enko/CustomRussianForMinecraft/releases/download/v1.0/CustomRussianForMinecraft.1.18.zip"
+hash-format = "sha1"
+hash = "2842be1b40cdda59d03a8eb2ea6f62a7140f337c"

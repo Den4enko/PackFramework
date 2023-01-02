@@ -1,0 +1,239 @@
+hash-format = "sha256"
+
+[[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "db889d41d09c59ab6f6c5d346db869fd053dc51d0b2a29c6507d13b3bfa743dd"
+
+[[files]]
+file = "config/connectivity-common.toml"
+hash = "be76605334abfe3542eef87a303cd5b5f4c6499a4597848318c4b34dc33c643b"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
+
+[[files]]
+file = "config/openloader/resources/ForgePackBase/assets/simplelogin/lang/ru_ru.json"
+hash = "592cfeef46c65ff0c9319c1ca22e83121ccd0da2a70a771490dd485f5f57846d"
+
+[[files]]
+file = "config/openloader/resources/ForgePackBase/assets/tipsmod/lang/ru_ru.json"
+hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
+
+[[files]]
+file = "config/openloader/resources/ForgePackBase/pack.mcmeta"
+hash = "1fd5eb9cd09b202fa0e36cf1a4fc47ce91f76d13d9179c2a09a16dac4ba4e455"
+
+[[files]]
+file = "config/openloader/resources/customrussianforminecraft.pw.toml"
+hash = "322a2f13d1c78f4ca641e845734679bdde5a335d03354c4d2c77460f049b62d8"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/default-dark-mode.pw.toml"
+hash = "b6bcef19876339bfd32cf6c009b6b7d2c6a0cf7536e468f6c66698521f28f9eb"
+metafile = true
+
+[[files]]
+file = "config/tips.json"
+hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
+
+[[files]]
+file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
+hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7b67d42ac3d1e69c7a5e7aaba22b001dc3965d1c9f009dd9a38334f897ad0ad1"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "f24b03e117f6b30a3be460545a60728509e2c249dd0fe3cea036425168aa3f47"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "91704cfc9fb9fcb19bd39378ec923f9d563d686804b0911d4d68c1667b0dce76"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "90cc363d5878dd667e54a656a4f0d87b5ccead681e98c5d570d1705522cbcc69"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "57d92db00051ecdf3ded295aacbcf9d1a5291e37cb9e6c9fc9653668861a9197"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "c8969b5a833ea2093f4e810e78360f050c653503d31851a6fa573258f57986e0"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "aabf921df6c6895e3703f0159992521a413fb18e0b75b2f5da7bccc62ffb9194"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5f4514e2e51c3c964f87430a6d40b0e20c773ae0d08924eceaf9fba02a2d5070"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "e1c6d935fffb5bc0abd41b18118755ac4eab986f68f0a20c87690d9327ba8b44"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "0aa9689d291e0c3ae699f075513e757d539b29d032ba6ba72f87374baea7a7a1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fc97acae22289f2966f8745901b9400f10ff69fe5481d26ea8181235a3f93d83"
+metafile = true
+
+[[files]]
+file = "mods/jer-integration.pw.toml"
+hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ad809ef7c5cf83cf091e3ba2af331454f3f6ea092031c88ac329005d8bb8d469"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "ab652361840cb23ee80d97f904ae78611ae1bfbb3ad352363327e19e0416e4cc"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "2f18c42ee016430436278ff89e09cdfd6a8ca9928b90be9dca0954704c888952"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "ff00263fe2d3d69df672e706811f7152670cb0dd1b1a1f30fe15818b1037a4cf"
+metafile = true
+
+[[files]]
+file = "mods/simple-login.pw.toml"
+hash = "3fc346f7c9727ecf7af06dc67274dbe38ba02cae61249f58ed4e962e6313fbd4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "d9502341fa600fa326bed44c420aef657638b15f1093caeeba6776301cf83f93"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "ddbcac3a27eb5f76cbebec0987f02425d806c8631e82aa1a4581e21856360560"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+metafile = true
