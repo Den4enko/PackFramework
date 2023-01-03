@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "db889d41d09c59ab6f6c5d346db869fd053dc51d0b2a29c6507d13b3bfa743dd"
+hash = "b166a5ad4a6f32111ea4c1c7f0514ec1bfb6bbc1f147efa6433b6342ff4544df"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -22,7 +22,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "bfec2e34583ada7e6af2cb73993fb75a3f7147a6c943e5ff5f5c4294fc577b90"
+hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -100,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
 metafile = true
 
 [[files]]
@@ -188,6 +193,11 @@ hash = "ad809ef7c5cf83cf091e3ba2af331454f3f6ea092031c88ac329005d8bb8d469"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "97009dc2d61177ab12f320824a34a1343295653ad75f37250f1eaa4a349476be"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "bc23f32e54ca3ac7c8a9e9aa55372802b5cecb86824bf421da8397cf0bf2e869"
 metafile = true
@@ -200,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "9a495d7e040fc3aa0100fcbc89bba4c9d5c115c4b0a2b71a6dbbe23bd5c574e9"
 metafile = true
 
 [[files]]
