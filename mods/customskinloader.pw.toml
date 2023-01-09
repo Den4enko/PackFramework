@@ -1,13 +1,13 @@
 name = "CustomSkinLoader"
-filename = "CustomSkinLoader_ForgeActive-14.15-SNAPSHOT-357.jar"
+filename = "CustomSkinLoader_ForgeActive-14.15.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "7256a448319480d3237e019176cae155666cb9dc"
+hash = "e4e2f4f6f707cdb111ca1881221fbdf3eafd89f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4286205
+file-id = 4309224
 project-id = 286924

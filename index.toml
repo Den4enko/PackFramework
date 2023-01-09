@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b166a5ad4a6f32111ea4c1c7f0514ec1bfb6bbc1f147efa6433b6342ff4544df"
+hash = "f40ca1d41d2967789f73b98a8d49302841cfd9c743f547a8f14df01b5829f545"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -22,7 +22,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
+hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "57d92db00051ecdf3ded295aacbcf9d1a5291e37cb9e6c9fc9653668861a9197"
+hash = "4f7707135aa402d44e2e073c1c10af01aeedd99ce1ff0c35ca3e3e31ac568b91"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "ab652361840cb23ee80d97f904ae78611ae1bfbb3ad352363327e19e0416e4cc"
+hash = "6028126c041d9c819aeae34294713c7f740a581c1759226f52dc5a831a7e01ed"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "d9502341fa600fa326bed44c420aef657638b15f1093caeeba6776301cf83f93"
+hash = "52ee1ced2362cd096a31167f55c77034a4f207201e180a73d107de1ce7933864"
 metafile = true
 
 [[files]]
