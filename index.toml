@@ -22,7 +22,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53"
+hash = "1ec4fab0d8dd5eafef82e67f61a35c03ee994988a5293e17cf3d3e97c3511847"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "52ee1ced2362cd096a31167f55c77034a4f207201e180a73d107de1ce7933864"
+hash = "889484a36f00c957d8c67fef297f58cb0193b5cdbff85fc6ed74b81a764dbebf"
 metafile = true
 
 [[files]]
