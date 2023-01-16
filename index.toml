@@ -22,7 +22,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
+hash = "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "f24b03e117f6b30a3be460545a60728509e2c249dd0fe3cea036425168aa3f47"
+hash = "5e0c86ea83355feb27210eb95a5afe825a50565722b22c3fd0e4b31625b6083f"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "bc23f32e54ca3ac7c8a9e9aa55372802b5cecb86824bf421da8397cf0bf2e869"
+hash = "9446f7c936c9fb0fb73ac27f388849fc760107eeb5a50564e93c54f0dd2e8d97"
 metafile = true
 
 [[files]]
