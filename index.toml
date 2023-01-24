@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f83cf4aab1520d6458a0e9ee13353a02af9cc748bcb36f2419308c383d7b3734"
+hash = "239abf40ce0b33e072893bc42602249b212667ec0111858c493f6396a0138ecc"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -22,7 +22,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
+hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -74,12 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7b67d42ac3d1e69c7a5e7aaba22b001dc3965d1c9f009dd9a38334f897ad0ad1"
+hash = "5a3352eca002127df147a27761f924547d75627233a3b6c87b3110136ffcfb35"
 metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "5e0c86ea83355feb27210eb95a5afe825a50565722b22c3fd0e4b31625b6083f"
+hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
 metafile = true
 
 [[files]]
@@ -210,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
-metafile = true
-
-[[files]]
-file = "mods/pluto.pw.toml"
-hash = "9a495d7e040fc3aa0100fcbc89bba4c9d5c115c4b0a2b71a6dbbe23bd5c574e9"
 metafile = true
 
 [[files]]
