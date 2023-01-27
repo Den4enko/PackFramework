@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "239abf40ce0b33e072893bc42602249b212667ec0111858c493f6396a0138ecc"
+hash = "9ba3e7e1d123bcbb3fb19f9be3ae5d5b5b1b050095088499f4713bfa984a2737"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -22,7 +22,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
+hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "4f7707135aa402d44e2e073c1c10af01aeedd99ce1ff0c35ca3e3e31ac568b91"
+hash = "d106c66f301f12a044475a577c8c8f27c91ac29b2bb09218f4dc6bcac2502a4a"
 metafile = true
 
 [[files]]
@@ -155,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "e1c6d935fffb5bc0abd41b18118755ac4eab986f68f0a20c87690d9327ba8b44"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "db27541d71cf44b94c8925b65f8713ed3a691d7b40a5c751353a35b0ed3c9124"
 metafile = true
 
 [[files]]
