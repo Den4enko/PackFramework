@@ -3,11 +3,11 @@ filename = "alternate-current-mc1.18-1.2.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/forge-mc1.18-1.2.1/alternate-current-mc1.18-1.2.1.jar"
 hash-format = "sha1"
 hash = "ded222f9714f823a063d26568f93a7975bf70c56"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3789218
-project-id = 548115
+[update.modrinth]
+mod-id = "r0v8vy1s"
+version = "MLH4H0y2"

@@ -3,11 +3,11 @@ filename = "defaultoptions-forge-1.18.2-14.1.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/HSWQDe7S/defaultoptions-forge-1.18.2-14.1.1.jar"
 hash-format = "sha1"
 hash = "34d24a00f3937de8a67d54f33308253b30d225d8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3830896
-project-id = 232131
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "HSWQDe7S"

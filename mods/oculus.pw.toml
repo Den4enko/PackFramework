@@ -3,11 +3,11 @@ filename = "oculus-1.4.3a.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/GchcoXML/versions/zuJ1306r/oculus-1.4.3a.jar"
 hash-format = "sha1"
 hash = "e364b12657d637674c1d2c1f973077d7f29fd4f2"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4354939
-project-id = 581495
+[update.modrinth]
+mod-id = "GchcoXML"
+version = "zuJ1306r"
