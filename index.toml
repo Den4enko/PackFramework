@@ -18,7 +18,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "a97b042d7bd59d92a46e8ab17f7dff7326067c74b938e6f6daabf1768932330d"
+hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6419454b6c825800345bc76a7a5f05a9d9d995d8e3b2ed84621394f441124961"
+hash = "6d6c323e050a88e30615d1cc6b61152f4221d42f8f1084be790538a5af37b27f"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "6028126c041d9c819aeae34294713c7f740a581c1759226f52dc5a831a7e01ed"
+hash = "1cf6852f35aa4e658b3d9451004912bdf2d22a9218f1928ca52dd447fc7bfa20"
 metafile = true
 
 [[files]]
