@@ -18,7 +18,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
+hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "52b6e12ebdd09c5708c22320d8c3def4575f1c37d608ebf803c4bc7e84f63043"
+hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "8958d196d37148bf7f2dec87d1ceb1345a3d97b05f132e4183393e6be947a249"
+hash = "42a30fb9d06cd57832d8c8cc44132342d7636acb79842624e84ed21094122236"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "058a0c02c9735a132c19e58358a1d28fe1cba6ce91267c42562d6c257b8afde8"
+hash = "f0c1247bfed9665fec21cfddb498e667cddda40f794d870d5dfd1e2fad777feb"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Oculus"
-filename = "oculus-1.4.3a.jar"
+filename = "oculus-1.5.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GchcoXML/versions/zuJ1306r/oculus-1.4.3a.jar"
+url = "https://cdn.modrinth.com/data/GchcoXML/versions/mGoSRprD/oculus-1.5.2.jar"
 hash-format = "sha1"
-hash = "e364b12657d637674c1d2c1f973077d7f29fd4f2"
+hash = "31faf299654b6618acd21008b1e3df7324ec9323"
 
 [update]
 [update.modrinth]
 mod-id = "GchcoXML"
-version = "zuJ1306r"
+version = "mGoSRprD"
