@@ -18,7 +18,7 @@ hash = "f51732d392a0af319dc7a43a7a3c8b6b3fc1cec10fb5093cbdfe5c37149c7f2f"
 
 [[files]]
 file = "config/fancymenu/resources/basepack_version.txt"
-hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
+hash = "6b56de731bba7d2a340b35e1f8639e880663c2192541e4ab81895bf0e1f11798"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "130a63c55f46b5f1f0e72ce3433e2d095e7ed8b4f696a11db0d3506f6696130e"
+hash = "13950363fba2c3f45ac39d20e9d63f39b4e9120de8e97c7af59bf36412e085e6"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
+hash = "c79b4ff9b5ce619278bc4704960d4cbb78d943153f4a7560a84b000a64b2c019"
 metafile = true
 
 [[files]]
