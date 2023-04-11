@@ -1,0 +1,13 @@
+name = "No Unused Chunks (Fabric/Forge)"
+filename = "nounusedchunks-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U8avpWmO/versions/B1ITmI5k/nounusedchunks-1.3.jar"
+hash-format = "sha1"
+hash = "12effbcbe29af1468cb753c1e394098afa988f22"
+
+[update]
+[update.modrinth]
+mod-id = "U8avpWmO"
+version = "B1ITmI5k"

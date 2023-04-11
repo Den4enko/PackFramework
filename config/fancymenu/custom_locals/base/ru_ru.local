@@ -1,0 +1,5 @@
+pack.forge.version = Версия Forge
+pack.button.mods = Моды
+pack.button.mods.motd = Тебе точно сюда нужно?
+pack.base.motd = Основано на ForgePackBase
+pack.mod.motd = Версия сборки
