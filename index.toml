@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "23e3e98f082e7f4527235b4dee0251f97defeb2b13a5834e3cbc39ab73f23d08"
+hash = "f186ceebc05a7e63a691de98186e319718198c74ad749706c5918581703d92fc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -50,7 +50,7 @@ hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "ee0b95b52b41520c1b3189f87795c1dc6a2624d58a077692c2a4e0b6a876cdb6"
+hash = "cb02ce35109b85061e557b9969937d410503d1f51db26e513a988baa432b9b54"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -71,6 +71,10 @@ hash = "49a04d448d041cb52714d30b2433f038b15a54b3bf7f43958c4bb4cd3c153506"
 [[files]]
 file = "config/forge-client.toml"
 hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "9026fdfd192fe1203b91cd48e3eb2c68cc55c1189fdd2afbba55c3fb13fd7fd2"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -111,8 +115,12 @@ file = "config/tips.json"
 hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
-file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
-hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
+file = "defaultconfigs/xaerominimap.txt"
+hash = "281c8f02f069b11d90bcf2df77544b6e236f29dd83f96a1c87a0eb7e53bd844c"
+
+[[files]]
+file = "defaultconfigs/xaeroworldmap.txt"
+hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -301,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "f0c1247bfed9665fec21cfddb498e667cddda40f794d870d5dfd1e2fad777feb"
+hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
 metafile = true
 
 [[files]]
@@ -342,4 +350,14 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6970ed87a904b104bd0af529401a3b76ae9514e8f071749e8a3a547408dc6a69"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b10d63af736277104c205ffcca727ee4b86d480cf3e0b2b52450f18552edc5a7"
 metafile = true
