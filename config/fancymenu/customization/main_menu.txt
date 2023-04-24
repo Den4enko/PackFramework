@@ -286,7 +286,7 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = 20 GOTO 10!
+  text = Honey, I grew the bees!
   delayappearanceeverytime = false
 }
 
@@ -307,7 +307,7 @@ customization {
   width = 195
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 3ee2b663-ae4d-40cd-97c8-2b294c674b101664124579128
-  y = -10
+  y = -11
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
@@ -327,15 +327,15 @@ customization {
   source_mode = direct
   line_spacing = 1
   fadeinspeed = 1.0
-  x = -245
+  x = -244
   width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 389448f3-0af4-4c3a-8534-0445c0c6b5131672686066232
-  y = -21
+  y = -24
   delayappearance = true
   alignment = right
   delayappearanceeverytime = false
-  height = 9
+  height = 12
 }
 
 customization {
@@ -355,10 +355,10 @@ customization {
   width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 97a5783e-b5cb-4e07-a694-00bfd6dcfe481680888857205
-  y = -21
+  y = -23
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
-  height = 9
+  height = 12
 }
 

@@ -1,5 +1,3 @@
-- [Homepage](https://den4enko.github.io/)
-
 ## About:
 The modpack base for Forge.
 

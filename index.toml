@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
+hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f186ceebc05a7e63a691de98186e319718198c74ad749706c5918581703d92fc"
+hash = "0a5ca28c6fb7413871cebef64bc06f1e17fef68a4b657d946290c2f817b5742a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -50,7 +50,7 @@ hash = "8cd2db213f13fe82d3f8c6cb06100ed0397b068b0861a73dae06b33994267d7c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "cb02ce35109b85061e557b9969937d410503d1f51db26e513a988baa432b9b54"
+hash = "7951e2ffc12851e83967b6d8e41c81869764ff47638f9e8843c93abe21e5fb85"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "ddc71713e72b939212782a2bb31624a64f42d00a99fafd65ce6192851b499f3e"
+hash = "1d691db2eccf1a3847ed4ac5eebd3c16b8759051087bb10159d2432caee0689c"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "0bff0ae5a33f4bf5c1087474bf61f1ced52f0b8bec46d5c48476ead4ea5c4875"
+hash = "23ca4c81b00500230b49597a133a41ba178a1d9b9903bc610b030809e167295a"
 metafile = true
 
 [[files]]

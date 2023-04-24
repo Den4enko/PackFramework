@@ -1,16 +1,11 @@
 {
   "version": "14.15",
-  "buildNumber": 357,
+  "buildNumber": 8,
   "loadlist": [
     {
       "name": "ElyBy",
       "type": "ElyByAPI",
       "root": "http://skinsystem.ely.by/textures/"
-    },
-    {
-      "name": "TLauncher",
-      "type": "ElyByAPI",
-      "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
     },
     {
       "name": "Mojang",
@@ -22,13 +17,13 @@
   "enableDynamicSkull": true,
   "enableTransparentSkin": true,
   "forceIgnoreHttpsCertificate": false,
-  "forceLoadAllTextures": false,
+  "forceLoadAllTextures": true,
   "enableCape": true,
-  "threadPoolSize": 3,
+  "threadPoolSize": 8,
   "enableLogStdOut": false,
   "cacheExpiry": 30,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
-  "enableCacheAutoClean": true,
+  "enableCacheAutoClean": false,
   "forceDisableCache": false
 }
