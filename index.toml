@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "0a5ca28c6fb7413871cebef64bc06f1e17fef68a4b657d946290c2f817b5742a"
+hash = "27671b971c370330aa8c2232fd46177629e24866e759dc924cb388741c2a5fd8"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "1d691db2eccf1a3847ed4ac5eebd3c16b8759051087bb10159d2432caee0689c"
+hash = "cb16e17adb882abb60c674a5d8f7ebf6272640e3cbf6169462018de18c69f78c"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c6397c3fafeed44c67b0ea31e5cbdabc4001e4fee78013c7f3e0cfe88c25a42d"
+hash = "7d55d3ce406bae0b380718c5b68167c9cc4eb454c1e78c7b754d6c50d04e2b04"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "9cf82a2c3c6e7a06fb35e5b13c4b5a0b44dc700d72d952f8d8556a1747dd6aec"
+hash = "c69a509ddc15e4a65a3453ae9b878a378a863da74fe4346d776e4ce718980fc1"
 metafile = true
 
 [[files]]
