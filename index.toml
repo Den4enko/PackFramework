@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "27671b971c370330aa8c2232fd46177629e24866e759dc924cb388741c2a5fd8"
+hash = "5d3d8c15897ca636d5a944cd27b1e7d39e6b453800dae1926e611a1e2085ab5e"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -75,6 +75,10 @@ hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "9026fdfd192fe1203b91cd48e3eb2c68cc55c1189fdd2afbba55c3fb13fd7fd2"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "6862a9840849b2e4cba9344d993e0c9c1c45ad66eb8825d2c38942291fd15ab1"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -274,12 +278,17 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "73c49d7dae3c411d64ec5b77544d66e0cc513b5b37b9f70f80bf38a78d5f138a"
+hash = "4c40f064c03c771f495d07599b938adddddab5fbd697844fb923cc4a4199961a"
 metafile = true
 
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ad809ef7c5cf83cf091e3ba2af331454f3f6ea092031c88ac329005d8bb8d469"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "9e7daef6f008d136fc37edba8f249a3e5560faef3507f9d44d5cda5c2e8eb5aa"
 metafile = true
 
 [[files]]
@@ -304,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "1cf6852f35aa4e658b3d9451004912bdf2d22a9218f1928ca52dd447fc7bfa20"
+hash = "4e032a14515acb8fa38a0b93050854b81820178673b086efbb2204386881a3fd"
 metafile = true
 
 [[files]]
@@ -354,10 +363,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6970ed87a904b104bd0af529401a3b76ae9514e8f071749e8a3a547408dc6a69"
+hash = "9112a7917815d6c1f9a1617b90963f813ca03a0f3322e35ca7ce0066935f63ef"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b10d63af736277104c205ffcca727ee4b86d480cf3e0b2b52450f18552edc5a7"
+hash = "0e63ca24d0b48a6af88b034474791e381d6bc7d9ae7eafea197db50b29720ca2"
 metafile = true
