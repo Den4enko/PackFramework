@@ -1,13 +1,13 @@
 name = "Catalogue"
-filename = "catalogue-1.6.2-1.18.2.jar"
+filename = "catalogue-1.7.0-1.19.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "ffba614f78af09cd60e554f1d605463f723d7466"
+hash = "e6f401e3a5dc3943a6780a31438cd223a3511eda"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3803098
+file-id = 4171024
 project-id = 459701

@@ -1,13 +1,13 @@
 name = "Simple Login"
-filename = "SimpleLogin-1.18.2-1.0.0.jar"
+filename = "SimpleLogin-1.19.2-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e727887d9c0a00bb705f65539f22f74cd36177f5"
+hash = "78ae2a109d55b889179696707c299c373d938906"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3864949
+file-id = 4057796
 project-id = 312664

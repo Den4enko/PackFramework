@@ -1,13 +1,13 @@
-name = "Drippy Loading Screen [Forge]"
-filename = "drippyloadingscreen_forge_2.2.1_MC_1.18.2.jar"
+name = "Drippy Loading Screen"
+filename = "drippyloadingscreen_forge_2.2.1_MC_1.19.1-1.19.2.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/hSmm4Otf/drippyloadingscreen_forge_2.2.1_MC_1.19.1-1.19.2.jar"
 hash-format = "sha1"
-hash = "86bebef8cc1feac3b2ded2c922f344d5d39315af"
-mode = "metadata:curseforge"
+hash = "ecbb51ef4058a47b8dcc58f582833aa15c719b48"
 
 [update]
-[update.curseforge]
-file-id = 4508623
-project-id = 511770
+[update.modrinth]
+mod-id = "v3CYg2V9"
+version = "hSmm4Otf"

@@ -1,13 +1,13 @@
 name = "JER Integration"
-filename = "JER-Integration-3.3.2.jar"
+filename = "JER-Integration-4.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "36802ca9a4d40d55dfb2bc15bb132ffea027b2db"
+hash = "a6fd8a2192df20370c0aac3bf7b561610e6b384b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3943203
+file-id = 4014255
 project-id = 506948

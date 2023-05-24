@@ -1,13 +1,13 @@
-name = "Lazy DataFixerUpper(LazyDFU)"
-filename = "lazydfu-1.0-1.18+.jar"
+name = "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+filename = "lazydfu-1.19-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "069f72997244b57b76c96ac86faa37b1838d52de"
+hash = "e120fbcc1704fcf0e661494771ba50ffe5a43b40"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3544496
+file-id = 4327266
 project-id = 460819
