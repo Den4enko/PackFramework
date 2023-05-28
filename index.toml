@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "6aa9d8941e8bef91738b05f12acf9a8d8367c59814c03618156138cb83e4f3a6"
+hash = "e9d767102b8204788c8572c16755aebaf78d8f4dad6fff4c3bb47aacc1177813"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "1a09d48a5088667848c188d333ae32e81c1b953da50aa88360324e873ea9da70"
+hash = "851c2cb5a6ec430f8df11784d97f6762949dfc2b056d1fda465646f7867c4cdf"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/jer-integration.pw.toml"
-hash = "9c8ae0fc0f501fa07bc5cbdedd24a89e7ad3774eb20eae8697aa35c2acf49e66"
+hash = "9d008e74538b45ac9b00f6e58106e4982224f10b0159f486cab77c99832336b2"
 metafile = true
 
 [[files]]
