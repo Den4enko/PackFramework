@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e9d767102b8204788c8572c16755aebaf78d8f4dad6fff4c3bb47aacc1177813"
+hash = "74c386c4617d523dab0f51f2e3a69fe931e0c60526d905d1a5fea8078ce3c22a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -89,18 +89,6 @@ file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
 
 [[files]]
-file = "config/openloader/resources/ForgePackBase Resources/assets/simplelogin/lang/en_us.json"
-hash = "9fba9f1cf28262db1b5e0f6df730dab5865bcc2dd300e58f27c0c0f1834369a2"
-
-[[files]]
-file = "config/openloader/resources/ForgePackBase Resources/assets/simplelogin/lang/ru_ru.json"
-hash = "ba5a0f2e8cae483f3397b6616238add8284a05b2c95957784caf1b8e710951ed"
-
-[[files]]
-file = "config/openloader/resources/ForgePackBase Resources/assets/simplelogin/lang/uk_ua.json"
-hash = "ba42d5472f1b66be05af3e6fa34b9840d2e6efa7a201e656bc12e185405da31b"
-
-[[files]]
 file = "config/openloader/resources/ForgePackBase Resources/assets/tipsmod/lang/ru_ru.json"
 hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
 
@@ -152,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
@@ -326,13 +314,13 @@ hash = "520259c531d1308f821d648e71ff88872fa0cd8d3d7f6e1c78b9a1649420deea"
 metafile = true
 
 [[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "4b3ff474197a108f8f8fffbfe0e08603fcbbd73653a8f07e9382801fac2d9615"
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
 metafile = true
 
 [[files]]
-file = "mods/simple-login.pw.toml"
-hash = "d6b9297babae8147a453f51084a6d2c620d0220482ebc701bb2b78e40de9af4c"
+file = "mods/simple-backups.pw.toml"
+hash = "4b3ff474197a108f8f8fffbfe0e08603fcbbd73653a8f07e9382801fac2d9615"
 metafile = true
 
 [[files]]
