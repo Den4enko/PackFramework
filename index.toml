@@ -34,7 +34,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f07cf83f5cf8214ade9635f59c1bd8b0dd6394668d47f84051d766bf19e2a2b0"
+hash = "74c386c4617d523dab0f51f2e3a69fe931e0c60526d905d1a5fea8078ce3c22a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -69,8 +69,12 @@ file = "config/fancymenu/resources/logo.png"
 hash = "49a04d448d041cb52714d30b2433f038b15a54b3bf7f43958c4bb4cd3c153506"
 
 [[files]]
-file = "config/forge-resource-caching.toml"
-hash = "1c93f4a7cb49641d15f71f65409a5e28c24e6cd3b7a35a02e6da71bdffb68930"
+file = "config/fml.toml"
+hash = "e38bbcdbe59086a61de3f6a060bc44c7be4117a2001dbb6e49d7db1193386a39"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "3e5a526c616a7821efe456c984ecdda682623435b25a05a77dfb84bc80bef60b"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
