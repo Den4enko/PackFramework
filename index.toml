@@ -5,6 +5,18 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
@@ -34,7 +46,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f07cf83f5cf8214ade9635f59c1bd8b0dd6394668d47f84051d766bf19e2a2b0"
+hash = "88c1c290196e625a2734931cf4bb44735b1b254172bb4b8e69b798fe368cf57f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -91,6 +103,11 @@ hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
 [[files]]
 file = "config/openloader/resources/ForgePackBase Resources/pack.mcmeta"
 hash = "87548e2c2e5426a92489f8a3a8674d9d37dce69819fccd7af00031299338d5d4"
+
+[[files]]
+file = "config/openloader/resources/chat-reporting-helper.pw.toml"
+hash = "c284d3be407e25df2ed7da53b3d1548fe43516d9b3c408434826f750207fceb1"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/customrussianforminecraft.pw.toml"
@@ -275,6 +292,11 @@ hash = "b79daf13e71de3f3103169044eca5fe14574efcb2fc1b216441d641a5ebab3a5"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/no-unused-chunks.pw.toml"
 hash = "22013f3a371312b666dbfa12b6fedcc80eb1dcb86d49b444847c908804cdb7e9"
 metafile = true
@@ -301,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
+hash = "6ce713c123ab359c6679b0572fc3a33d76ceef8acf34522cea9b4858026b64b8"
 metafile = true
 
 [[files]]
@@ -352,4 +374,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "71c4672c589661e49a57c75f62435cdc89dc92ccf20b9db85552a5a8271ff116"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "287119e22dcc1d4e7c35cb075cb4fba7f6fe3928b814882cf04b8cf8adc06d9b"
 metafile = true
