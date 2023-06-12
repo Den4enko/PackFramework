@@ -46,7 +46,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "88c1c290196e625a2734931cf4bb44735b1b254172bb4b8e69b798fe368cf57f"
+hash = "1d23d0969d99b6d53c785989abf65c448c1dfd8295db8f6ce78f20bbd795ecc3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -106,7 +106,7 @@ hash = "87548e2c2e5426a92489f8a3a8674d9d37dce69819fccd7af00031299338d5d4"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
-hash = "c284d3be407e25df2ed7da53b3d1548fe43516d9b3c408434826f750207fceb1"
+hash = "62af13d9f72ce550635e6a288cb94c82b9d5107eefea577d7135508bc593cadf"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "c0ff2dbf95204dca8201f0474856c700e6103366f3bfea5b2408b6002dc4b825"
+hash = "0598ce871e161d82ed54e47d4d9f88fb733f3f8f5434f2d5e4d77f4c1a60ab51"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "9023913494f24f6ce89297fa9f342612c1c5b1bc8aedc9c54baa6e271feb7cdc"
+hash = "f8e93d8a4ee0f2ebcff9138d72e6038bb2b176ceb784b123bcca466a0a4ca4fd"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+hash = "741032fa990abb4939ff5a270f46f60f10def5451f40805ac0bc12840aff9fdf"
 metafile = true
 
 [[files]]
@@ -374,9 +374,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "71c4672c589661e49a57c75f62435cdc89dc92ccf20b9db85552a5a8271ff116"
-metafile = true
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "287119e22dcc1d4e7c35cb075cb4fba7f6fe3928b814882cf04b8cf8adc06d9b"
 metafile = true

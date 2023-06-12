@@ -3,11 +3,11 @@ filename = "Chat Reporting Helper.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tN4E9NfV/versions/6z8xjGCu/Chat%20Reporting%20Helper.zip"
+url = "https://cdn.modrinth.com/data/tN4E9NfV/versions/Kf69ojWs/Chat%20Reporting%20Helper.zip"
 hash-format = "sha1"
-hash = "2ae82288d66aad6a8079eae55a1d3b3069859e3c"
+hash = "8f003e98336fc06f2aec8fffc373dffbb4b901ba"
 
 [update]
 [update.modrinth]
 mod-id = "tN4E9NfV"
-version = "6z8xjGCu"
+version = "Kf69ojWs"
