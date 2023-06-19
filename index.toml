@@ -46,7 +46,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "1d23d0969d99b6d53c785989abf65c448c1dfd8295db8f6ce78f20bbd795ecc3"
+hash = "784028c97097c078d470c29d76a3a7cbb22cd00ec04fb680854026eb5d25bae2"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -79,6 +79,10 @@ hash = "8eaeeb29091a34877ad60eb26d5913214431c833c21c20dc4eb0f1233a0b67d0"
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "49a04d448d041cb52714d30b2433f038b15a54b3bf7f43958c4bb4cd3c153506"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
 
 [[files]]
 file = "config/fml.toml"
@@ -183,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "61ce95654a33c10e7c54c121f720c3bb58af8d99b2ba9521ae08556f629b6cc1"
+hash = "600cdca16b9607f415ef545df62c6f056ae6d5e12b83c37f7e2fbfd8211c4fe8"
 metafile = true
 
 [[files]]
@@ -198,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "7b5913e706e9c9aa798b06cc41ee0922d302d4588c9010cb1e80c4e2cfb4dc2a"
+hash = "dadf103db203f83d86361ea51250fd949ec94bc1ba3eb7a95fb49481ff3a9160"
 metafile = true
 
 [[files]]
@@ -208,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
+hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
@@ -292,6 +296,11 @@ hash = "b79daf13e71de3f3103169044eca5fe14574efcb2fc1b216441d641a5ebab3a5"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
@@ -314,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
 metafile = true
 
 [[files]]
@@ -373,5 +387,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "71c4672c589661e49a57c75f62435cdc89dc92ccf20b9db85552a5a8271ff116"
+hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
