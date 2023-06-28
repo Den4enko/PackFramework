@@ -50,7 +50,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "dcdb8799029c9b6ea77ff70f9f3cdd6467dbe1f3ad06f2e00b4df729084dd175"
+hash = "43a7022df089e41ecb8d53bf8257e402e5804ef4eedcf02cc0bebe0b5cc91790"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -177,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "badb9b0f9fd37f368445e139e78f76dfd7a39b32f8b1edf691a4e78e6ed3877f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
 
 [[files]]
@@ -327,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "83eda896132f7ff69ab57e156fe00f913bea3a4fcb739791878516468a116bc0"
 metafile = true
 
 [[files]]
