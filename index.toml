@@ -17,6 +17,10 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/borderlesswindow-client.toml"
+hash = "b8ca537da51f8f614c6d0f03d91365d6b2f537cafa75520137d5357d1c9698c6"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
@@ -162,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless.pw.toml"
-hash = "4b75fd7d47d17dd2b68d4e28417364c997cd3acbff194f73ef80ed8bba588189"
+hash = "6207006280fbdff86b69edf459d4c4fc4ae03363bdc433aa091b4c4eed544f8b"
 metafile = true
 
 [[files]]
