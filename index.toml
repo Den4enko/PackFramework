@@ -46,7 +46,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "101f41533543947c56dfcad23ad5804c27a160953039d8868a4f84ef980ae6b1"
+hash = "dcdb8799029c9b6ea77ff70f9f3cdd6467dbe1f3ad06f2e00b4df729084dd175"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -128,11 +128,11 @@ file = "config/tips.json"
 hash = "21b1e5be83c73f6b87dd918486469a8da1ce9945f92dc1faa4cce70f1f53bbc8"
 
 [[files]]
-file = "defaultconfigs/xaerominimap.txt"
+file = "config/xaerominimap.txt"
 hash = "281c8f02f069b11d90bcf2df77544b6e236f29dd83f96a1c87a0eb7e53bd844c"
 
 [[files]]
-file = "defaultconfigs/xaeroworldmap.txt"
+file = "config/xaeroworldmap.txt"
 hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/borderless.pw.toml"
+hash = "4b75fd7d47d17dd2b68d4e28417364c997cd3acbff194f73ef80ed8bba588189"
 metafile = true
 
 [[files]]
