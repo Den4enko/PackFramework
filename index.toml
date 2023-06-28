@@ -46,7 +46,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "784028c97097c078d470c29d76a3a7cbb22cd00ec04fb680854026eb5d25bae2"
+hash = "101f41533543947c56dfcad23ad5804c27a160953039d8868a4f84ef980ae6b1"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -137,7 +137,7 @@ hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "0598ce871e161d82ed54e47d4d9f88fb733f3f8f5434f2d5e4d77f4c1a60ab51"
+hash = "43a09bf3fc588c393ed5e1b549991aad430f826d374266249d778129169dfe43"
 metafile = true
 
 [[files]]
@@ -183,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "7c1bcf396290bf3e32b9f1e44f128d5f1568ab18e48c821defb001c226c59a2e"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "600cdca16b9607f415ef545df62c6f056ae6d5e12b83c37f7e2fbfd8211c4fe8"
 metafile = true
 
 [[files]]
@@ -248,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "f8e93d8a4ee0f2ebcff9138d72e6038bb2b176ceb784b123bcca466a0a4ca4fd"
-metafile = true
-
-[[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "d088f49d9b1b26c2d2c683318c9c14ad055029972fa5ec38dac07723206f66b7"
 metafile = true
 
 [[files]]
