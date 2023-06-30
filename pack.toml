@@ -1,12 +1,12 @@
 name = "ForgePackBase"
 author = "Den4enko"
-version = "2.5.3"
+version = "2.5.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b2175b7196eef831ba31c33cd992494b7b673c00e0caf765fc5449eef834561"
+hash = "602d6b35db4d95ead024d9487ba8d927cd2eaf49453c44767fec798d85ecb0bb"
 
 [versions]
 forge = "43.2.14"

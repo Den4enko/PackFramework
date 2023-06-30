@@ -50,7 +50,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "43a7022df089e41ecb8d53bf8257e402e5804ef4eedcf02cc0bebe0b5cc91790"
+hash = "7fb06fe38c77df27d489d78077b5cc37b63d22ec3d8196c422a062e43016421a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
+hash = "6b4b19b314ca50e8672b713d4b200418b11928c0952ce5ffee7455bf03842465"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "83eda896132f7ff69ab57e156fe00f913bea3a4fcb739791878516468a116bc0"
+hash = "4cb3ec1cf323f88d65fb17f0b091a68d3094bc184e9ca276e5c68ccab057a324"
 metafile = true
 
 [[files]]
