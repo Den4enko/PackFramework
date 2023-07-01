@@ -50,7 +50,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "7fb06fe38c77df27d489d78077b5cc37b63d22ec3d8196c422a062e43016421a"
+hash = "eeca64af44030815fbaf8fd2eab041a22015c1b74b21057c15022b3524dfe36f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -70,19 +70,19 @@ hash = "7951e2ffc12851e83967b6d8e41c81869764ff47638f9e8843c93abe21e5fb85"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "f5817eb8623d772a71e6750e3731cfab28725dd554e8711e47ac94ddcca4ac44"
+hash = "741211f5d0b4bb12c44afab885933c734be98db942ecf902cbf97cb0952c6e59"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "b94c782f9519ba4ed68f1e7d7739c1d39ac178dd6dc15affc0ebfdb2be28982a"
+hash = "48fa3892df26bb8f23f276185ef82f9433ff1c27ad76246a89e4c7c299e2bba1"
 
 [[files]]
 file = "config/fancymenu/resources/background.png"
-hash = "8eaeeb29091a34877ad60eb26d5913214431c833c21c20dc4eb0f1233a0b67d0"
+hash = "e9373705099ada8482ca9ecb402aee31ff4d46812540cf0aa9e69c5f94877a80"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
-hash = "49a04d448d041cb52714d30b2433f038b15a54b3bf7f43958c4bb4cd3c153506"
+hash = "8e65a97ec97f74a214601b3c5d501b77d74ee4157791ba4bb823f6c77e77688c"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
