@@ -17,10 +17,6 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
-file = "config/borderlesswindow-client.toml"
-hash = "b8ca537da51f8f614c6d0f03d91365d6b2f537cafa75520137d5357d1c9698c6"
-
-[[files]]
 file = "config/connectivity-common.toml"
 hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
@@ -50,7 +46,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "eeca64af44030815fbaf8fd2eab041a22015c1b74b21057c15022b3524dfe36f"
+hash = "3173fee85a91a4f17c60744a70dc774d667a729b388589b04634959e46d49374"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -162,11 +158,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
-metafile = true
-
-[[files]]
-file = "mods/borderless.pw.toml"
-hash = "6207006280fbdff86b69edf459d4c4fc4ae03363bdc433aa091b4c4eed544f8b"
 metafile = true
 
 [[files]]
