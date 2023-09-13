@@ -1,5 +1,5 @@
 ## About:
-The modpack base for Forge.
+The modpack base for Minecraft.
 
 It's contains mods, that optimizes and tweaks minecraft.
 
