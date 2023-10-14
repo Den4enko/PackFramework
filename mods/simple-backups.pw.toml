@@ -1,13 +1,13 @@
 name = "Simple Backups"
-filename = "SimpleBackups-1.19.1-2.1.9.jar"
+filename = "SimpleBackups-1.19.1-2.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/A7SLMprE/SimpleBackups-1.19.1-2.1.9.jar"
+url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/hsjyLlYY/SimpleBackups-1.19.1-2.1.10.jar"
 hash-format = "sha1"
-hash = "432ccaf5f364a14f16bdd50c12e6ab0e9cd721a2"
+hash = "bb2ef605b1312b34cf6018ac5b495ce12f365372"
 
 [update]
 [update.modrinth]
 mod-id = "fzSKSXVK"
-version = "A7SLMprE"
+version = "hsjyLlYY"

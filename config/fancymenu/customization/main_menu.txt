@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = config/fancymenu/resources/background.png
+  path = config/fancymenu/resources/background.jpg
   action = texturizebackground
 }
 
@@ -188,8 +188,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 293
-  width = 268
+  x = 110
+  width = 421
   action = deep_customization_element:title_screen_forge_top
   actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600
   y = 4
@@ -286,7 +286,7 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = Honey, I grew the bees!
+  text = Plant-based light sources!
   delayappearanceeverytime = false
 }
 
@@ -320,7 +320,7 @@ customization {
   shadow = true
   delayappearanceseconds = 1.0
   scale = 1.0
-  source = {"placeholder":"local","values":{"key":"pack.base.motd"}} {"placeholder":"local","values":{"key":"pack.base.version"}}
+  source = {"placeholder":"local","values":{"key":"pack.framework.motd"}} {"placeholder":"local","values":{"key":"pack.framework.version"}}
   text_border = 0
   case_mode = normal
   fadein = true

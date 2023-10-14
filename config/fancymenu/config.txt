@@ -32,9 +32,9 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'ForgePackBase';
+S:customwindowtitle = 'PackFramework 1.19.2';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'true';
+B:customwindowicon = 'false';
 
 
 ##[world_loading_screen]

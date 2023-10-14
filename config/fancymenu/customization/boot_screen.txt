@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = config/fancymenu/resources/background.png
+  path = config/fancymenu/resources/background.jpg
   action = texturizebackground
 }
 
@@ -21,6 +21,7 @@ customization {
 customization {
   orientation = top-left
   hidden = true
+  original_pos_size_calculation = true
   x = 178
   width = 498
   action = deep_customization_element:drippy_overlay_logo
@@ -43,11 +44,12 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 178
-  width = 498
+  original_pos_size_calculation = true
+  x = 120
+  width = 400
   action = deep_customization_element:drippy_overlay_progress_bar
   actionid = 8b276866-fb2f-4a6f-968a-f6f777eeb3931675418835949
-  y = 409
+  y = 328
   height = 10
 }
 
