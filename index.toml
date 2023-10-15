@@ -70,11 +70,11 @@ hash = "eab9e4d2f8b49f1ad12118cadce29fd9228731c48969c710e00487c07fe91526"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "00a03ba2aff096c534fb6eda9730f586d2798d8fa9ea7dfe002980822f99e7c8"
+hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "e82c55bf8f26a067dbf9dcd70b652adb110990105cd1a1b308fe332a5d158039"
+hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
 
 [[files]]
 file = "config/fancymenu/resources/background.jpg"
