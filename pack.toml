@@ -1,4 +1,4 @@
-name = "ForgePackBase"
+name = "PackFramework"
 author = "Den4enko"
 version = "2.6"
 pack-format = "packwiz:1.1.0"
