@@ -46,7 +46,7 @@ hash = "1da313ac222f86983f5ccafdd363c7a1798f9c2f1590f36076c3336cc2567b8b"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "2c49e18b273b9afe4833daec8641c0b409289b30cb997fe519c45df65dac06c2"
+hash = "ec97d28a15fe7a25c2107ba48ba6ae54ffaa3309eed7fc004c450f8351c06543"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
-hash = "27c7b8db97e14722133d63c1da40feaa8bf43c5a587b28c131a40c0373777913"
+hash = "9907708383f7b954db046df0b60b9cd43427e27f0bcc0dfa242e6e4f25749a05"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "ee7ad5c5e5caefd9c814833fb0b777caeb2466e9fcd7a0f3b01e6fe8f5b3b0d1"
+hash = "ccc64f3bf2ac92abf4dd433dfdaa837c7182ed533df0459946637b6d65338062"
 metafile = true
 
 [[files]]
@@ -254,18 +254,8 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "7bae0a8aefb9cd3468d64cbad7513a4ee3952ff5a328d3baa7d78fb334cb575e"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
-metafile = true
-
-[[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
 metafile = true
 
 [[files]]
@@ -275,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "eb54614dac3a3430a19128aa46fb9267c8498a1e0dbe3aa6a7af919411a3855e"
+hash = "cca4b243ff01543c5e7f2b943bc69e969ca804d1212c53d29974c2a2abd70eed"
 metafile = true
 
 [[files]]
