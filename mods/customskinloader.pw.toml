@@ -3,11 +3,11 @@ filename = "CustomSkinLoader_ForgeActive-14.18.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/idMHQ4n2/versions/F8V0YQk0/CustomSkinLoader_ForgeActive-14.18.1.jar"
 hash-format = "sha1"
 hash = "46a85f80de3febf0408f98944f009e13d3942d04"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "idMHQ4n2"
-version = "F8V0YQk0"
+[update.curseforge]
+file-id = 4801419
+project-id = 286924
