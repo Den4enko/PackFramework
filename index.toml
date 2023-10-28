@@ -46,7 +46,7 @@ hash = "1da313ac222f86983f5ccafdd363c7a1798f9c2f1590f36076c3336cc2567b8b"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f809381e81804f36cbc3acd158675b6534e29f1e9007579aa2c2306bef03ceef"
+hash = "b45797d90db2afd67a86419a01b891ad09b6fe163fce9b06e2687683fff57113"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -150,7 +150,7 @@ hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "0793273b7fc9afa9e69ca6d2ab7d30f80a76298aab3464aa5b0d00c939c0a870"
+hash = "79e26d8c271ea28cc2c32b871dc5d96af176c223b8caa22c3fbc7c27cadd148a"
 metafile = true
 
 [[files]]
@@ -170,12 +170,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "1ea9d967f5eeedc337110d0f8b3c1ad3dca82cd37378c05421dd52a455479120"
+hash = "a1a25f1d4594d7cbfa676524f7fb90d15118e4f58c353f90701169688f23b30c"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
 metafile = true
 
 [[files]]
@@ -339,11 +344,6 @@ hash = "45e43a9de14a5e70bc6cede52536235ffeacc5057f1744c1e0f80d1bb3f0fa0a"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "4cb3ec1cf323f88d65fb17f0b091a68d3094bc184e9ca276e5c68ccab057a324"
 metafile = true
@@ -359,8 +359,18 @@ hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "95c3225e51ae276148f808df08ff6f0c22c0cefaa3e74ca2f2916bdfdcc9d419"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "ff97b9c874da4ab0a4f9849c5914b0dba697306eb1ac9fb251b75dec876791cc"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
@@ -390,10 +400,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4bc45052af6997d245483069aad79225260be1773e6a578643f16773791ecfb3"
+hash = "0ea805ff6f93913e20975b60180ca94673be76ff3d209707a8c728fe56124c6f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ad2916b2d26a7a3a255e889d0032e5539005dc3ee6abebc46a22f93655f549f8"
+hash = "2b7c679c5cf225e879a3c3bee50890d5db74941ebc77f1da57ae057cdb638a31"
 metafile = true
