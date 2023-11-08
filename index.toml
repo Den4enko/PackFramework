@@ -46,7 +46,7 @@ hash = "1da313ac222f86983f5ccafdd363c7a1798f9c2f1590f36076c3336cc2567b8b"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "b45797d90db2afd67a86419a01b891ad09b6fe163fce9b06e2687683fff57113"
+hash = "5fa1aa1574c6f7f80eea8ce7101f1c35e157fbd6df6f4eaee4245dfe12ad4039"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -66,7 +66,7 @@ hash = "97e521e39690dad715d73c8f030cda1aff0801983665d27791893ab26fa3e7cd"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "eab9e4d2f8b49f1ad12118cadce29fd9228731c48969c710e00487c07fe91526"
+hash = "d265174c8cbe65154c44db1bc470e6b99cf36185a17d0136728e28c89d6b8f7f"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -239,6 +239,11 @@ hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+hash = "94eccbdf0d1f6bdd57c7ab0d45fea70a1fe89970edf8d424ab323cea17bfc573"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "da5a514b0ea726f2f58480c2f8d322cb7596e9e0595da2dfac9183ae48c2def5"
 metafile = true
@@ -269,13 +274,8 @@ hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-forge.pw.toml"
-hash = "851c2cb5a6ec430f8df11784d97f6762949dfc2b056d1fda465646f7867c4cdf"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "f41cbd4e04d52ac715dc243fe0cd0df327de89a155d5c2145aa26ba7667d43c8"
+hash = "2db057973d45d5b76ab789648a86517abeb62b359fed8092cf2216dd0f3c91dc"
 metafile = true
 
 [[files]]

@@ -23,7 +23,7 @@ customization {
   orientation = bottom-right
   x = -196
   action = movebutton
-  y = -10
+  y = -11
 }
 
 customization {
@@ -188,8 +188,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 110
-  width = 421
+  x = 293
+  width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600
   y = 4
@@ -286,32 +286,8 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = Plant-based light sources!
+  text = LoL
   delayappearanceeverytime = false
-}
-
-customization {
-  orientation = bottom-left
-  enable_scrolling = false
-  shadow = true
-  delayappearanceseconds = 1.0
-  scale = 1.0
-  source = %local:pack.forge.version%: %version:forge%
-  text_border = 0
-  case_mode = normal
-  fadein = true
-  source_mode = direct
-  line_spacing = 1
-  fadeinspeed = 1.0
-  x = 0
-  width = 195
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 3ee2b663-ae4d-40cd-97c8-2b294c674b101664124579128
-  y = -11
-  delayappearance = true
-  alignment = left
-  delayappearanceeverytime = false
-  height = 11
 }
 
 customization {
@@ -331,7 +307,7 @@ customization {
   width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 389448f3-0af4-4c3a-8534-0445c0c6b5131672686066232
-  y = -24
+  y = -23
   delayappearance = true
   alignment = right
   delayappearanceeverytime = false
@@ -355,7 +331,7 @@ customization {
   width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 97a5783e-b5cb-4e07-a694-00bfd6dcfe481680888857205
-  y = -23
+  y = -13
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
