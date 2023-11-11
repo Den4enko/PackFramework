@@ -22,7 +22,7 @@ hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
+hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -34,19 +34,19 @@ hash = "727fb4607e3e0080d4765592bca3a7931be886f811636f37ab698968b257ee06"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
-hash = "e3e3e1a21591122f4afd8ebab5bf43086cacf4928c1c17dafa4a6133c22a5372"
+hash = "381460e7b402c3dcc551ad219d6a59554ee61d89355ca8c6495495545c1134b8"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/ru_ru.local"
-hash = "49ff98cc6fa74dc4a856db52718c643ac3f7a2c047e46df7c138ed5e81bdfd3f"
+hash = "d9025157d1e33c5747a24bbb3beb1b46330c1633fbd684ddea524d583eb91918"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/uk_ua.local"
-hash = "1da313ac222f86983f5ccafdd363c7a1798f9c2f1590f36076c3336cc2567b8b"
+hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5fa1aa1574c6f7f80eea8ce7101f1c35e157fbd6df6f4eaee4245dfe12ad4039"
+hash = "dedee38d9fd25f253a1a28d2821df722358d30ad64848bd488042ebd625e69c6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -62,7 +62,7 @@ hash = "cd2af84bb147aaad0a27d45b244703fcf034d333d877e886591d2021617c2ea9"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "97e521e39690dad715d73c8f030cda1aff0801983665d27791893ab26fa3e7cd"
+hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -150,7 +150,7 @@ hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "79e26d8c271ea28cc2c32b871dc5d96af176c223b8caa22c3fbc7c27cadd148a"
+hash = "a66a096d6dd61cceb381beeddd8bbe3300e4f23621c8103ef91522421779a623"
 metafile = true
 
 [[files]]
@@ -259,11 +259,6 @@ hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
@@ -366,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "ff97b9c874da4ab0a4f9849c5914b0dba697306eb1ac9fb251b75dec876791cc"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4d84884ba932e34e9da2d7972fe1aba65e6acfde071ccf6098f16c9ae91ed4ea"
 metafile = true
 
 [[files]]

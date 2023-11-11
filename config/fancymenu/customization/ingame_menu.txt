@@ -18,7 +18,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -85
+  y = -108
 }
 
 customization {
@@ -38,7 +38,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -39
+  y = -62
 }
 
 customization {
@@ -58,7 +58,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -62
+  y = -85
 }
 
 customization {
@@ -109,7 +109,7 @@ customization {
   orientation = mid-centered
   x = 1
   action = movebutton
-  y = -62
+  y = -85
 }
 
 customization {
@@ -120,17 +120,24 @@ customization {
 }
 
 customization {
-  identifier = %id=504330%
   orientation = mid-centered
-  x = 1
-  action = movebutton
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;de.maxhenkel.voicechat.gui.VoiceChatScreen%btnaction_splitter_fm%
+  x = -102
+  width = 203
+  action = addbutton
+  actionid = 2b431cc6-22ad-42f9-8e24-8bb2f01a50cc1699711923758
   y = -39
+  label = {"placeholder":"local","values":{"key":"gui.voicechat.voice_chat_settings.title"}}
+  height = 20
 }
 
 customization {
   identifier = %id=504330%
-  width = 100
-  action = resizebutton
-  height = 20
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = -62
 }
 
