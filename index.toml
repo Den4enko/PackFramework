@@ -46,7 +46,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "dedee38d9fd25f253a1a28d2821df722358d30ad64848bd488042ebd625e69c6"
+hash = "f2e05c9981fd3ef0f37b67ddc9c4130cc48a14f0ccf06a2d0e5b982d3ce1816a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -109,12 +109,24 @@ file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
 
 [[files]]
+file = "config/openloader/resources/PackFramework Resources/assets/packframework/lang/en_us.json"
+hash = "ca160e79cc417972f82abdb3b153db35d092b2ffdffc434299e4afb9ff5b23da"
+
+[[files]]
+file = "config/openloader/resources/PackFramework Resources/assets/packframework/lang/ru_ru.json"
+hash = "72750732bcd22b829092ce77e85c76e7223b7a2327761a5e0992f2b7f41c212c"
+
+[[files]]
+file = "config/openloader/resources/PackFramework Resources/assets/packframework/lang/uk_ua.json"
+hash = "39a4fd08a6b62481051b81a572999f91311dc56fa5280960283a20962b492d36"
+
+[[files]]
 file = "config/openloader/resources/PackFramework Resources/assets/tipsmod/lang/ru_ru.json"
 hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
 
 [[files]]
 file = "config/openloader/resources/PackFramework Resources/pack.mcmeta"
-hash = "e4b898a4071ae640b2d976b9bc89a997a4b021a0adf342b0f1c7b325d5550db5"
+hash = "45281b3b43211fd9258d496ca4ff768b976de57e3ee1618c75928a1503f4fe21"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
