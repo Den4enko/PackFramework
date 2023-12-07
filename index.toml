@@ -46,7 +46,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "65be4d25a2c7f7991962ef3975ee383f961306b1eebf858135f471cd45abe0c9"
+hash = "45e8dfd70bb20c8ce7734c044a12c20215e02e5cb8720d0d2c233d837339d517"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "02b02459b82f44cd70b282fc1cf4987971a16c37985f63f6245409fd349e29aa"
+hash = "020a5760fa62f0bb275e152e365e228f5726ff393013838f64816ee4753c6e8b"
 metafile = true
 
 [[files]]
