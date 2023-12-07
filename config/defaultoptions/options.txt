@@ -8,3 +8,4 @@ joinedFirstServer:true
 maxFps:260
 simulationDistance:6
 snooperEnabled:false
+enableVsync:false
