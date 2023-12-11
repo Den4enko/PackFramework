@@ -1,5 +1,0 @@
-
-[logbegone]
-	regex = [""]
-	phrases = ["net.minecraft.stats.ServerRecipeBook", "net.minecraft.world.level.entity.PersistentEntitySectionManager"]
-

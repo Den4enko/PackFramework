@@ -6,6 +6,7 @@ differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
 radarHideInvisibleEntities:true
+allowInternetAccess:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
 minimap:true
@@ -62,7 +63,7 @@ zoomOnEnlarged:0
 minimapTextAlign:0
 waypointsMutualEdit:true
 compassLocation:1
-compassScale:1
+compassDirectionScale:0
 caveMapsDepth:30
 hideWaypointCoordinates:false
 renderAllSets:false
@@ -102,7 +103,8 @@ switchToAutoOnDeath:true
 infoDisplayBackgroundOpacity:40
 caveModeToggleTimer:1000
 legibleCaveMaps:false
-displayPacPlayers:true
+biomeBlending:true
+displayTrackedPlayers:true
 displayClaims:true
 displayCurrentClaim:true
 claimsFillOpacity:46
@@ -122,9 +124,9 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-interface:dummy:0:50:true:false:false:false
+interface:dummy:0:0:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:true:false
+interface:gui.xaero_minimap:0:0:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
