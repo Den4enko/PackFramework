@@ -42,7 +42,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "71611088ef4915b6fbf512b14903be5d52ab6e1b15600559fe27b4de53607b67"
+hash = "4528ab70177df563919afdb7f2feeb42c8446c7780b42b6e34835bd6a2a2899f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -79,10 +79,6 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
-
-[[files]]
-file = "config/fml.toml"
-hash = "e38bbcdbe59086a61de3f6a060bc44c7be4117a2001dbb6e49d7db1193386a39"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -122,7 +118,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
-hash = "286f14d28327a4b019d98b4c22cea072fd10566a188bfc4a01052380feb4304a"
+hash = "6ed5df3129189298934175530df48d95c90d933a5baf4dc2e8f6ff9e6533e1d8"
 metafile = true
 
 [[files]]
@@ -139,10 +135,6 @@ metafile = true
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
 hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
 metafile = true
-
-[[files]]
-file = "config/tips.json"
-hash = "21b1e5be83c73f6b87dd918486469a8da1ce9945f92dc1faa4cce70f1f53bbc8"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -235,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
+hash = "30c94ab9f98e98a854c4c193d3d07d390e62de339145c7671db1c98b8863501a"
 metafile = true
 
 [[files]]
@@ -355,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e431c2545125c751c4035125fc998cfcdcdec68aacd1925b1acd707cac4838ac"
+hash = "a18bbccf849dfc65e3af7efafb470cab32c5041958fccecb2e2a8b36898ceba5"
 metafile = true
 
 [[files]]
