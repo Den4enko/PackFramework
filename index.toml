@@ -42,7 +42,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "d5c4c30ff423289c21c7b46870a8031ea1d1c30e62ec084d78bf83ed4bf0c568"
+hash = "77230e1fffb2ceafda5d4cf9374bc5d47b1b9bf383025a98dfdcfdab4786e7fd"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -118,7 +118,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
-hash = "6ed5df3129189298934175530df48d95c90d933a5baf4dc2e8f6ff9e6533e1d8"
+hash = "1018dbffebb8bc27dbd654e34a5f85b6407c54793717d7f98cee8040601f6b8f"
 metafile = true
 
 [[files]]

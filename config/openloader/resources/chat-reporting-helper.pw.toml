@@ -1,6 +1,6 @@
 name = "Chat Reporting Helper"
 filename = "Chat Reporting Helper.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
