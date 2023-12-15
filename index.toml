@@ -42,7 +42,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "4528ab70177df563919afdb7f2feeb42c8446c7780b42b6e34835bd6a2a2899f"
+hash = "d5c4c30ff423289c21c7b46870a8031ea1d1c30e62ec084d78bf83ed4bf0c568"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "c5e0eb782419ba9607f8cc151d2553b6d440feec00a9f443696b2f06009d9145"
+hash = "27281c937160c6f246b87afce7a202893efeffda1c8d353b1e6f18b7539814cb"
 metafile = true
 
 [[files]]
