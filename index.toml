@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelog.txt"
+hash = "da03b5c8a27b4983e40178943b34b1eb09d502fc9b5c537693414acf3efb5ff1"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
@@ -42,7 +46,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "77230e1fffb2ceafda5d4cf9374bc5d47b1b9bf383025a98dfdcfdab4786e7fd"
+hash = "00e4eb65ad1db272760f218d2cc8eb7e973f5bcaedea332c5bbfb924861cc479"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -62,7 +66,7 @@ hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "d265174c8cbe65154c44db1bc470e6b99cf36185a17d0136728e28c89d6b8f7f"
+hash = "7d0e897418b0efad98bb291e867acbef27bcce350332d0c16115cacf37c4e237"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -227,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "30c94ab9f98e98a854c4c193d3d07d390e62de339145c7671db1c98b8863501a"
+hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
@@ -347,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a18bbccf849dfc65e3af7efafb470cab32c5041958fccecb2e2a8b36898ceba5"
+hash = "f597d4145e29c4bea983974ba90476d86ce5ff1b582a0a7ba497aa724f127e96"
 metafile = true
 
 [[files]]

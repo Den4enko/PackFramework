@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Den4enko/PackFramework/forge/1.19.2/CHANGELOG.md

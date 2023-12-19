@@ -188,7 +188,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 293
+  x = 186
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600
@@ -336,5 +336,24 @@ customization {
   alignment = left
   delayappearanceeverytime = false
   height = 12
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"randomtext","values":{"path":"changelog.txt","interval":"0"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  x = 5
+  width = 185
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b16d0fea-c722-40f2-8755-eaa703a635fd1702935907353
+  y = -100
+  alignment = left
+  height = 200
 }
 
