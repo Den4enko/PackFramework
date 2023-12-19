@@ -113,6 +113,10 @@ file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/
 hash = "27850f9adbc86081a0b7852159002365888e4332ba2f390720f566a420e79cac"
 
 [[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/ru_ru.json"
+hash = "75ac335f7d865368ab26ed222dd5aacd143227a400fe8e7e0cc9f0ea6052aab9"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
 hash = "45281b3b43211fd9258d496ca4ff768b976de57e3ee1618c75928a1503f4fe21"
 
@@ -155,6 +159,11 @@ hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a6f55bddc8796f45c475dbb8e94254f678940aff071ae66bd7aa1f6d63b568ba"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
@@ -192,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ea6f10cc2921fa436fc6350c634ef5ff2a991d45cd04c8bb6bd2761d747ed7da"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "35970c4e9444f3f24efbcf48a4179e31d683f4a8d13f8f02c6cdc0024cfc5aef"
 metafile = true
 
 [[files]]
@@ -347,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "ff97b9c874da4ab0a4f9849c5914b0dba697306eb1ac9fb251b75dec876791cc"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "0f16e43e22d02a7b916a2e2d25d378e24edda982d6bfa999ca072d869200c01d"
 metafile = true
 
 [[files]]
