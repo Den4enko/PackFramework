@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
+
+[[files]]
 file = "changelog.txt"
 hash = "da03b5c8a27b4983e40178943b34b1eb09d502fc9b5c537693414acf3efb5ff1"
 
@@ -46,7 +50,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "00e4eb65ad1db272760f218d2cc8eb7e973f5bcaedea332c5bbfb924861cc479"
+hash = "a1af1efe48d36b59f450d31306a90f0a8b265e295c51006c4ad0364a104d652a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -66,15 +70,7 @@ hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "7d0e897418b0efad98bb291e867acbef27bcce350332d0c16115cacf37c4e237"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
+hash = "5f44b5c92b5232935913cf3200140423a12bb1742a8d716fda69101db9952032"
 
 [[files]]
 file = "config/fancymenu/resources/background.jpg"
@@ -83,10 +79,6 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "3e5a526c616a7821efe456c984ecdda682623435b25a05a77dfb84bc80bef60b"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -111,10 +103,6 @@ hash = "7755f3e388850e4573a13c348b1c6888df0c8711046c84e7e31b4d9b51aa21f6"
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/uk_ua.json"
 hash = "27850f9adbc86081a0b7852159002365888e4332ba2f390720f566a420e79cac"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/ru_ru.json"
-hash = "75ac335f7d865368ab26ed222dd5aacd143227a400fe8e7e0cc9f0ea6052aab9"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
@@ -159,11 +147,6 @@ hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "a6f55bddc8796f45c475dbb8e94254f678940aff071ae66bd7aa1f6d63b568ba"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
@@ -204,11 +187,6 @@ hash = "ea6f10cc2921fa436fc6350c634ef5ff2a991d45cd04c8bb6bd2761d747ed7da"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "35970c4e9444f3f24efbcf48a4179e31d683f4a8d13f8f02c6cdc0024cfc5aef"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
@@ -226,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
 metafile = true
 
 [[files]]
@@ -261,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
-metafile = true
-
-[[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
 metafile = true
 
 [[files]]
@@ -320,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2f53e2c4d5cc58a7fd32d613a80911c6c77924e03608ffffdce05f9eae62b951"
+hash = "f2661863f92abd955bce27312e01370cfa60d18372651ed1d1eabf0994860115"
 metafile = true
 
 [[files]]
@@ -361,11 +339,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "ff97b9c874da4ab0a4f9849c5914b0dba697306eb1ac9fb251b75dec876791cc"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "0f16e43e22d02a7b916a2e2d25d378e24edda982d6bfa999ca072d869200c01d"
 metafile = true
 
 [[files]]
