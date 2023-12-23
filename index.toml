@@ -50,7 +50,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "a1af1efe48d36b59f450d31306a90f0a8b265e295c51006c4ad0364a104d652a"
+hash = "bb38ab37c2005ab5e6083ec3b2788d57a4fa1ae54082aa097d32a61510986ab6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -152,11 +152,6 @@ hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "3372921977ea77a9c5a5cedab1c883cdc20c4980f03811208e8d9b540a7b703a"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "a1a25f1d4594d7cbfa676524f7fb90d15118e4f58c353f90701169688f23b30c"
 metafile = true
@@ -174,11 +169,6 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "f123a2b4bae7be86d7bc6c4f6cfb30d914991558cd744b3b3c561088848ae416"
-metafile = true
-
-[[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
 metafile = true
 
 [[files]]
@@ -208,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
+hash = "8e886eb68cdc1883b8900ca4eea722bff63fff0c9f4ec00900bde1bee6c2afcf"
 metafile = true
 
 [[files]]
@@ -238,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "7d6bd464c3ec36737bd0f97c673b3bc8221f42fb2e7916af674866431c0aa1bc"
+hash = "ec7014ad0aba875229c5a139c22418c1315b1e82d8c511687534f90c0196df18"
 metafile = true
 
 [[files]]
@@ -327,6 +317,11 @@ hash = "954c1b5e2a9f16c08027875d6ee536058e617f644e7ed0f83915b4a504015364"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "6aacd4f06454a094fa1478b212ca3287c9a41c5596354fd93fdd547f7920921a"
 metafile = true
@@ -348,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
+hash = "8542cd1308fa725d529cd3d18379703258742837e65b32feba44863deea6b8c2"
 metafile = true
 
 [[files]]

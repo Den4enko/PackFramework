@@ -1,6 +1,6 @@
 name = "Smooth Boot (Reloaded)"
 filename = "smoothboot(reloaded)-mc1.19.2-0.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
