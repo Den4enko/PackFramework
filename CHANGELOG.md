@@ -1,5 +1,11 @@
 # PackFramework Changelog:
 
+### 2.4.1:
+- Added Pluto
+
+- Removed Better chunk
+loading, Chunk Sending
+
 ### 2.4:
 - Added CustomSkinLoader
 
