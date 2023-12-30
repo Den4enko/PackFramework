@@ -50,7 +50,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "bb38ab37c2005ab5e6083ec3b2788d57a4fa1ae54082aa097d32a61510986ab6"
+hash = "b8623bdea562d1760adeaf793803816f7e25db336549ae5e72c3bcc002695bf0"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
+hash = "ced7e5a48b680016a0aa6644c6ac5bd1face190a51e0e14bde08cbd8f36ac4b5"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7f38aea75b5362ab81226e2780ce71face9259877b4bf2207a02e0c11e823795"
+hash = "5b1b66ad0aa58f1721f59884c3113b921f827fa924f299eedc65ab5aaf82cf34"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2661863f92abd955bce27312e01370cfa60d18372651ed1d1eabf0994860115"
+hash = "710975d27cc68e448e010aa2c26a6b3294fc539cc74a7ff6ab5eba1c04f95ae0"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "27281c937160c6f246b87afce7a202893efeffda1c8d353b1e6f18b7539814cb"
+hash = "4ff2c897f7e25fb40a1414ea4a9bfec475b4d8562c0d8e7716e1c17abe472711"
 metafile = true
 
 [[files]]

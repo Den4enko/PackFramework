@@ -1,5 +1,10 @@
 # PackFramework Changelog:
 
+### 2.4.2:
+- Updated Canary,
+Embeddium, ModernFix,
+Saturn
+
 ### 2.4.1:
 - Added Pluto
 
