@@ -1,5 +1,11 @@
 # PackFramework Changelog:
 
+### 2.4.3:
+- Updated Forge to 43.3.7
+
+- Updated Canary, Smooth
+Boot
+
 ### 2.4.2:
 - Updated Canary,
 Embeddium, ModernFix,

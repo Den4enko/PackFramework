@@ -50,7 +50,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "b8623bdea562d1760adeaf793803816f7e25db336549ae5e72c3bcc002695bf0"
+hash = "412ff0fed4cf1bfef2df9e391093e3b3d251d2ae66b406aa0cea1c63468a1fe3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "ced7e5a48b680016a0aa6644c6ac5bd1face190a51e0e14bde08cbd8f36ac4b5"
+hash = "56f4081cefa864a94f9d272bc7588602fc7feae0c4b8c21442cc0bc94bec14d2"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "8542cd1308fa725d529cd3d18379703258742837e65b32feba44863deea6b8c2"
+hash = "6fd9e6e75a7708f0f10d2f68cbbb4bee1297a0d074a15d302664442445074901"
 metafile = true
 
 [[files]]
