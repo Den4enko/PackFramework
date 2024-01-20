@@ -1,5 +1,10 @@
 # PackFramework Changelog:
 
+### 2.4.4:
+- Updated Canary, Embeddium,
+FancyMenu, Konkrete,
+ModernFix, Saturn
+
 ### 2.4.3:
 - Updated Forge to 43.3.7
 
