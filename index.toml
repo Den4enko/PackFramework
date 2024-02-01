@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
 
 [[files]]
-file = "changelog.txt"
-hash = "da03b5c8a27b4983e40178943b34b1eb09d502fc9b5c537693414acf3efb5ff1"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
@@ -33,8 +29,32 @@ file = "config/defaultoptions/options.txt"
 hash = "3d3f5d8286fa125fc5ad32d1558869208404a764b4cbad12e71e982e90b0a06b"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "727fb4607e3e0080d4765592bca3a7931be886f811636f37ab698968b257ee06"
+file = "config/fancymenu/assets/background.jpg"
+hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
+
+[[files]]
+file = "config/fancymenu/assets/changelog.md"
+hash = "f99523260d1f360908525139708a080868e377463ca3bd5ab99371010cde7a69"
+
+[[files]]
+file = "config/fancymenu/assets/icon.icns"
+hash = "4bcdc38c959754fb32d664bbce1b8f778c2300b37c4c8b6d5125b5b4f87bb40e"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
+
+[[files]]
+file = "config/fancymenu/assets/pointer.png"
+hash = "84931fc04a45de9f45f8aa1acfe794d130aeb8c6fc971a8c906532b07b91e9c6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
@@ -50,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "77b079d46fc2814cdb7542d528ff4ad8e8797d2dafeef2eab0a39dc4284bd4e4"
+hash = "9e0875d6cbeb77378d3064d5e40c7fe50f78da1149f39cae5c4ee8c0aab55f0c"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -62,23 +82,23 @@ hash = "8b8d63ecc8fdd9e5a755644c2532acad534b6f4a41144b2ea977857d625f6a72"
 
 [[files]]
 file = "config/fancymenu/customization/boot_screen.txt"
-hash = "cd2af84bb147aaad0a27d45b244703fcf034d333d877e886591d2021617c2ea9"
+hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
+hash = "399719a53b8423e646e791bc85fc3b76b67f32190d4586b89aa4698be9ca16b0"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "5f44b5c92b5232935913cf3200140423a12bb1742a8d716fda69101db9952032"
+hash = "2ef4953aa7a7a1176f5dbc86f7a0ad1ca7403fd47c6021fae30c9c917429a73e"
 
 [[files]]
-file = "config/fancymenu/resources/background.jpg"
-hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
-file = "config/fancymenu/resources/logo.png"
-hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
+file = "config/fancymenu/options.txt"
+hash = "ab22af53376e63aafa9aaf776c3ed241f441727fc7b74b13126dd810266441c3"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -193,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
+hash = "278f53824f79ac545293d8fc3e73742a1a3f9d72cb708e48b598b523bc037df2"
 metafile = true
 
 [[files]]
@@ -208,12 +228,12 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "9cff4484dca7e645259a1ac594c60c91536ba24143ac2596d6bcf937da1f4b97"
+hash = "da6c4843cedb09efc2fc1a21a805c6efbc7806ff219c28d6152e28888eca4251"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "aa340658dd003d748129140e057204aec3b4e75c48516d8ca44d92edbb70ad1d"
+hash = "d4297bb7880139d087d25160fb0633a634fed494bc2065684b8cbc9dd9920531"
 metafile = true
 
 [[files]]
@@ -223,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "8056593b8a64206e7a975fa2a88c8e5e59f84d9206f09f4b8c45b8a61f7683c6"
+hash = "0eb62f1e93895127926a50be2ca7e1205efaaf1fae3229a21eed80b3343f3321"
 metafile = true
 
 [[files]]
@@ -279,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
 metafile = true
 
 [[files]]
@@ -338,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f597d4145e29c4bea983974ba90476d86ce5ff1b582a0a7ba497aa724f127e96"
+hash = "a04c73b23eba49fef3f5d487605426692fd74f36c50b7335ea2da501100083ae"
 metafile = true
 
 [[files]]
@@ -368,12 +393,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f66e5f6ec4db6eb852ff29dcad2f81c36448e72e030b0093718c79629439aa82"
+hash = "9a1d33793cdbc8d50cda96c0b18d66a86386af14af5d90a701cbd8abc86957c9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "db7b91acddea7ea8e2550480ef7ee5b4599d9de6c50c10ee9309d15a756e4f3a"
+hash = "ee67e8558e1fb9b52fe1489731f0a746c9f175ba701eb9c87cb9cb7482435e59"
 metafile = true
 
 [[files]]
