@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "f99523260d1f360908525139708a080868e377463ca3bd5ab99371010cde7a69"
+hash = "456e7c49bffde9a8e27a9d33f79ca6c6caebc517123f60216340d63be59e0942"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -53,10 +53,6 @@ file = "config/fancymenu/assets/logo.png"
 hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
 
 [[files]]
-file = "config/fancymenu/assets/pointer.png"
-hash = "84931fc04a45de9f45f8aa1acfe794d130aeb8c6fc971a8c906532b07b91e9c6"
-
-[[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
 hash = "381460e7b402c3dcc551ad219d6a59554ee61d89355ca8c6495495545c1134b8"
 
@@ -70,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "9e0875d6cbeb77378d3064d5e40c7fe50f78da1149f39cae5c4ee8c0aab55f0c"
+hash = "c11a736088eb2a748c1fd24c39ff4a91020b7a781bd240452909eade8277226c"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -86,7 +82,7 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "399719a53b8423e646e791bc85fc3b76b67f32190d4586b89aa4698be9ca16b0"
+hash = "3a34812c7753224a4f5b77de868e22ca4d166edd93abec9da047295e46802ca8"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -149,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
-hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
+hash = "e7b21b10f431b46356c5c4dbaffb4dd5598024de7a5514ed1c232d2a5ee04dae"
 metafile = true
 
 [[files]]
@@ -313,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cdf4086807948056bc41b09f08fd49f891ae9389b267d0da5d039532a58cc1a6"
+hash = "6cea21f9b252211e03a127b50767583c3c40a070690647d5f5b6b5500b884935"
 metafile = true
 
 [[files]]
