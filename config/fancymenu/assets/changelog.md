@@ -1,5 +1,9 @@
 ## Changelog:
 
+### 2.5.1:
+- Fixed ingame_menu layout
+- Updated ModernFix, Translations for Sodium
+
 ### 2.5:
 - Updated FancyMenu layouts to support 3.x
 - Added Melody
