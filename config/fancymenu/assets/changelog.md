@@ -1,5 +1,9 @@
 ## Changelog:
 
+### 2.5.2:
+- Added CullLessLeaves Reforged, ImmediatelyFast, Lightspeed, Redirector
+- Updated FancyMenu
+
 ### 2.5.1:
 - Fixed ingame_menu layout
 - Updated ModernFix, Translations for Sodium

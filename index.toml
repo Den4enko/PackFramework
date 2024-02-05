@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "654e595010b28cbbdeae52bb65ee706b5f1d9975abfcf6d1ca12059b1b322dd9"
+hash = "b68d4546c3eda60fd1f39745660b144bb137ddb5740a9af70071c0aa4539d677"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -66,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "c11a736088eb2a748c1fd24c39ff4a91020b7a781bd240452909eade8277226c"
+hash = "fb6a065fc3f6630e9be17f3ffe4818461626638ccc17d80edf89610a0f5f37a5"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
-hash = "e7b21b10f431b46356c5c4dbaffb4dd5598024de7a5514ed1c232d2a5ee04dae"
+hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
 metafile = true
 
 [[files]]
@@ -208,6 +208,11 @@ hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
 metafile = true
 
 [[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "889dac3fb26bf19b833bc7945083e17281fb685aad20e479e6e8bd29e8efd6d2"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "278f53824f79ac545293d8fc3e73742a1a3f9d72cb708e48b598b523bc037df2"
 metafile = true
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "0eb62f1e93895127926a50be2ca7e1205efaaf1fae3229a21eed80b3343f3321"
+hash = "68b8767546467195743ccee30c4eeffad6fa393de205cb0aa1d2b93dc48d67cf"
 metafile = true
 
 [[files]]
@@ -260,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c8b8d033c2cdd69fb4af2b147ab5c49ebd8d1d73d19e1d6f40bc39f5b50f1d12"
 metafile = true
 
 [[files]]
@@ -295,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "d308f0f91308b10004a83aa73b22095128ca8bb32603a3f9c50d0b983e6add31"
 metafile = true
 
 [[files]]
@@ -340,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
 metafile = true
 
 [[files]]
