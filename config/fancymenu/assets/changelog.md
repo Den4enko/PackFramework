@@ -1,5 +1,9 @@
 ## Changelog:
 
+### 2.5.3:
+- Updated Forge to 43.3.8
+- Updated Better Fps - Render Distance, Canary, Drippy Loading Screen, Embeddium, FancyMenu, Just Enough Items, Placebo, Saturn, Simple Voice Chat
+
 ### 2.5.2:
 - Added CullLessLeaves Reforged, ImmediatelyFast, Lightspeed, Redirector
 - Updated FancyMenu

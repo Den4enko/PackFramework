@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "b68d4546c3eda60fd1f39745660b144bb137ddb5740a9af70071c0aa4539d677"
+hash = "7eb05ff77cbef5c047a4d1e3381228f9a4db2e142409c24622c24588eb3ea390"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -66,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "fb6a065fc3f6630e9be17f3ffe4818461626638ccc17d80edf89610a0f5f37a5"
+hash = "7536ac93b6c3fcd28f9949a68fec1e9caebb2c2016b2471458d4ea39c83fea45"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "a1a25f1d4594d7cbfa676524f7fb90d15118e4f58c353f90701169688f23b30c"
+hash = "fe70f05a9a999e7acbe00d1033a198725e41984516c39eb10ce623aa34e44aa2"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "08c98e19598c4c6f78cb0fa48f3dfa3c51213e9834392996d88f32880c809031"
+hash = "5ac82b3b4a39fbab4255daff457d85787c09f32b01bbfeac5cf4aa2234b2164a"
 metafile = true
 
 [[files]]
@@ -229,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "da6c4843cedb09efc2fc1a21a805c6efbc7806ff219c28d6152e28888eca4251"
+hash = "11fc1debfa0bf88d7b57d8bc45cb3081360e19ea37e1bfcbb9765d9a887daa4d"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d4297bb7880139d087d25160fb0633a634fed494bc2065684b8cbc9dd9920531"
+hash = "211e3f601646fba540fcf0820f60ded3c27198fc5b4fc48491bcc88bb8255b55"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "68b8767546467195743ccee30c4eeffad6fa393de205cb0aa1d2b93dc48d67cf"
+hash = "8e6b2d2d17d9c4afaffda14a05159df1dab28f899969a80ac5806f328966236d"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
+hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "954c1b5e2a9f16c08027875d6ee536058e617f644e7ed0f83915b4a504015364"
+hash = "0948b9f7c5cdb975abe86eb1567414e7c4a7b94529f2ff443bdf827f9eb58ffb"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "a4515fde53767771712eee4d94099fa60d6c6ef81405e615398a22ad2ce85e4c"
+hash = "e20c56c0d78a30bb3cab66ddab12e5524652162e4284df52c2ee5dfef17dac64"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a04c73b23eba49fef3f5d487605426692fd74f36c50b7335ea2da501100083ae"
+hash = "e0850197d44012a3cf3a32c237fef577236ca2ebc9edaffc32ceb04d143a029d"
 metafile = true
 
 [[files]]
