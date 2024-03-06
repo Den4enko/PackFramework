@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "7eb05ff77cbef5c047a4d1e3381228f9a4db2e142409c24622c24588eb3ea390"
+hash = "babe898b05ce7557bd004d1065daf192d6866cc7bb421e94450e11ed778f68e5"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -66,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "7536ac93b6c3fcd28f9949a68fec1e9caebb2c2016b2471458d4ea39c83fea45"
+hash = "5e63c8ef813d0a91caf5a0c435e578d4eaaba09974be36cd6f764e7f15ded954"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "278f53824f79ac545293d8fc3e73742a1a3f9d72cb708e48b598b523bc037df2"
+hash = "a680b66c15666ba78e4d83655316f82fa281df8213ff507664ac377356bbaa25"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "211e3f601646fba540fcf0820f60ded3c27198fc5b4fc48491bcc88bb8255b55"
+hash = "c7f94b8dda59a0acebedede6056f8ff8d105ebd797097c8fbc401e12f96031a6"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "8e6b2d2d17d9c4afaffda14a05159df1dab28f899969a80ac5806f328966236d"
+hash = "bb4a92ebdbfeec126e798ec84bdaf553b6c7b8c106db0cc48a41862f7ac5eb14"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6cea21f9b252211e03a127b50767583c3c40a070690647d5f5b6b5500b884935"
+hash = "7d41e05562fe72ad5c37e2853cb5d98f18580a08b212523d37a4ac379bf26617"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e0850197d44012a3cf3a32c237fef577236ca2ebc9edaffc32ceb04d143a029d"
+hash = "32f844c28e3bbd94a8537640db2a6a65806568323f625401840c8839b041e9b9"
 metafile = true
 
 [[files]]
