@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "babe898b05ce7557bd004d1065daf192d6866cc7bb421e94450e11ed778f68e5"
+hash = "583c18b6b847026518a7c238008ed73446df74bedc341108caf4b0ac8ecb7c13"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -66,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5e63c8ef813d0a91caf5a0c435e578d4eaaba09974be36cd6f764e7f15ded954"
+hash = "1c4e898d463caba13cae1879fbf8ba14581b0b46e46fe6972482d25df69bdb39"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
+hash = "385f69fd067848088bb1c7ac4689d19baf034dae29bb637cd21cf81994cfd1fd"
 metafile = true
 
 [[files]]

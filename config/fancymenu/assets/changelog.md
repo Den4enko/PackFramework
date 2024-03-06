@@ -1,4 +1,7 @@
-## Changelog:
+## CHANGELOG:
+
+### 2.5.5:
+- Fix melody mod side
 
 ### 2.5.4:
 - Updated Cupboard, Embeddium, FancyMenu, ModernFix, Simple Voice Chat
