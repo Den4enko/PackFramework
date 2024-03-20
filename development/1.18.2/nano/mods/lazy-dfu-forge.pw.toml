@@ -1,0 +1,6 @@
+name = "Lazy DataFixerUpper(LazyDFU)"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 460819

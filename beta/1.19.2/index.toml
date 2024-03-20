@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "583c18b6b847026518a7c238008ed73446df74bedc341108caf4b0ac8ecb7c13"
+hash = "fff93ce7a48c84fe74ef510f997d6847f4b46af3d79871802a91e0de89e2acfe"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -82,11 +82,11 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "3a34812c7753224a4f5b77de868e22ca4d166edd93abec9da047295e46802ca8"
+hash = "62dda0f97073d9568993e7837f3b3990c2cf3792b9ef574d2daf3ceb36df3e20"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "2ef4953aa7a7a1176f5dbc86f7a0ad1ca7403fd47c6021fae30c9c917429a73e"
+hash = "1063ceb22943bb2060ab2cb883ddee8bf5e4d06e636d4ad65dc30d18a82b0e94"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -94,7 +94,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "ab22af53376e63aafa9aaf776c3ed241f441727fc7b74b13126dd810266441c3"
+hash = "52a3ebc3f286c0e7524fc951632ff4ac2d655a0ff1b6562e2df527b02dce5fb5"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -147,6 +147,10 @@ metafile = true
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
 hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
 metafile = true
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"

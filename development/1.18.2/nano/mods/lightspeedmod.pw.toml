@@ -1,0 +1,6 @@
+name = "Lightspeed"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 821790

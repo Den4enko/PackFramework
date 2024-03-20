@@ -14,4 +14,3 @@ cd beta\1.19.2
 packwiz refresh > nul
 packwiz update --all -y > nul
 echo [%time%] Done!
-@pause
