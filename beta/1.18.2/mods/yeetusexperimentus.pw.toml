@@ -1,0 +1,13 @@
+name = "Yeetus Experimentus"
+filename = "yeetusexperimentus-1.0.2-build.7+mc1.18.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bf4042c35ebed6a4aa65f90ef48800b4bb2b3550"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377180
+project-id = 635427
