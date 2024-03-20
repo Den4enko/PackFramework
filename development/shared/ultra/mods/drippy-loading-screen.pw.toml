@@ -1,0 +1,6 @@
+name = "Drippy Loading Screen"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 511770

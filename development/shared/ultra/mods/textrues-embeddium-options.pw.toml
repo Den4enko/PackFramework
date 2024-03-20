@@ -1,0 +1,6 @@
+name = "TexTrue's Embeddium Options"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 910506

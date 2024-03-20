@@ -1,0 +1,6 @@
+name = "Client Tweaks"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 251407

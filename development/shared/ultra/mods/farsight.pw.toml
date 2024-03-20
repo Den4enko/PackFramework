@@ -1,0 +1,6 @@
+name = "Farsight [Forge]"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 495693

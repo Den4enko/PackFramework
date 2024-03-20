@@ -1,0 +1,6 @@
+name = "Screenshot to Clipboard (Forge)"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 326950

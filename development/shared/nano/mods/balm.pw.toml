@@ -1,0 +1,6 @@
+name = "Balm"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 531761
