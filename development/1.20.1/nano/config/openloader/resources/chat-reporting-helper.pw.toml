@@ -1,0 +1,7 @@
+name = "Chat Reporting Helper"
+filename = "Chat Reporting Helper.zip"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 855981

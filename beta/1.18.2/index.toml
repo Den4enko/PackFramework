@@ -70,7 +70,7 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "62dda0f97073d9568993e7837f3b3990c2cf3792b9ef574d2daf3ceb36df3e20"
+hash = "fd92d5c6a0c9021dafbba6916bff03c8d3416a1ff3b523f77031c2eee6cd6617"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -118,7 +118,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/customrussianforminecraft.pw.toml"
-hash = "f26a2ab5b59f7a0fa031ab6fe47436e3f69cf3a385694e36dd7c49dd6d7c5140"
+hash = "5e38cdacbfc8394b707e32df264c6c0343110e5862ca4be583f47908510d8080"
 metafile = true
 
 [[files]]
@@ -267,17 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a5c4fb25c5c24fb7dab81694549f264cc9abbb97055c39381dd94024c1df1462"
-metafile = true
-
-[[files]]
-file = "mods/no-unused-chunks.pw.toml"
-hash = "f11dc573067dbfdfe2900ae86ad74a7736765d7ee806a6b41e625c77884cc7dc"
 metafile = true
 
 [[files]]

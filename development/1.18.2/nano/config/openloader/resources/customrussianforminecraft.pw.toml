@@ -1,5 +1,6 @@
 name = "CustomRussianForMinecraft"
 filename = "CustomRussianForMinecraft.1.18.zip"
+side = "client"
 
 [download]
 url = "https://github.com/Den4enko/CustomRussianForMinecraft/releases/latest/download/CustomRussianForMinecraft.1.18.zip"

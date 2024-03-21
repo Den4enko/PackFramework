@@ -82,7 +82,7 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "62dda0f97073d9568993e7837f3b3990c2cf3792b9ef574d2daf3ceb36df3e20"
+hash = "fd92d5c6a0c9021dafbba6916bff03c8d3416a1ff3b523f77031c2eee6cd6617"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -147,10 +147,6 @@ metafile = true
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
 hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
 metafile = true
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -289,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
@@ -300,11 +296,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
-metafile = true
-
-[[files]]
-file = "mods/no-unused-chunks.pw.toml"
-hash = "5f3e885cb4279877a91a7450259d90aa7dba2e27b89b5c50cfc2a9f22acafa33"
 metafile = true
 
 [[files]]

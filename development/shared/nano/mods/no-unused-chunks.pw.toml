@@ -1,6 +1,0 @@
-name = "No Unused Chunks"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 645755

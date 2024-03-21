@@ -1,6 +1,6 @@
-name = "MemoryLeakFix"
+name = "Memory Leak Fix"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 627566
+[update.modrinth]
+mod-id = "NRjRiSSD"

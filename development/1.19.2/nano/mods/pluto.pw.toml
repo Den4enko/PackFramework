@@ -1,0 +1,6 @@
+name = "Pluto"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 682881
