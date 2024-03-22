@@ -4,7 +4,7 @@
 
 PackFramework is a modular, performance-minded Minecraft modpack designed to facilitate the creation of custom modpacks. Accelerate your Minecraft modpack development with PackFramework. This packwiz-powered modpack offers a carefully curated collection of optimization mods for a smoother experience along with essential utility mods to expand your graphics.
 
-#### Key Features
+### Key Features
 
 * **Two Variants:**
   
@@ -21,12 +21,12 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
   
   *Quilt and Fabric. NeoForge and Forge
 
-#### Important Notes
+### Important Notes
 
 * **Not for Vanilla:** PackFramework is designed for use with other modpacks. It is not so good to play vanilla Minecraft with it, I suggest you to use [FabulouslyOptimised](https://download.fo/).
 * **Customization Focused:** PackFramework is intended for developers and players who enjoy building their own unique modpack experiences.
 
-#### Version Support
+### Version Support
 
 | MC Version⬇️ | Quilt | Fabric | NeoForge | Forge |
 | ------------ |:-----:|:------:|:--------:|:-----:|
@@ -36,6 +36,6 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 
 ✅ - actively supported. ❌ - is not supported. 🟥 - no longer supported. 🟨 - coming soon. ❓- may be supported.
 
-#### Downloads
+### Downloads
 
 
