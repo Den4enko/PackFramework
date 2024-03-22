@@ -1,6 +1,6 @@
 <img title="" src="https://raw.githubusercontent.com/Den4enko/PackFramework/meta/logo.svg" alt="" width="128" height="128" data-align="center" style="zoom:150%;">
 
-##### [ [Homepage](https://den4enko.github.io/)|[Webpage](https://den4enko.github.io/posts/PackFramework/)|[Download](https://github.com/Den4enko/PackFramework?tab=readme-ov-file#downloads) ]
+### [ [Homepage](https://den4enko.github.io/)|[Webpage](https://den4enko.github.io/posts/PackFramework/)|[Download](https://github.com/Den4enko/PackFramework?tab=readme-ov-file#downloads) ]
 
 PackFramework is a modular, performance-minded Minecraft modpack designed to facilitate the creation of custom modpacks. Accelerate your Minecraft modpack development with PackFramework. This packwiz-powered modpack offers a carefully curated collection of optimization mods for a smoother experience along with essential utility mods to expand your graphics.
 
@@ -20,7 +20,8 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
   * Easily create your own modpacks with automated scripts for PackFramework based development
   
   *Quilt and Fabric. NeoForge and Forge
-### Important Notes
+  
+  ### Important Notes
 
 * **Not for Vanilla:** PackFramework is designed for use with other modpacks. It is not so good to play vanilla Minecraft with it, I suggest you to use [FabulouslyOptimised](https://download.fo/).
 
