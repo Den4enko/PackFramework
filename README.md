@@ -1,6 +1,6 @@
 <img title="" src="https://raw.githubusercontent.com/Den4enko/PackFramework/meta/logo.svg" alt="" width="128" height="128" data-align="center" style="zoom:150%;">
 
-##### [ [Homepage](https://den4enko.github.io/)|[Webpage](https://den4enko.github.io/posts/PackFramework/)|[Download]() ]
+##### [ [Homepage](https://den4enko.github.io/)|[Webpage](https://den4enko.github.io/posts/PackFramework/)|[Download](https://github.com/Den4enko/PackFramework?tab=readme-ov-file#downloads) ]
 
 PackFramework is a modular, performance-minded Minecraft modpack designed to facilitate the creation of custom modpacks. Accelerate your Minecraft modpack development with PackFramework. This packwiz-powered modpack offers a carefully curated collection of optimization mods for a smoother experience along with essential utility mods to expand your graphics.
 
