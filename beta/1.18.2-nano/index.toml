@@ -66,7 +66,7 @@ hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "fd92d5c6a0c9021dafbba6916bff03c8d3416a1ff3b523f77031c2eee6cd6617"
+hash = "8f6fa5cdd750f82e0a10dbbff2393072990291b9d3e0db0cec5b6efec6de20c9"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+hash = "9578c3ad896fdd21eacbd299bbf1982a3fcaf9b635ffc3ae1e06a4cf4e3e3353"
 metafile = true
 
 [[files]]

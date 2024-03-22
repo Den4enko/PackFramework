@@ -219,6 +219,11 @@ hash = "4dca4237863144e4f09dbc62d8f9e952521fc34c5b205397a158a841461d8c72"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "c19d66b430beced58b863b5e5ece46fbbaba134373883fd762b52ea12994d5ca"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "11fc1debfa0bf88d7b57d8bc45cb3081360e19ea37e1bfcbb9765d9a887daa4d"
 metafile = true
@@ -236,11 +241,6 @@ metafile = true
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "bb4a92ebdbfeec126e798ec84bdaf553b6c7b8c106db0cc48a41862f7ac5eb14"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "ec7014ad0aba875229c5a139c22418c1315b1e82d8c511687534f90c0196df18"
 metafile = true
 
 [[files]]

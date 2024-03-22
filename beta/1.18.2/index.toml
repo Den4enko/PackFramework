@@ -70,7 +70,7 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "fd92d5c6a0c9021dafbba6916bff03c8d3416a1ff3b523f77031c2eee6cd6617"
+hash = "8f6fa5cdd750f82e0a10dbbff2393072990291b9d3e0db0cec5b6efec6de20c9"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -206,6 +206,11 @@ hash = "c63b81582f3736feaba3be9d9229e8a27c27d1a7b6dcdceffdd09345319a0fbc"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "94ecdf756d9916c01226f0ef111592555b65767578433bd8238e30755353eac1"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "0ab9d95bc14c4ab8a166766afc2a64f0b458171f0d8d430d4b27ed399caaba47"
 metafile = true
@@ -223,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "1c4536258b77787ff05d6552d042918a59bb32bfb36d78780555e16e51a8be8e"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+hash = "9578c3ad896fdd21eacbd299bbf1982a3fcaf9b635ffc3ae1e06a4cf4e3e3353"
 metafile = true
 
 [[files]]
