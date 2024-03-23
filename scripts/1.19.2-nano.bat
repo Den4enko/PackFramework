@@ -7,6 +7,9 @@ rmdir beta\1.19.2-nano\ /s /q
 echo [%time%] Merging...
 xcopy development\shared\nano\*.* beta\1.19.2-nano\ /e /Q > nul
 xcopy development\1.19.2\nano\*.* beta\1.19.2-nano\ /e /y /Q > nul
+:: Copy Changelog
+echo [%time%] Copying Changelog...
+copy CHANGELOG.md beta\1.19.2-nano\config\fancymenu\assets\changelog.md > nul
 :: Update
 echo [%time%] Updating...
 cd beta\1.19.2-nano

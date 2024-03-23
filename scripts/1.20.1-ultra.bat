@@ -8,6 +8,9 @@ echo [%time%] Merging...
 xcopy development\shared\nano\*.* beta\1.20.1\ /e /Q > nul
 xcopy development\shared\ultra\*.* beta\1.20.1\ /e /y /Q > nul
 xcopy development\1.20.1\nano\*.* beta\1.20.1\ /e /y /Q > nul
+:: Copy Changelog
+echo [%time%] Copying Changelog...
+copy CHANGELOG.md beta\1.20.1\config\fancymenu\assets\changelog.md > nul
 :: Update
 echo [%time%] Updating...
 cd beta\1.20.1

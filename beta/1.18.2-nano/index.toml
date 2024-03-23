@@ -22,7 +22,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "fff93ce7a48c84fe74ef510f997d6847f4b46af3d79871802a91e0de89e2acfe"
+hash = "2b6643e32141a8f27d140318092af2df60c7e61376f381b72b772fbe6501ee19"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -54,7 +54,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "84004395e52df7ef1cbd90f148982ba5b7167b2b2a9ea427e03ebea960c56398"
+hash = "623443dd80c641b22c5ce0ff59d61487ea5e2bdd5dd6482fd524e0c777fc2ddf"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -70,7 +70,7 @@ hash = "8f6fa5cdd750f82e0a10dbbff2393072990291b9d3e0db0cec5b6efec6de20c9"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "1063ceb22943bb2060ab2cb883ddee8bf5e4d06e636d4ad65dc30d18a82b0e94"
+hash = "7bbf5f6e8ee1be247024831f7af5bd9efea6ac3d41ec03d553c89eab8a3606c0"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a5c4fb25c5c24fb7dab81694549f264cc9abbb97055c39381dd94024c1df1462"
+hash = "c66b9615a36ecd3dcb5c07c8bf4afe31aafd681447541972c60d208b5f5749b2"
 metafile = true
 
 [[files]]
