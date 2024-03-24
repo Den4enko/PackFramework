@@ -82,7 +82,7 @@ hash = "3e79a3822e4abcdec021e839a2a1c65b7193c7d26c093a6b3e36f01452771080"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "4e3fbb074fec762a1a4618fd1d4a41e232847f88ea8466e24dab9356b2fc82da"
+hash = "a2f426ec2dc20670ef7801193ce66f7240b1c9c25957f091730303dcd5ab6897"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -266,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "bcf9f336a85a0c6d2da5788a3ea1694e977090c5a765df90770692526aceb5d1"
 metafile = true
 
 [[files]]

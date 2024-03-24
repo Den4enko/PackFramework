@@ -1,6 +1,6 @@
 name = "PackFramework 1.19.2"
 author = "Den4enko"
-version = "2.6"
+version = "v1"
 pack-format = "packwiz:1.1.0"
 
 [index]

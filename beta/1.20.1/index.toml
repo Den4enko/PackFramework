@@ -86,7 +86,7 @@ hash = "3e79a3822e4abcdec021e839a2a1c65b7193c7d26c093a6b3e36f01452771080"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "4e3fbb074fec762a1a4618fd1d4a41e232847f88ea8466e24dab9356b2fc82da"
+hash = "a2f426ec2dc20670ef7801193ce66f7240b1c9c25957f091730303dcd5ab6897"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -243,8 +243,18 @@ hash = "650ea4d8cb50eeb88be3d3c61f120d5a9565b7a580abdf37b1b611331f3816ae"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f01df0e97d136b72ca54b9eaacbdb9adcdadc9bb6cc6d6b80a045e5a99bf5f95"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "6aa429945fb3ea2a28187e1fcf0523ebde2adf2c81edcf069d5a2edf21f9273b"
 metafile = true
 
 [[files]]
@@ -295,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "bcf9f336a85a0c6d2da5788a3ea1694e977090c5a765df90770692526aceb5d1"
 metafile = true
 
 [[files]]
