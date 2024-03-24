@@ -86,7 +86,7 @@ hash = "fd92d5c6a0c9021dafbba6916bff03c8d3416a1ff3b523f77031c2eee6cd6617"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "7bbf5f6e8ee1be247024831f7af5bd9efea6ac3d41ec03d553c89eab8a3606c0"
+hash = "4e3fbb074fec762a1a4618fd1d4a41e232847f88ea8466e24dab9356b2fc82da"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -149,6 +149,10 @@ hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
 metafile = true
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "2753d7377b7d6bc8133ec0a0324e1d8e01a625db986cb73d5731ee40cdbb1493"
 metafile = true
@@ -156,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e0eb14d85b291c8b5648824b4c80d8837b853a473ea304d9e7e1428e9f0121ec"
 metafile = true
 
 [[files]]
@@ -244,8 +253,8 @@ hash = "bb4a92ebdbfeec126e798ec84bdaf553b6c7b8c106db0cc48a41862f7ac5eb14"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
+file = "mods/fast-ip-ping.pw.toml"
+hash = "1deaf3d9466d86ba00d98530ca17c8ce6fff39bfd3d879dcf05889f4fece46f1"
 metafile = true
 
 [[files]]
@@ -271,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "651e7efb87a51f57e1109e76ee3e2f20c43ca0e3f8f5bb7911a37f4ba15b1ed6"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "28dd3e22a7af0ee500b179658497bdd3744c359c62730cbfa81a12ed953d132e"
 metafile = true
 
 [[files]]
@@ -319,6 +333,11 @@ hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
+metafile = true
+
+[[files]]
 file = "mods/redirector.pw.toml"
 hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
 metafile = true
@@ -340,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cf69b8bedf3d0acd12a218112ee4c696ede20a3e80d16ce90ec77afa6fd3b79b"
+hash = "65a2ebce52e8268e386f5af38831de386ed4419bc73e14736a0979077a9a8418"
 metafile = true
 
 [[files]]

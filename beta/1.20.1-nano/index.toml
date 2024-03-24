@@ -82,7 +82,7 @@ hash = "3e79a3822e4abcdec021e839a2a1c65b7193c7d26c093a6b3e36f01452771080"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "7bbf5f6e8ee1be247024831f7af5bd9efea6ac3d41ec03d553c89eab8a3606c0"
+hash = "4e3fbb074fec762a1a4618fd1d4a41e232847f88ea8466e24dab9356b2fc82da"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -145,6 +145,10 @@ hash = "ce78756bcb5f32179561e606f0e8574cf6313de64960dd625f79b8203a049bdc"
 metafile = true
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "c05c803a6b35b0ce3e759f9c6324a3454ba63eac5cbae59f5b7c794ee00ef263"
 metafile = true
@@ -152,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
 metafile = true
 
 [[files]]
@@ -215,8 +224,8 @@ hash = "b99a3135e53da7c08eee6d23e87894356df8f9afec01df429ab381c049e30ae4"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
+file = "mods/fast-ip-ping.pw.toml"
+hash = "0feddf2da657522bd01e3296c592d197d527eca02b8dd6865440b6ffecc27b48"
 metafile = true
 
 [[files]]
@@ -230,12 +239,18 @@ hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml.disabled"
-hash = "63d2467a04b0911360d6e501b6ce6614f8c28cecf10fab87898f86a166794cc7"
+file = "mods/immediatelyfast.pw.toml"
+hash = "9b8d79615545fde4eeb5be56381c28280c32df263b760a9d118d128cc43cef2d"
+metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "76912625f54e81a9f3af633d6fab017759f20204c6bcd67aa6c97e9bb1a4cb62"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
 metafile = true
 
 [[files]]
@@ -269,8 +284,13 @@ hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "b7051b4c2310e1566a96e72b525469b460ed1132e393f3865b798bc3d80386f0"
+metafile = true
+
+[[files]]
 file = "mods/redirector.pw.toml"
-hash = "f4bfe8f04847a5b590e59baaf47281273c2f0e54e0e99330eb38e91cfdc98fb4"
+hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
 metafile = true
 
 [[files]]
@@ -285,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
+hash = "0d459b4bc289e78f21cae2be883b9a442d61c34a17f87db90b0804d00456308b"
 metafile = true
 
 [[files]]
@@ -296,11 +316,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
-metafile = true
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]

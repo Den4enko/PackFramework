@@ -1,0 +1,6 @@
+name = "Starlight (Forge)"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 526854

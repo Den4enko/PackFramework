@@ -1,0 +1,6 @@
+name = "Puzzles Lib"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 495476

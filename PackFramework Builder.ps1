@@ -35,8 +35,7 @@ do {
         Start-Process -FilePath "$scriptPath\scripts\1.19.2-nano.bat"
         Start-Process -FilePath "$scriptPath\scripts\1.18.2-ultra.bat"
         Start-Process -FilePath "$scriptPath\scripts\1.18.2-nano.bat"
-            Read-Host -Prompt "Press Enter to exit..."
-            exit 
+        exit 
         }
         "8" { exit }
         default { 

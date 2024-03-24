@@ -1,6 +1,6 @@
-name = "ImmediatelyFast"
+name = "Fast IP Ping"
 side = "client"
 
 [update]
 [update.curseforge]
-project-id = 686911
+project-id = 904356

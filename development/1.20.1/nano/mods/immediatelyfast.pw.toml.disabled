@@ -1,6 +1,0 @@
-name = "ImmediatelyFast"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 686911
