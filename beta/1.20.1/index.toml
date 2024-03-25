@@ -26,7 +26,15 @@ hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "3d3f5d8286fa125fc5ad32d1558869208404a764b4cbad12e71e982e90b0a06b"
+hash = "e15c0ab7643ff1e6e6bc29ea2cb63243f8fca7fbaf6fa39317f3fe0e997af658"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "3eb2c570e89a0d4f692ea46b30b7cb2a6e28bf42dec456999d6bc22a7ecd69ef"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "3a76a170c111420cffc64fc1f6b8aa6627b8ec6eb5e8a474b9ac241872d865d2"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
@@ -243,6 +251,11 @@ hash = "650ea4d8cb50eeb88be3d3c61f120d5a9565b7a580abdf37b1b611331f3816ae"
 metafile = true
 
 [[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "d7c62ff4d60d74100610e0f385d35419e3e5c2d8a17816bec7ec98c0a72f0771"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f01df0e97d136b72ca54b9eaacbdb9adcdadc9bb6cc6d6b80a045e5a99bf5f95"
 metafile = true
@@ -335,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/redirector.pw.toml"
 hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "d457aa760be4af607aa37b613895c4ff7e967246a4f39719afedd26584187992"
 metafile = true
 
 [[files]]

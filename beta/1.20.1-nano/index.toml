@@ -26,7 +26,15 @@ hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "3d3f5d8286fa125fc5ad32d1558869208404a764b4cbad12e71e982e90b0a06b"
+hash = "bb4cb5fc75d9426d1474ee41456be3eb2501be4c5d98bcc5aba03519219dae39"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "ab9a0e58a7acac1fb16093c01e971d31d5b877d3db84ec44c93db78e01e4fbe4"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "f53cbfee8a69320263acaf4cbd48b82ffd02d9e22a33fbbd203c955cc45b06f0"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
@@ -214,6 +222,11 @@ hash = "650ea4d8cb50eeb88be3d3c61f120d5a9565b7a580abdf37b1b611331f3816ae"
 metafile = true
 
 [[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "d7c62ff4d60d74100610e0f385d35419e3e5c2d8a17816bec7ec98c0a72f0771"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
@@ -294,11 +307,6 @@ hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "d457aa760be4af607aa37b613895c4ff7e967246a4f39719afedd26584187992"
-metafile = true
-
-[[files]]
 file = "mods/saturn.pw.toml"
 hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
@@ -316,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "2eb95c8af40609e34422e9df785fccbfbd7740639fb5ac06a49f47ff1c970160"
 metafile = true
 
 [[files]]

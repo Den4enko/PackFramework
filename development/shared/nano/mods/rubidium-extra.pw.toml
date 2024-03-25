@@ -1,6 +1,0 @@
-name = "Rubidium Extra"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 654373
