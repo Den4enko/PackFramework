@@ -406,3 +406,8 @@ metafile = true
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "88af773b88862a27b15bb89ac2205346a2cdd0daeec87dc2a891be25c1d511c4"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
