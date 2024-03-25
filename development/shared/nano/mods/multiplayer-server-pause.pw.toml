@@ -1,6 +1,0 @@
-name = "Multiplayer Server Pause"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "RPXnAvtA"
