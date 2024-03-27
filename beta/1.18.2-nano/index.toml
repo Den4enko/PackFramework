@@ -30,7 +30,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "2b6643e32141a8f27d140318092af2df60c7e61376f381b72b772fbe6501ee19"
+hash = "3c4113447efcbc1ffdd3f9a18f46d470a20b476e045ff0e3a3e21ed1a3d7856e"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -62,7 +62,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "623443dd80c641b22c5ce0ff59d61487ea5e2bdd5dd6482fd524e0c777fc2ddf"
+hash = "5d252c421a339c38b38f60c8b621753f456be71af9765f934c0729f298da1741"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -179,11 +179,6 @@ hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
-file = "mods/culllessleaves-reforged.pw.toml"
-hash = "a499c6bd708d0eb5b43901ab83841911d439c01b82aea9490e0f2ba3c6e1ea37"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "99f746f648abbcdc1c35c4c98562c4e53a407646311d78e4a7c3762a5d3ce304"
 metafile = true
@@ -200,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b7e209df197413f7a7811f5bdf79eaea0830a2dec2a8578714488acd6d192fc2"
+hash = "68b32df1f9c406f23f46910ced17b6b16279db6b0bad12f226147552e3547f27"
 metafile = true
 
 [[files]]
@@ -215,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "1c4536258b77787ff05d6552d042918a59bb32bfb36d78780555e16e51a8be8e"
+hash = "b6890529081344dda8c6d0d203e778a716c84c23bc3e6b278d35cae959eb49bb"
 metafile = true
 
 [[files]]
@@ -249,8 +244,8 @@ hash = "a69f9da2f5ea89a1e1efef86db6d342e7acd13f0f11e7583fadcbe9fafdb7fa7"
 metafile = true
 
 [[files]]
-file = "mods/lightspeedmod.pw.toml"
-hash = "b86d39f947be84f146135e741be2dcdb2e79a52bd26c64eeed4da326f3e4c3ca"
+file = "mods/lightspeed.pw.toml"
+hash = "8036b6395c91194b453dd99221066cd03c7d728b9c9bd861461f63fa582b1e79"
 metafile = true
 
 [[files]]
@@ -280,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
+hash = "f09534f98487d67cefaa9f7ebfd419c5601113b6adcc22f57df97aa487b5f04c"
 metafile = true
 
 [[files]]
@@ -290,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirector.pw.toml"
-hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
+hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
 metafile = true
 
 [[files]]
@@ -300,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ee7a797fccf1a1193fa9f8779c63d3949d38a01e0cf0b5b8a9ae35d4809d415e"
+hash = "c3aa4d13466fd96483ddf44d8c0a99002804e6d53b2728ba5cb768573fc66d6c"
 metafile = true
 
 [[files]]
@@ -315,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
 metafile = true
 
 [[files]]

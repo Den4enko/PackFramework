@@ -1,6 +1,0 @@
-name = "CullLessLeaves"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 840788

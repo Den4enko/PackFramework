@@ -42,7 +42,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "2b6643e32141a8f27d140318092af2df60c7e61376f381b72b772fbe6501ee19"
+hash = "3c4113447efcbc1ffdd3f9a18f46d470a20b476e045ff0e3a3e21ed1a3d7856e"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -74,7 +74,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "623443dd80c641b22c5ce0ff59d61487ea5e2bdd5dd6482fd524e0c777fc2ddf"
+hash = "5d252c421a339c38b38f60c8b621753f456be71af9765f934c0729f298da1741"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -134,7 +134,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
-hash = "1018dbffebb8bc27dbd654e34a5f85b6407c54793717d7f98cee8040601f6b8f"
+hash = "7c7cb83b4ee06e8b6d2ea20682a88756877227001877fe76b170d7fbd94774d4"
 metafile = true
 
 [[files]]
@@ -197,11 +197,6 @@ hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
 metafile = true
 
 [[files]]
-file = "mods/culllessleaves-reforged.pw.toml"
-hash = "889dac3fb26bf19b833bc7945083e17281fb685aad20e479e6e8bd29e8efd6d2"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
 metafile = true
@@ -218,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1a3fad7279ac207dd9eb9eb20a737e55bea6bf2c3ea09ecdba2fd19908425463"
+hash = "09aec7faf72900969e0d1289cde9cbc77c5981305e8e5d9507abd5e20b638347"
 metafile = true
 
 [[files]]
@@ -233,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "bb4a92ebdbfeec126e798ec84bdaf553b6c7b8c106db0cc48a41862f7ac5eb14"
+hash = "8356a97c051c061a3b77d0bf4b3a09229ae8dba0d18d4da767ce23179a3233af"
 metafile = true
 
 [[files]]
@@ -253,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c8b8d033c2cdd69fb4af2b147ab5c49ebd8d1d73d19e1d6f40bc39f5b50f1d12"
+hash = "3fd84629dfb4a639c07c49ac3f41d3dfe66bc763f056c8b2d275d0d2742c1115"
 metafile = true
 
 [[files]]
@@ -272,8 +267,8 @@ hash = "28dd3e22a7af0ee500b179658497bdd3744c359c62730cbfa81a12ed953d132e"
 metafile = true
 
 [[files]]
-file = "mods/lightspeedmod.pw.toml"
-hash = "d308f0f91308b10004a83aa73b22095128ca8bb32603a3f9c50d0b983e6add31"
+file = "mods/lightspeed.pw.toml"
+hash = "4a58810e9373dead7214ba727d484881315ccba44f449aeee97c69dde76ec8a0"
 metafile = true
 
 [[files]]
@@ -293,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
 
 [[files]]
@@ -308,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
 metafile = true
 
 [[files]]
@@ -318,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirector.pw.toml"
-hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
+hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
 metafile = true
 
 [[files]]
@@ -328,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "65a2ebce52e8268e386f5af38831de386ed4419bc73e14736a0979077a9a8418"
+hash = "823b602031e0c9d527eff5aeba73d129880af97de463a42a41b5bcae6d9c31fb"
 metafile = true
 
 [[files]]
@@ -343,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
 metafile = true
 
 [[files]]

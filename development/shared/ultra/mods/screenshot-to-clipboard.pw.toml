@@ -1,6 +1,6 @@
-name = "Screenshot to Clipboard (Forge)"
+name = "Screenshot to Clipboard"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 326950
+[update.modrinth]
+mod-id = "1KiJRrTg"

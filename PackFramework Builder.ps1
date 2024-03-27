@@ -17,10 +17,10 @@ do {
     Write-Host "8) Exit"
     Write-Host
 
-    $input = Read-Host -Prompt "Enter number: "
+    $type = Read-Host -Prompt "Enter number: "
     Clear-Host
 
-    switch ($input) {
+    switch ($type) {
         "2" { Start-Process -FilePath "$scriptPath\scripts\1.20.1-ultra.bat" -Wait }
         "3" { Start-Process -FilePath "$scriptPath\scripts\1.20.1-nano.bat" -Wait }
         "4" { Start-Process -FilePath "$scriptPath\scripts\1.19.2-ultra.bat" -Wait }

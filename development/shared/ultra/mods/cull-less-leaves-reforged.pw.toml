@@ -1,0 +1,6 @@
+name = "Cull Less Leaves Reforged"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "qthuEuVy"

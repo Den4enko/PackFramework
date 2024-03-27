@@ -1,6 +1,0 @@
-name = "Distant Horizons: A Level of Detail mod"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 508933

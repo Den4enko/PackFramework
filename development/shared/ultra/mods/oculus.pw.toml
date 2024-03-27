@@ -2,5 +2,5 @@ name = "Oculus"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 581495
+[update.modrinth]
+mod-id = "GchcoXML"
