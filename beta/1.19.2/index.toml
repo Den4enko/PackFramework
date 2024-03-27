@@ -196,6 +196,11 @@ hash = "f123a2b4bae7be86d7bc6c4f6cfb30d914991558cd744b3b3c561088848ae416"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "d42a44515e657e67431cb042727db14f697b6d80c88c1da5fbe4c8afce738d29"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ea6f10cc2921fa436fc6350c634ef5ff2a991d45cd04c8bb6bd2761d747ed7da"
 metafile = true
