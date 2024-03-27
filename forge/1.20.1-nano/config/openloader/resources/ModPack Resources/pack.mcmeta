@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "pack.framework.resourcepack.info",
+            "fallback": "Default Resources for ModPack"
+        }
+    }
+}

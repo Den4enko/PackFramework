@@ -1,0 +1,28 @@
+{
+  "version": "14.19.1",
+  "buildNumber": 26,
+  "loadlist": [
+    {
+      "name": "ElyBy",
+      "type": "ElyByAPI",
+      "root": "http://skinsystem.ely.by/textures/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceLoadAllTextures": true,
+  "enableCape": true,
+  "threadPoolSize": 8,
+  "enableLogStdOut": false,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": true,
+  "forceDisableCache": false
+}

@@ -1,0 +1,13 @@
+name = "Redirector [Modern]"
+filename = "redirector-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2e56f6ba60b8841a98b61093d9f187d7a2b8c5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5067394
+project-id = 877289

@@ -1,6 +1,6 @@
 name = "Lazy DataFixerUpper(LazyDFU) [FORGE]"
 filename = "lazydfu-1.0-1.18+.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
