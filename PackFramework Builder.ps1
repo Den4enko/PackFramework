@@ -18,11 +18,15 @@ Write-Host "0) Exit"
 Write-Host
 
 # Read the user's input
-$type = Read-Host -Prompt "Enter number: "
+$selectedMCVersion = Read-Host -Prompt "Enter number: "
+if ($selectedMCVersion -eq '0') {
+    exit
+}
+$selectedMPVersion = Read-Host -Prompt "Select new modpack version: "
 Clear-Host
 
 # Switch statement to handle the user's input
-switch ($type) {
+switch ($SelectedMCVersion) {
     "2" {
         # Set the variables for the modpack to be built
         $mcversion = "1.20.1"
@@ -117,14 +121,7 @@ switch ($type) {
 
         exit 
     }
-    "0" { exit }
-    default { 
-        # Display an error message if the user entered an invalid input
-        Write-Host "Invalid Input. Please try one more time." -ForegroundColor Red
-        Select-Version
-    }
 }
-
 }
 function Build-Modpack {
 
@@ -146,6 +143,12 @@ function Build-Modpack {
         Copy-Item -Path "$scriptPath\source\$modloader\shared\ultra\*" -Destination "$outputPath" -Recurse -Force
     }
     Copy-Item -Path "$scriptPath\source\$modloader\$mcversion\nano\*" -Destination "$outputPath" -Recurse -Force
+
+    # Change the versions
+    Write-Host "[$(Get-Date -Format 'HH:mm:ss')] Changing versions..."
+    
+    (Get-Content "$outputPath/pack.toml") | ForEach-Object { $_ -replace "noVersion", "$selectedMPVersion" } | Set-Content "$outputPath/pack.toml"
+    (Get-Content "$outputPath/config/fancymenu/custom_locals/meta/en_us.local") | ForEach-Object { $_ -replace "noVersion", "$selectedMPVersion" } | Set-Content "$outputPath/config/fancymenu/custom_locals/meta/en_us.local"
 
     # Copy the changelog to the output path
     Write-Host "[$(Get-Date -Format 'HH:mm:ss')] Copying Changelog..."

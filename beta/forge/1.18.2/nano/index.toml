@@ -62,7 +62,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5d252c421a339c38b38f60c8b621753f456be71af9765f934c0729f298da1741"
+hash = "82efa167b6d64492fedcc5a4778a9c6c317dad91a643168ef3b9e643e79ebb7a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
