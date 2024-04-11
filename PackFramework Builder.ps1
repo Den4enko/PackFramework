@@ -18,15 +18,17 @@ Write-Host "0) Exit"
 Write-Host
 
 # Read the user's input
-$selectedMCVersion = Read-Host -Prompt "Enter number: "
+$selectedMCVersion = Read-Host -Prompt "Enter number"
 if ($selectedMCVersion -eq '0') {
     exit
 }
-$selectedMPVersion = Read-Host -Prompt "Select new modpack version: "
+$lastVersion = Get-Content -Path "$scriptPath/beta/lastVersion.txt"
+$selectedMPVersion = Read-Host -Prompt "Select new modpack version (the last version is $lastVersion)"
+$selectedMPVersion | Out-File -FilePath $scriptPath/beta/lastVersion.txt
 Clear-Host
 
 # Switch statement to handle the user's input
-switch ($SelectedMCVersion) {
+switch ($selectedMCVersion) {
     "2" {
         # Set the variables for the modpack to be built
         $mcversion = "1.20.1"
