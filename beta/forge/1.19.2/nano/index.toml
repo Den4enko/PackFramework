@@ -42,7 +42,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "3c4113447efcbc1ffdd3f9a18f46d470a20b476e045ff0e3a3e21ed1a3d7856e"
+hash = "6a61fdd2671bf6382ef650a86ad549743fd90dc11b2a8940b9c93cee682d2fb9"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -74,7 +74,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "72861f1010eeafbe2b90bc9ac447aa057cb4ff506c215d84ac23dc4a1f1065bc"
+hash = "6be17ed61d6af65f93662f5ec9138fd67d6e6fc6158223686b9b8b6024aa7b24"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -90,7 +90,7 @@ hash = "dd8bd84928d829898c590fb8d990e7bc8319b398ce9eb9aed53cc1121755bf2c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "a2f426ec2dc20670ef7801193ce66f7240b1c9c25957f091730303dcd5ab6897"
+hash = "01b8161685dbc4b52e881914c6d98a255d2220e8219178bfa7f5e71fcdb5cb1e"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -144,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/default-dark-mode.pw.toml"
-hash = "1adcc5b6f72852090879d00b8bd0d581b5cbabc47075837cf97da2e192e2a461"
+hash = "8cc8d32efa2177bda8e8e680029f1062592fd841d906506d6718a1fca54be04d"
 metafile = true
 
 [[files]]
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
-hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
+hash = "69561a54b8e46b61eb6504ee4b7240c55cc3fc7088ba1bd89876a7e158d69e8c"
 metafile = true
 
 [[files]]
@@ -157,13 +157,8 @@ file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
-file = "mods/advanced-backups.pw.toml"
-hash = "a67c66e9d82583a90ccca63b133c135b8f404f3fc63514f94057ad403b99a0e5"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
+hash = "43a09bf3fc588c393ed5e1b549991aad430f826d374266249d778129169dfe43"
 metafile = true
 
 [[files]]
@@ -173,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "415e4e1a75831c64f31d3ee6add84e80298aaeb8825776a55ad9e490cf39b309"
+hash = "d6901d2e8420ccc81efecefff7bd4fab31c2fc7afc948c419946f59bbc15ce52"
 metafile = true
 
 [[files]]
@@ -183,37 +178,27 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "5ac82b3b4a39fbab4255daff457d85787c09f32b01bbfeac5cf4aa2234b2164a"
+hash = "cb66f9704e31a1e58068328943e74c604408cc380a576b396baab69a2dfb14f0"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
-hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
+hash = "7b6410313b56bb649285417562e45892da293d38b80e185c2ffc52b4f97f680e"
 metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "8e886eb68cdc1883b8900ca4eea722bff63fff0c9f4ec00900bde1bee6c2afcf"
+hash = "6fcae31b92ec04febb932d77933a8f51494a9fd17fb4e78676fadf632ab272b2"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "4dca4237863144e4f09dbc62d8f9e952521fc34c5b205397a158a841461d8c72"
+hash = "cffcf234e2e1c4d17635471bba6da79a99837f6755e9cc8201b22abff447a0fb"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "09aec7faf72900969e0d1289cde9cbc77c5981305e8e5d9507abd5e20b638347"
+hash = "c0a4cdd50db474e08e60038e8d73aa374fa297e20cc5740ed62f999009b0b9a4"
 metafile = true
 
 [[files]]
@@ -227,23 +212,23 @@ hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.pw.toml"
-hash = "8356a97c051c061a3b77d0bf4b3a09229ae8dba0d18d4da767ce23179a3233af"
+file = "mods/fancymenu.pw.toml"
+hash = "fcccd5c229928c93e09046b62f4b47a6f6f2ce2ee197cc7e702dbe9d1d928051"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "1deaf3d9466d86ba00d98530ca17c8ce6fff39bfd3d879dcf05889f4fece46f1"
+hash = "391330e8b4b65b4bc6790c1ec8cbad5d6c1423b74fe1696f020776fdfe76946f"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+file = "mods/ferrite-core.pw.toml"
+hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
+hash = "16c9f2b84d8b21ae2a37d3cf0a36c594edf96df570e037d3bf109ab9a273caa4"
 metafile = true
 
 [[files]]
@@ -253,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "9f56e5002a121c2f3732f9d12dda7765a0101e1edc66e8ef2052bf2c89f53676"
+hash = "5125f8156818a160bbb255ad9aa468bb43d1dfc8cce3d108e98af9b1d7aa1546"
 metafile = true
 
 [[files]]
@@ -263,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "28dd3e22a7af0ee500b179658497bdd3744c359c62730cbfa81a12ed953d132e"
+hash = "338e95818aa7bdafffa43ff65a5779e4852fa185325ebfe28f86f5a354c3b22d"
 metafile = true
 
 [[files]]
@@ -273,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "385f69fd067848088bb1c7ac4689d19baf034dae29bb637cd21cf81994cfd1fd"
+hash = "dee32dbc5c856b93e3d60c187ff4045be23dd0585fcca47cff72e7b11e9d49b7"
 metafile = true
 
 [[files]]
@@ -283,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25f4054a4d79188256c59e07d012a762137069f69f7d38516353c1c39443df26"
+hash = "a438c1f4aeee0567bbf155c3bbdf518410b7680d118d50537b4836a5734a4d46"
 metafile = true
 
 [[files]]
@@ -293,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "9c230cfdee2ba357a8201621adbee4b946f75a8e5f3c7d6360f74e6886959be4"
+hash = "d5120f85f508aa7d8502bc49e90e4b6fea83f64a1808f660bc8b56eba6defb23"
 metafile = true
 
 [[files]]
-file = "mods/placebo.pw.toml"
-hash = "eb6b168caf4f8b9f3e501e97caaa61d207ab83d6328ce2f4960c4003eca73e90"
+file = "mods/packet-fixer.pw.toml"
+hash = "93d7f7f542033ae0d2fae2824d88e3504ef18d5bcda502c1c5a54f736b2fc5e9"
 metafile = true
 
 [[files]]
@@ -308,17 +293,17 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
+hash = "6e01c38c9ecb3e24dca2fc470503ffd235ad45c32afe9c21849df96d9eecfb15"
 metafile = true
 
 [[files]]
 file = "mods/redirector.pw.toml"
-hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
+hash = "aa7cfb1a828fc186fff465c224ec395461e1d1a40bfd5a45ff130090ae258aff"
 metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "9ee4f8587b73ee7fba1f4e6a1a0bc1fafc4d780b803fc56361240eed18b3d107"
+hash = "c3f868252957f405de530da753f2c4cb0fe72a6bb8ff4024be9f7d875e2dd3a6"
 metafile = true
 
 [[files]]
@@ -328,12 +313,12 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "6fd9e6e75a7708f0f10d2f68cbbb4bee1297a0d074a15d302664442445074901"
+hash = "5a43c403ad5dd60a5cb758bc28d6b764ba881324cf6c989c4e0f84f1cab3b7fb"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
 metafile = true
 
 [[files]]
@@ -343,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "56d9af418a682a88bd7497cb619312fc5043107fd55b458e1602e983c5490c68"
+hash = "499d3c92a35266a11112df08d5c728b01d67051771a777f0bfbf4b92a73173f9"
 metafile = true
 
 [[files]]
@@ -352,6 +337,6 @@ hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
 metafile = true
 
 [[files]]
-file = "mods/yeetusexperimentus.pw.toml"
-hash = "88af773b88862a27b15bb89ac2205346a2cdd0daeec87dc2a891be25c1d511c4"
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "b3d23826bc8dcea21e068ed4bef034e069420be4e502924b5df89af184afd88f"
 metafile = true

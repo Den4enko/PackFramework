@@ -1,6 +1,6 @@
-name = "Konkrete [Forge]"
+name = "Konkrete"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 410295
+[update.modrinth]
+mod-id = "J81TRJWm"

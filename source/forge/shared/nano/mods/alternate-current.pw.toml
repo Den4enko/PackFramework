@@ -2,5 +2,5 @@ name = "Alternate Current"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 548115
+[update.modrinth]
+mod-id = "r0v8vy1s"

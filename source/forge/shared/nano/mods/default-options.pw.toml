@@ -2,5 +2,5 @@ name = "Default Options"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 232131
+[update.modrinth]
+mod-id = "WEg59z5b"

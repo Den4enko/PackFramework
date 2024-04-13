@@ -2,5 +2,5 @@ name = "Default Dark Mode"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 349116
+[update.modrinth]
+mod-id = "6SLU7tS5"

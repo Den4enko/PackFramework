@@ -1,6 +1,6 @@
-name = "Fast IP Ping"
+name = "fast-ip-ping"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 904356
+[update.modrinth]
+mod-id = "9mtu0sUO"

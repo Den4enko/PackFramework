@@ -2,5 +2,5 @@ name = "Melody"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 938643
+[update.modrinth]
+mod-id = "CVT4pFB2"

@@ -2,5 +2,5 @@ name = "Clumps"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 256717
+[update.modrinth]
+mod-id = "Wnxd13zP"

@@ -2,5 +2,5 @@ name = "Balm"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 531761
+[update.modrinth]
+mod-id = "MBAkmtvl"

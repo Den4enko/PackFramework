@@ -2,5 +2,5 @@ name = "Redirector"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 877289
+[update.modrinth]
+mod-id = "nzRWPE5v"

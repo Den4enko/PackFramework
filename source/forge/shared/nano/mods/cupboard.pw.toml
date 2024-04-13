@@ -1,5 +1,5 @@
 name = "Cupboard"
-side = "both"
+side = "client"
 
 [update]
 [update.curseforge]

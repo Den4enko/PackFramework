@@ -1,6 +1,6 @@
 name = "Open Loader"
-side = "both"
+side = "client"
 
 [update]
-[update.curseforge]
-project-id = 354339
+[update.modrinth]
+mod-id = "KwWsINvD"

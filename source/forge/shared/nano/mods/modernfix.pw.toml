@@ -2,5 +2,5 @@ name = "ModernFix"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 790626
+[update.modrinth]
+mod-id = "nmDcB62a"

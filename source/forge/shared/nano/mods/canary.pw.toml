@@ -2,5 +2,5 @@ name = "Canary"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 665658
+[update.modrinth]
+mod-id = "qa2H4BS9"

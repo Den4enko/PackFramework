@@ -23,9 +23,14 @@ if ($selectedMCVersion -eq '0') {
     exit
 }
 $lastVersion = Get-Content -Path "$scriptPath/beta/lastVersion.txt"
-$selectedMPVersion = Read-Host -Prompt "Select new modpack version (the last version is $lastVersion)"
+$selectedMPVersion = Read-Host -Prompt "Select new modpack version (Press Enter to keep $lastVersion)"
+if ([string]::IsNullOrWhiteSpace($selectedMPVersion)) {
+    $selectedMPVersion = $lastVersion
+}
 $selectedMPVersion | Out-File -FilePath $scriptPath/beta/lastVersion.txt
 Clear-Host
+
+
 
 # Switch statement to handle the user's input
 switch ($selectedMCVersion) {
@@ -135,8 +140,10 @@ function Build-Modpack {
 
     # Clean up any old files in the output path
     Write-Host "[$(Get-Date -Format 'HH:mm:ss')] Cleaning files..."
-    Remove-Item -Path "$outputPath\*.*" -Recurse
-    New-Item -Path "$outputPath" -ItemType Directory -Force
+    if (!(Test-Path -PathType Container $outputPath)) {
+        New-Item -ItemType Directory -Path $outputPath
+    }
+    Remove-Item -Path $outputPath -Recurse -Include *.*
 
     # Merge the necessary files into the output path
     Write-Host "[$(Get-Date -Format 'HH:mm:ss')] Merging..."

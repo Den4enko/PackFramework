@@ -2,5 +2,5 @@ name = "Saturn"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 670986
+[update.modrinth]
+mod-id = "2eT495vq"

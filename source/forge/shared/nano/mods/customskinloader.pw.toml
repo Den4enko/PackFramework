@@ -2,5 +2,5 @@ name = "CustomSkinLoader"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 286924
+[update.modrinth]
+mod-id = "idMHQ4n2"

@@ -3,11 +3,11 @@ filename = "defaultoptions-forge-1.20-18.0.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar"
 hash-format = "sha1"
-hash = "d19f874852def4ef73b32caf3f218e6423d51677"
-mode = "metadata:curseforge"
+hash = "73af2309627a68a7bff3e53e02ea22fb5c4651e5"
 
 [update]
-[update.curseforge]
-file-id = 4635878
-project-id = 232131
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "CKNINccT"

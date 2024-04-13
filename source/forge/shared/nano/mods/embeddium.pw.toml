@@ -2,5 +2,5 @@ name = "Embeddium"
 side = "client"
 
 [update]
-[update.curseforge]
-project-id = 908741
+[update.modrinth]
+mod-id = "sk9rgfiA"

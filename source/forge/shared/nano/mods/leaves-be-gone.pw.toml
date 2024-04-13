@@ -2,5 +2,5 @@ name = "Leaves Be Gone"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 686435
+[update.modrinth]
+mod-id = "AVq17PqV"

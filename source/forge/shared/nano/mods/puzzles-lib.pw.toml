@@ -1,6 +1,6 @@
 name = "Puzzles Lib"
-side = "both"
+side = "client"
 
 [update]
-[update.curseforge]
-project-id = 495476
+[update.modrinth]
+mod-id = "QAGBst4M"

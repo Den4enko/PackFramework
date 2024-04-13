@@ -1,0 +1,6 @@
+name = "FancyMenu"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "Wq5SjeWM"

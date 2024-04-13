@@ -3,11 +3,11 @@ filename = "smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar"
 hash-format = "sha1"
 hash = "3fd79132dba444bd109b5de4ad75dee06a48e130"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5016280
-project-id = 633412
+[update.modrinth]
+mod-id = "z53V2L4P"
+version = "HkfL3iGO"

@@ -2,5 +2,5 @@ name = "spark"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 361579
+[update.modrinth]
+mod-id = "l6YH9Als"

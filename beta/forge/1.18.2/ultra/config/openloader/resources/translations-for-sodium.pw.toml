@@ -1,13 +1,14 @@
 name = "Translations for Sodium"
 filename = "SodiumTranslations.zip"
 side = "client"
+pin = true
 
 [download]
+url = "https://cdn.modrinth.com/data/yfDziwn1/versions/jxHmg0uz/SodiumTranslations.zip"
 hash-format = "sha1"
-hash = "dc361a9fffbedb881e36beaba52b5ff0d35fb2bb"
-mode = "metadata:curseforge"
+hash = "141e855f76a444bec32d24b5477dd637a4fe01b6"
 
 [update]
-[update.curseforge]
-file-id = 4568064
-project-id = 867964
+[update.modrinth]
+mod-id = "yfDziwn1"
+version = "jxHmg0uz"

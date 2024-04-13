@@ -3,11 +3,11 @@ filename = "alternate-current-mc1.19-1.7.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/v9lKbHW6/alternate-current-mc1.19-1.7.0.jar"
 hash-format = "sha1"
 hash = "1fffdc728e190d1615d1d4c000683500de5f4daf"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4609489
-project-id = 548115
+[update.modrinth]
+mod-id = "r0v8vy1s"
+version = "v9lKbHW6"

@@ -1,6 +1,0 @@
-name = "FancyMenu"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 367706
