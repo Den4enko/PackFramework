@@ -1,0 +1,13 @@
+name = "Open Loader"
+filename = "OpenLoader-Forge-1.18.2-12.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/RA5UXPgA/OpenLoader-Forge-1.18.2-12.0.1.jar"
+hash-format = "sha1"
+hash = "358ac27631553212dbc88dbd67a94247cf9debaf"
+
+[update]
+[update.modrinth]
+mod-id = "KwWsINvD"
+version = "RA5UXPgA"

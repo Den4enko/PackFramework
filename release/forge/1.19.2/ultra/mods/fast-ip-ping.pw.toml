@@ -1,0 +1,13 @@
+name = "fast-ip-ping"
+filename = "fast-ip-ping-mc1.19.4-forge-v1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/QeRVKAeD/fast-ip-ping-mc1.19.4-forge-v1.0.1.jar"
+hash-format = "sha1"
+hash = "3810b5ca4cd955c6709adc573773c9308eb37423"
+
+[update]
+[update.modrinth]
+mod-id = "9mtu0sUO"
+version = "QeRVKAeD"
