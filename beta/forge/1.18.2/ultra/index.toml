@@ -38,7 +38,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "6a61fdd2671bf6382ef650a86ad549743fd90dc11b2a8940b9c93cee682d2fb9"
+hash = "43e16a20ac70bde49f3ca2e1703ac8372870910f675c01b33d3bd3ca5ec0b577"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "6be17ed61d6af65f93662f5ec9138fd67d6e6fc6158223686b9b8b6024aa7b24"
+hash = "2b93b6e992731e219270fee2410f06e462f67ed3c60dd8529035f6f45fc7d427"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "58d6e8ff273e577bfba3493ca970d9977942c08b07befb2af1702f16ad5e28d0"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "ab78be4b38593630ce88a5d177150319773fde6c13ff6fd7769bc83e3b1850e6"
 metafile = true
 
 [[files]]

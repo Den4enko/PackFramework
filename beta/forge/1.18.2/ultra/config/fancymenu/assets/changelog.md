@@ -2,7 +2,7 @@
 
 ### v2:
 
-- Migrated some mods to modrinth
+- Migrated most mods to Modrinth
 - Updated mods
 - Fixed main menu layout
 

@@ -140,11 +140,11 @@ function Build-Modpack {
 
     # Clean up any old files in the output path
     Write-Host "[$(Get-Date -Format 'HH:mm:ss')] Cleaning files..."
-    if (!(Test-Path -PathType Container $outputPath)) {
+    if (Test-Path -PathType Container $outputPath) {
+        Remove-Item -Path $outputPath -Recurse -Include *.*
+    } else {
         New-Item -ItemType Directory -Path $outputPath
     }
-    Remove-Item -Path $outputPath -Recurse -Include *.*
-
     # Merge the necessary files into the output path
     Write-Host "[$(Get-Date -Format 'HH:mm:ss')] Merging..."
     Copy-Item -Path "$scriptPath\source\$modloader\shared\nano\*" -Destination "$outputPath" -Recurse -Force
