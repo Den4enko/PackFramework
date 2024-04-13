@@ -74,7 +74,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e196747ac2029f8df949632ff02657ef8cbdb5064c14b24da6d19393fca775a3"
+hash = "72861f1010eeafbe2b90bc9ac447aa057cb4ff506c215d84ac23dc4a1f1065bc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
-hash = "a2cbfb9f3e90eb67cd40e7199fa56476d13d3515d7e19ad914c64feaf44a94f7"
+hash = "258c990e587afc7798d2a6aee87ce95c807466607091b081509adc65f7b34146"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "c05c803a6b35b0ce3e759f9c6324a3454ba63eac5cbae59f5b7c794ee00ef263"
+hash = "7418dc59cecaa747e87283d8625481e08fe80879b4efdb1ad0eca27d8963533f"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "d7c62ff4d60d74100610e0f385d35419e3e5c2d8a17816bec7ec98c0a72f0771"
+hash = "a33ca8383ab7545c23140f4c3780c07f5c060895ec72e917eb2868f32f401fc8"
 metafile = true
 
 [[files]]

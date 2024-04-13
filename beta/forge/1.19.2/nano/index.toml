@@ -74,7 +74,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e196747ac2029f8df949632ff02657ef8cbdb5064c14b24da6d19393fca775a3"
+hash = "72861f1010eeafbe2b90bc9ac447aa057cb4ff506c215d84ac23dc4a1f1065bc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -158,7 +158,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "2753d7377b7d6bc8133ec0a0324e1d8e01a625db986cb73d5731ee40cdbb1493"
+hash = "a67c66e9d82583a90ccca63b133c135b8f404f3fc63514f94057ad403b99a0e5"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "91239205f2b02ca39b12531245ff055f12d85caa3e5df498c3c1b1e32790d8c0"
+hash = "c08651fd833ca0756d7623ec42ecbc9dd3f19cf8c1433716933fe03be7f72674"
 metafile = true
 
 [[files]]
