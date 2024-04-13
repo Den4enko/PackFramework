@@ -1,0 +1,6 @@
+name = "Canary"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "qa2H4BS9"

@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "2b93b6e992731e219270fee2410f06e462f67ed3c60dd8529035f6f45fc7d427"
+hash = "5f3c00cddc9e9453b5b797749e2204aa96c2128a38cfa68f5cab9f468f6fd7e2"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -90,7 +90,7 @@ hash = "8a09a951bd94fce467999ed2112bd9d44d0b89604cb195de5d6afde1d5eaea3b"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "01b8161685dbc4b52e881914c6d98a255d2220e8219178bfa7f5e71fcdb5cb1e"
+hash = "b6b3b5e51ce2fba57b3a67098787de860da86ecab146aedfc86bd61eb45be065"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -106,7 +106,7 @@ hash = "9026fdfd192fe1203b91cd48e3eb2c68cc55c1189fdd2afbba55c3fb13fd7fd2"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "cf2497a58ab9be7ac7d5a3d8ebd0778804957c21cc81ce23e4b4b7e5042baa72"
+hash = "a211de1996e80a2cbdd3358f48a0968c1169d6c675ddf8ba2aa7390779e0eb8f"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -178,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c7fea242250b914c9f41782197a47d431972e5e49728c26980b1d66d2b4c38e2"
-metafile = true
-
-[[files]]
-file = "mods/canary.pw.toml"
-hash = "17f1275c22e2e4710cbfc85327e26b946f13b6fb11fedff4e00b0b85d613e61c"
 metafile = true
 
 [[files]]
@@ -368,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c3aa4d13466fd96483ddf44d8c0a99002804e6d53b2728ba5cb768573fc66d6c"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "5712e9042f6bb82e9f6e2d54b818d9aba52059015067d5df3958ed0fa2383fd7"
 metafile = true
 
 [[files]]

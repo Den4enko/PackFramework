@@ -74,7 +74,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "2b93b6e992731e219270fee2410f06e462f67ed3c60dd8529035f6f45fc7d427"
+hash = "5f3c00cddc9e9453b5b797749e2204aa96c2128a38cfa68f5cab9f468f6fd7e2"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -90,7 +90,7 @@ hash = "fb7d1778f81039397d18af9872742f22391ae7bdad377e64be8e58abc585e8bf"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "01b8161685dbc4b52e881914c6d98a255d2220e8219178bfa7f5e71fcdb5cb1e"
+hash = "b6b3b5e51ce2fba57b3a67098787de860da86ecab146aedfc86bd61eb45be065"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -299,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "74086fbcc6777ae5c6d5542a11529ba15be9839384b42be366ece980511151d2"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "0a1fbaf25e5cfc57689084b17c8dece01104e6dd5658f298c650de5593782c0f"
 metafile = true
 
 [[files]]

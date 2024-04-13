@@ -1,6 +1,0 @@
-name = "Smooth Boot (Reloaded)"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "z53V2L4P"
