@@ -18,6 +18,7 @@ jobs:
         run: |
           git checkout main
           cd ..
+          mkdir release
           cp -r PackFramework/beta/* release/
           rm -rf PackFramework/*
           cp -r release/* PackFramework/
