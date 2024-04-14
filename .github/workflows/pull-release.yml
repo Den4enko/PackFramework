@@ -1,0 +1,27 @@
+name: Copy folder from one branch to another
+
+on:
+  push:
+    branches: [ main ]  # Replace with the source branch name
+
+jobs:
+  copy-folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source branch
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.push.branches[0] }}  # Get the source branch name
+
+      - name: Copy folder
+        run: |
+          git checkout target-folder --path=beta  # Replace with the source and destination folders
+          git checkout -B target-branch  # Replace with the target branch name
+
+      - name: Push changes to target branch
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: release  # Replace with the target branch name
+          force: true
