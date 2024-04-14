@@ -17,6 +17,7 @@ jobs:
       - name: Copy folder
         run: |
           git checkout target-folder --path=beta  # Replace with the source and destination folders
+          git cp -r beta ../release  # Replace with the source and destination folders
           git checkout -B release  # Replace with the target branch name
 
       - name: Push changes to target branch
