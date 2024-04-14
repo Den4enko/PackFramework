@@ -16,10 +16,10 @@ jobs:
 
       - name: Copy folder
         run: |
-          git checkout main
           cd ..
+          ls
           mkdir release
-          cp -r PackFramework/beta/* release/
+          cp -r PackFramework/beta/* release
           rm -rf PackFramework/*
           cp -r release/* PackFramework/
           cd PackFramework/
