@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Checkout source branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.event.push.branches[0] }}  # Get the source branch name
 
@@ -21,7 +21,7 @@ jobs:
           cp -r PackFramework/beta release
           rm -rf PackFramework/*
           cp -r release/ PackFramework
-
+          git commit -a -m "Add changes"
       - name: Push changes to target branch
         uses: ad-m/github-push-action@v0.8.0
         with:
