@@ -18,9 +18,9 @@ jobs:
         run: |
           git checkout main
           cd ..
-          cp -r PackFramework/beta release
+          cp -r PackFramework/beta/* release
           rm -rf PackFramework/*
-          cp -r release/ PackFramework
+          cp -r release/* PackFramework
           cd PackFramework
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
