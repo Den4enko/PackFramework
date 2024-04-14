@@ -21,6 +21,7 @@ jobs:
           cp -r PackFramework/beta release
           rm -rf PackFramework/*
           cp -r release/ PackFramework
+          cd PackFramework
           git commit -a -m "Add changes"
       - name: Push changes to target branch
         uses: ad-m/github-push-action@v0.8.0
