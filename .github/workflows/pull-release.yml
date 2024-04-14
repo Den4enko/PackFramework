@@ -22,6 +22,8 @@ jobs:
           rm -rf PackFramework/*
           cp -r release/ PackFramework
           cd PackFramework
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git commit -a -m "Add changes"
       - name: Push changes to target branch
         uses: ad-m/github-push-action@v0.8.0
