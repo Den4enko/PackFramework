@@ -16,9 +16,11 @@ jobs:
 
       - name: Copy folder
         run: |
-          git checkout main  # Replace with the source and destination folders
-          git cp -r main ../release  # Replace with the source and destination folders
-          git checkout -B release  # Replace with the target branch name
+          git checkout main
+          cp -r beta/* ../release
+          cd ..
+          rm -rf PackFramework/*
+          cp -r release/* PackFramework
 
       - name: Push changes to target branch
         uses: ad-m/github-push-action@v0.8.0
