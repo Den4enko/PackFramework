@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5f3c00cddc9e9453b5b797749e2204aa96c2128a38cfa68f5cab9f468f6fd7e2"
+hash = "ed8dba3e9c8c2a8828a940dbc0809ef7c9c8bdf1b714572082cdbb2df4a7c278"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -157,7 +157,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "9d345cd228b18da5ccfad9bb10e5e015bd3b776d6cfb19f0d9d5071ba8a79c4c"
+hash = "277c1e3f80501d5bfc30614feb7a5b119a635576bca7822b6cf893e777213903"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5c07de657bc5143bc1bb837e3732c9870437465c03ba34e373c10927a61a3400"
+hash = "ec135851ae83cbaa0ced4a17d7995b51b9254098f722ab0ec6d4189dcffd48f7"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1ce935750030ab7e78434ea14306769c6d041fdbc95d3de1005e485823285958"
+hash = "3d60bc7a8eaeb6b446f81da9a94d67e76df79f589874f464207108355782ff8b"
 metafile = true
 
 [[files]]
@@ -262,12 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "07d20ef0ee972b58c08dca2a6f40db266592822a6b9474f01ea17dcec4f5a528"
+hash = "18b7c63c894ee9c54145b3f6088b7106610f13caf16c05915942911a8ef5f0aa"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "ca98c06b48a77f37bb62c8bb965aa2a556f36e9ed7063c0f16c6dd1ab444a3e1"
+hash = "c8c210401b7f88004a906c062ed31ed378ef1f8093ed3a1d789f532e0fd67346"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "10205de06fbf9c371a6339566432cebba78491a6292ae91900abf741ee7d15f0"
+hash = "d913180be18a60d5723ca0de9d48a3db35a8213fd2795ac4b566f29788d95922"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "b976e911cbcd466d9f9b17aa40bfaddb05ded12c10ec13beab8b5cc6c9a1a2f6"
+hash = "d1bb316b96fb60469e4364083725afbd91bce62c7063f8063901b850eeb6fdf5"
 metafile = true
 
 [[files]]

@@ -1,10 +1,18 @@
 $scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
 
 # Define the function to build a modpack
+function New-Version {
+    $lastVersion = Get-Content -Path "$scriptPath/beta/lastVersion.txt"
+    $selectedMPVersion = Read-Host -Prompt "Select the new modpack version (Press Enter to keep $lastVersion)"
+    if ([string]::IsNullOrWhiteSpace($selectedMPVersion)) {
+        $selectedMPVersion = $lastVersion
+    }
+    $selectedMPVersion | Out-File -FilePath $scriptPath/beta/lastVersion.txt
+}
 function Select-Version {
 # Prompt the user to select a version to build
 Write-Host "[PackFramework Builder]" -ForegroundColor Green
-Write-Host "Select version to build:"
+Write-Host "Select action to do:"
 Write-Host
 Write-Host "1) All Forge Versions"
 Write-Host "2) Forge 1.20.1 Ultra"
@@ -14,88 +22,23 @@ Write-Host "5) Forge 1.19.2 Nano"
 Write-Host "6) Forge 1.18.2 Ultra"
 Write-Host "7) Forge 1.18.2 Nano"
 Write-Host
+Write-Host "8) Copy Beta to Release folder"
+Write-Host
 Write-Host "0) Exit"
 Write-Host
 
 # Read the user's input
 $selectedMCVersion = Read-Host -Prompt "Enter number"
-if ($selectedMCVersion -eq '0') {
-    exit
-}
-$lastVersion = Get-Content -Path "$scriptPath/beta/lastVersion.txt"
-$selectedMPVersion = Read-Host -Prompt "Select new modpack version (Press Enter to keep $lastVersion)"
-if ([string]::IsNullOrWhiteSpace($selectedMPVersion)) {
-    $selectedMPVersion = $lastVersion
-}
-$selectedMPVersion | Out-File -FilePath $scriptPath/beta/lastVersion.txt
 Clear-Host
-
-
 
 # Switch statement to handle the user's input
 switch ($selectedMCVersion) {
-    "2" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.20.1"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-
-        # Build the modpack
-        Build-Modpack
-        Select-Version
+    "0" {
+        exit
     }
-    "3" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.20.1"
-        $modpacktype = "nano"
-        $modloader = "forge"
-
-        # Build the modpack
-        Build-Modpack
-        Select-Version
-    }
-    "4" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.19.2"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-
-        # Build the modpack
-        Build-Modpack
-        Select-Version
-    }
-    "5" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.19.2"
-        $modpacktype = "nano"
-        $modloader = "forge"
-
-        # Build the modpack
-        Build-Modpack
-        Select-Version
-    }
-    "6" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.18.2"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-
-        # Build the modpack
-        Build-Modpack
-        Select-Version
-    }
-    "7" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.18.2"
-        $modpacktype = "nano"
-        $modloader = "forge"
-
-        # Build the modpack
-        Build-Modpack
-        Select-Version
-    }
-
     "1" { 
+        New-Version
+
         $mcversion = "1.20.1"
         $modpacktype = "ultra"
         $modloader = "forge"
@@ -127,6 +70,82 @@ switch ($selectedMCVersion) {
         Build-Modpack
 
         exit 
+    }
+    "2" {
+        # Set the variables for the modpack to be built
+        $mcversion = "1.20.1"
+        $modpacktype = "ultra"
+        $modloader = "forge"
+
+        # Build the modpack
+        New-Version
+        Build-Modpack
+        Select-Version
+    }
+    "3" {
+        # Set the variables for the modpack to be built
+        $mcversion = "1.20.1"
+        $modpacktype = "nano"
+        $modloader = "forge"
+
+        # Build the modpack
+        New-Version
+        Build-Modpack
+        Select-Version
+    }
+    "4" {
+        # Set the variables for the modpack to be built
+        $mcversion = "1.19.2"
+        $modpacktype = "ultra"
+        $modloader = "forge"
+
+        # Build the modpack
+        New-Version
+        Build-Modpack
+        Select-Version
+    }
+    "5" {
+        # Set the variables for the modpack to be built
+        $mcversion = "1.19.2"
+        $modpacktype = "nano"
+        $modloader = "forge"
+
+        # Build the modpack
+        New-Version
+        Build-Modpack
+        Select-Version
+    }
+    "6" {
+        # Set the variables for the modpack to be built
+        $mcversion = "1.18.2"
+        $modpacktype = "ultra"
+        $modloader = "forge"
+
+        # Build the modpack
+        New-Version
+        Build-Modpack
+        Select-Version
+    }
+    "7" {
+        # Set the variables for the modpack to be built
+        $mcversion = "1.18.2"
+        $modpacktype = "nano"
+        $modloader = "forge"
+
+        # Build the modpack
+        New-Version
+        Build-Modpack
+        Select-Version
+    }
+    "8" {
+        Remove-Item -Path "release" -Recurse -Include *.*
+        Copy-Item -Path "beta\*" -Destination "release" -Recurse -Force
+        Remove-Item -Path "release\lastVersion.txt"
+        exit
+    }
+    default {
+        Write-Host "I’m sorry, but it seems you’ve selected the wrong option." -ForegroundColor Red
+        Select-Version
     }
 }
 }

@@ -82,7 +82,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5f3c00cddc9e9453b5b797749e2204aa96c2128a38cfa68f5cab9f468f6fd7e2"
+hash = "4148f3edc2b235442d71fbba2c65aa55f8a29e4bf0346770d607363abef53476"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -170,7 +170,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "07c981fd8d28afcbb40a8f60842b52f2a68642f85402b1847c9f6b6da4792e5a"
+hash = "ac2539703a2691e02e574efe8817640d76962d2329b3b43fbb899ca05aae49f8"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
+hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "aadc8c76d4879e1caa1d3616e8b672876fc24a81e6f6a2270226850cc676b16a"
+hash = "17ec2654b56474c47aad1e3f0a107b610c8304d10126383e1e316a15315fcca4"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f01df0e97d136b72ca54b9eaacbdb9adcdadc9bb6cc6d6b80a045e5a99bf5f95"
+hash = "a928eea00e59d486b40fef1afb0a4e8d4d981a718c68a7b0231de148a67194ae"
 metafile = true
 
 [[files]]
@@ -285,12 +285,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6aa429945fb3ea2a28187e1fcf0523ebde2adf2c81edcf069d5a2edf21f9273b"
+hash = "5bf221cab29a195374793d81c296458b55008cff7fd0d18cb02ee294c0b3824b"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5f47f92ced62138e7742006a4dfb800674da963d2fd58df7a2d9d0432f281fd1"
+hash = "43747337eaf758d5eb87a5913c9d5f21bad3072f07c83ee62bbb26a22cb01d2c"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d90279f9ec76379c73aaa556cb8c2274e845d50e5f922eafb9eeeaf670380996"
+hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "273a8491dae7a6e241f8d20d5b5cc42ee227b9abfa128734e450803665102918"
+hash = "420651bdb9ee39f39e467c51f014bb33f8ee092db54f68f3a6dca5f6c06db188"
 metafile = true
 
 [[files]]
