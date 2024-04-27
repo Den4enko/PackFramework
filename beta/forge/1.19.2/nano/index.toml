@@ -74,7 +74,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "ed8dba3e9c8c2a8828a940dbc0809ef7c9c8bdf1b714572082cdbb2df4a7c278"
+hash = "4148f3edc2b235442d71fbba2c65aa55f8a29e4bf0346770d607363abef53476"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "16c9f2b84d8b21ae2a37d3cf0a36c594edf96df570e037d3bf109ab9a273caa4"
+hash = "758aacf62b13cf0dd2fb30771d5830c4dfcc275c1a7c1b48ee1b3ba38a4e717b"
 metafile = true
 
 [[files]]
