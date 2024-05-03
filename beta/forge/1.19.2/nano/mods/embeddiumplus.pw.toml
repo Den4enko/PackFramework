@@ -1,13 +1,13 @@
 name = "Embeddium++"
-filename = "embeddiumplus-1.19.2-v1.2.7.jar"
+filename = "embeddiumplus-1.19.2-v1.2.10-ignore.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yD9qW65f/versions/vl7EgGPN/embeddiumplus-1.19.2-v1.2.7.jar"
 hash-format = "sha1"
-hash = "17c718a1ca3c8c7a20c04caf2a5175822af8ac0c"
+hash = "022aafc4294e97ae632b4c2db768b46a0c743482"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "yD9qW65f"
-version = "vl7EgGPN"
+[update.curseforge]
+file-id = 5319906
+project-id = 931925

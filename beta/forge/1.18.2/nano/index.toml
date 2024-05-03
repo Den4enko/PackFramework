@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
 
 [[files]]
-file = "config/connectivity-common.toml"
-hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
@@ -62,7 +58,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "ed8dba3e9c8c2a8828a940dbc0809ef7c9c8bdf1b714572082cdbb2df4a7c278"
+hash = "56b77a2fd7795dd5a1c6282497a144a1a0c24bf889fae1f4ced241bc243812b9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -94,7 +90,7 @@ hash = "9026fdfd192fe1203b91cd48e3eb2c68cc55c1189fdd2afbba55c3fb13fd7fd2"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "a211de1996e80a2cbdd3358f48a0968c1169d6c675ddf8ba2aa7390779e0eb8f"
+hash = "cf2497a58ab9be7ac7d5a3d8ebd0778804957c21cc81ce23e4b4b7e5042baa72"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -134,10 +130,6 @@ metafile = true
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
 hash = "69561a54b8e46b61eb6504ee4b7240c55cc3fc7088ba1bd89876a7e158d69e8c"
 metafile = true
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -180,22 +172,17 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "ec135851ae83cbaa0ced4a17d7995b51b9254098f722ab0ec6d4189dcffd48f7"
+hash = "1ee6470ef21c3971e8391f1fa179522c13e398e7b1f5e3955f26baf8ea9b6497"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "a8198d6a130a4b0a7e1909b6f6f145469e712cf9394680da6765119ba5119436"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
+hash = "de7aedc6d796f3750edcffc7a3c8cfd6ca51e099002c403cecf5e10fb17b21ba"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c8c210401b7f88004a906c062ed31ed378ef1f8093ed3a1d789f532e0fd67346"
+hash = "6a17911cc1c99b1a1df9f87b97f1e5c7a465095ace1251127162ee5dd8e2e202"
 metafile = true
 
 [[files]]
@@ -280,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c3aa4d13466fd96483ddf44d8c0a99002804e6d53b2728ba5cb768573fc66d6c"
+hash = "cafd5622564631bdde7bcaf7d29f2165b7c78e9f4f955f2113ace62df68913ce"
 metafile = true
 
 [[files]]

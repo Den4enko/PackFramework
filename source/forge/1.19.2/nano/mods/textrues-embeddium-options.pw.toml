@@ -1,0 +1,6 @@
+name = "TexTrue's Embeddium Options"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "S1tndFDa"
