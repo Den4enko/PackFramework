@@ -1,4 +1,4 @@
-$global:global:selectedMPVersion = $null
+$scriptVersion = "v1"
 # Define the function to build a modpack
 function Select-NewMPVersion {
     $lastVersion = Get-Content -Path "$PSScriptRoot/beta/lastVersion.txt"
@@ -11,7 +11,7 @@ function Select-NewMPVersion {
 }
 function Select-MCVersion {
 # Prompt the user to select a version to build
-Write-Host "[PackFramework Builder]" -ForegroundColor Green
+Write-Host "[PackFramework Builder $scriptVersion]" -ForegroundColor Green
 Write-Host "Select action to do:"
 Write-Host
 Write-Host "1) All Forge Versions"

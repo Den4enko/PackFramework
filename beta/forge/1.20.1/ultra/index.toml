@@ -78,7 +78,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "56b77a2fd7795dd5a1c6282497a144a1a0c24bf889fae1f4ced241bc243812b9"
+hash = "e69464467fb621e40e4850edba3acbb9539d510b0eab0acbb1f5dc7cfa6ca831"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "5bcac6be5426a00ab2cda12bff7a3d85a25afe5a4297a55735a2e9b031da8218"
+hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
 
 [[files]]
@@ -269,12 +269,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "610c7ff4d8255c86b4262c42e6a9dd027ae08e9a15f54fe12b0d2d3fc400a5be"
+hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "a015f77f4ebc98052fbe7320a53a337a453251b9a69f2436bb793b14a32bf4a9"
+hash = "a1ce438ff66bd676b9ad63086256a18124a5b1db9849446e14c54cb4a08d758c"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e3d0e9a43d157bc52874706ec254c54ae96544920a3a06089944b3597305ead0"
+hash = "c20d0e1b13383e09cce4938386f0a7bb7b5806ccbb2474eb2ff755cc5a19f1ca"
 metafile = true
 
 [[files]]
