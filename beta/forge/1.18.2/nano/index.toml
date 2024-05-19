@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
@@ -58,11 +54,11 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e69464467fb621e40e4850edba3acbb9539d510b0eab0acbb1f5dc7cfa6ca831"
+hash = "ce0b06c7e49926157092450f40d9a0f9f7aa5f8d7c053fb35e5d5f8663c5d983"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "59e4ba60c1e7386b15243d9b9bf029f112a1b3e714014b40893fe6e9ef99483b"
+hash = "57dfac47f93ff36160d922a82ede05d3ed9dd721d2934ef6fc11cd84152e6591"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -158,11 +154,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "ab78be4b38593630ce88a5d177150319773fde6c13ff6fd7769bc83e3b1850e6"
-metafile = true
-
-[[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "6fcae31b92ec04febb932d77933a8f51494a9fd17fb4e78676fadf632ab272b2"
 metafile = true
 
 [[files]]
