@@ -1,0 +1,6 @@
+name = "Language Reload"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"

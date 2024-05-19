@@ -1,0 +1,6 @@
+name = "Animatica"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "PRN43VSY"

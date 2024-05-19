@@ -1,0 +1,6 @@
+name = "Konkrete"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"

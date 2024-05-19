@@ -1,0 +1,6 @@
+name = "Fabrishot"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "3qsfQtE9"

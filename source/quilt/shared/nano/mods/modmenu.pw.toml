@@ -1,0 +1,6 @@
+name = "Mod Menu"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"

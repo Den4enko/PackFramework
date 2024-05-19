@@ -1,0 +1,6 @@
+name = "More Chat History"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "8qkXwOnk"

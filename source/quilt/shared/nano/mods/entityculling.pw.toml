@@ -1,0 +1,6 @@
+name = "Entity Culling Fabric/Forge"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"

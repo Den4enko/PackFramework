@@ -1,0 +1,6 @@
+name = "Enhanced Block Entities"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "OVuFYfre"

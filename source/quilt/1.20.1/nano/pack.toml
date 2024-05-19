@@ -1,0 +1,13 @@
+name = "PackFramework 1.20.1"
+author = "Den4enko"
+version = "noVersion"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = ""
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.0-beta.1"

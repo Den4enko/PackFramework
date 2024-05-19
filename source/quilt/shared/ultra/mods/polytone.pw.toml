@@ -1,0 +1,6 @@
+name = "Polytone"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "3qAYkBMB"

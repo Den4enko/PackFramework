@@ -1,0 +1,6 @@
+name = "Embeddium"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "sk9rgfiA"

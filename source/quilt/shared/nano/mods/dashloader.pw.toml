@@ -1,0 +1,6 @@
+name = "DashLoader"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "ZfQ3kTvR"

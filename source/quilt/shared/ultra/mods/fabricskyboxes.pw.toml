@@ -1,0 +1,6 @@
+name = "FabricSkyboxes"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "YBz7DOs8"

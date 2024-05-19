@@ -1,6 +1,0 @@
-name = "CustomSkinLoader"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "idMHQ4n2"

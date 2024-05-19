@@ -1,0 +1,6 @@
+name = "Packet Fixer"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"

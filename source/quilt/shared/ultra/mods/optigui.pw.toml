@@ -1,0 +1,6 @@
+name = "OptiGUI"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "JuksLGBQ"

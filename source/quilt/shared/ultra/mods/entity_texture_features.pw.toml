@@ -1,0 +1,6 @@
+name = "[ETF] Entity Texture Features - [Fabric & Forge]"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
