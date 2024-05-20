@@ -27,11 +27,11 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 
 ### Version Support
 
-| MC Version⬇️ | Quilt | Fabric | NeoForge | Forge |
-| ------------ |:-----:|:------:|:--------:|:-----:|
-| 1.20.1       | 🟨    | 🟨     | ❌        | ✅     |
-| 1.19.2       | ❓     | ❓      | ❌        | ✅     |
-| 1.18.2       | ❓     | ❓      | ❌        | ✅     |
+| MC Version⬇️ | Quilt | Fabric                         | NeoForge | Forge |
+| ------------ |:-----:|:------------------------------:|:--------:|:-----:|
+| 1.20.1       | 🟨    | 🟨 | ❌        | ✅     |
+| 1.19.2       | ❓     | ❓                              | ❌        | ✅     |
+| 1.18.2       | ❓     | ❓                              | ❌        | ✅     |
 
 ✅ - actively supported. ❌ - is not supported. 🟥 - no longer supported. 🟨 - coming soon. ❓- may be supported.
 
@@ -42,13 +42,16 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 - [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
   
   - 1.20.1:
+    
     - Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework-Forge-1.20.1-Ultra.zip)
     - Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework-Forge-1.20.1-Nano.zip)
   
   - 1.19.2:
+    
     - Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework-Forge-1.19.2-Ultra.zip)
     - Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework-Forge-1.19.2-Nano.zip)
   
   - 1.18.2:
+    
     - Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework-Forge-1.18.2-Ultra.zip)
     - Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework-Forge-1.18.2-Nano.zip)
