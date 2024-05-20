@@ -1,0 +1,6 @@
+name = "Fabric API"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "P7dR8mSH"

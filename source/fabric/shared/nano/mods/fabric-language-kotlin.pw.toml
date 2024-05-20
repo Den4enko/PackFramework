@@ -1,0 +1,6 @@
+name = "Fabric Language Kotlin"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "Ha28R6CL"

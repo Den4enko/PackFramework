@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "ce0b06c7e49926157092450f40d9a0f9f7aa5f8d7c053fb35e5d5f8663c5d983"
+hash = "994c61fa95dd4140426429c7bd229c05b7d0d7748eecc6988e6f0359d42f9b71"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "32b58b4861c38d0e4de5688dc7a9077f15118037e4a4bfe3531abcf08b3d8ae9"
+hash = "0ba94a262f7f8ec584fdf46363c7c2a13f5b23610c8cee9a5423d1ab4a9b19ae"
 metafile = true
 
 [[files]]

@@ -24,10 +24,10 @@ Write-Host "7) Forge 1.18.2 Nano"
 Write-Host
 Write-Host "8) (Forge) Copy Beta to Release folder"
 Write-Host
-Write-Host "9) All Quilt Versions"
+Write-Host "9) All Fabric Versions"
 Write-Host
-Write-Host "10) Quilt 1.20.1 Ultra"
-Write-Host "11) Quilt 1.20.1 Nano"
+Write-Host "10) Fabric 1.20.1 Ultra"
+Write-Host "11) Fabric 1.20.1 Nano"
 Write-Host
 Write-Host "0) Exit"
 Write-Host
@@ -153,12 +153,12 @@ switch ($selectedMCVersion) {
 
         $mcversion = "1.20.1"
         $modpacktype = "ultra"
-        $modloader = "quilt"
+        $modloader = "fabric"
         Build-Modpack
 
         $mcversion = "1.20.1"
         $modpacktype = "nano"
-        $modloader = "quilt"
+        $modloader = "fabric"
         Build-Modpack
 
         exit 
@@ -167,7 +167,7 @@ switch ($selectedMCVersion) {
         # Set the variables for the modpack to be built
         $mcversion = "1.20.1"
         $modpacktype = "ultra"
-        $modloader = "quilt"
+        $modloader = "fabric"
 
         # Build the modpack
         Select-NewMPVersion
@@ -178,7 +178,7 @@ switch ($selectedMCVersion) {
         # Set the variables for the modpack to be built
         $mcversion = "1.20.1"
         $modpacktype = "nano"
-        $modloader = "quilt"
+        $modloader = "fabric"
 
         # Build the modpack
         Select-NewMPVersion

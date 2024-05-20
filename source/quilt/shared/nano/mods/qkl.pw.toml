@@ -1,6 +1,0 @@
-name = "Quilt Kotlin Libraries (QKL)"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "lwVhp9o5"
