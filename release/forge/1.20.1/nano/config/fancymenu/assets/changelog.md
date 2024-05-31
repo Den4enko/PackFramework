@@ -1,5 +1,11 @@
 ## CHANGELOG:
 
+### v3:
+
+- Updated mods
+- Added more optimization mods
+- Added new modpack type: "server"
+
 ### v2:
 
 - Migrated most mods to Modrinth

@@ -156,9 +156,9 @@ switch ($selectedMCVersion) {
     }
     "8" {
         # 8) Copy Beta to Release folders
-        Remove-Item -Path "release" -Recurse -Include *.*
-        Copy-Item -Path "beta\*" -Destination "release" -Recurse -Force
-        Remove-Item -Path "release\lastVersion.txt"
+        Remove-Item -Path "$PSScriptRoot\release" -Recurse -Include *.*
+        Copy-Item -Path "$PSScriptRoot\beta\*" -Destination "$PSScriptRoot\release" -Recurse -Force
+        Remove-Item -Path "$PSScriptRoot\release\lastVersion.txt"
     }
     default {
         Write-Host "I’m sorry, but it seems you’ve selected the wrong option." -ForegroundColor Red
