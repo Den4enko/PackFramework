@@ -1,4 +1,4 @@
-$scriptVersion = "v1"
+$scriptVersion = "v2"
 # Define the function to build a modpack
 function Select-NewMPVersion {
     $lastVersion = Get-Content -Path "$PSScriptRoot/beta/lastVersion.txt"
@@ -9,25 +9,86 @@ function Select-NewMPVersion {
     $global:selectedMPVersion | Out-File -FilePath "$PSScriptRoot/beta/lastVersion.txt"
     Write-Host $global:selectedMPVersion
 }
+function Build-Forge20 {
+    $mcversion = "1.20.1"
+    $modpacktype = "server"
+    $modloader = "forge"
+    Build-Modpack
+
+    $mcversion = "1.20.1"
+    $modpacktype = "nano"
+    $modloader = "forge"
+    Build-Modpack
+
+    $mcversion = "1.20.1"
+    $modpacktype = "ultra"
+    $modloader = "forge"
+    Build-Modpack
+    }
+function Build-Forge19 {
+    $mcversion = "1.19.2"
+    $modpacktype = "server"
+    $modloader = "forge"
+    Build-Modpack
+
+    $mcversion = "1.19.2"
+    $modpacktype = "nano"
+    $modloader = "forge"
+    Build-Modpack
+
+    $mcversion = "1.19.2"
+    $modpacktype = "ultra"
+    $modloader = "forge"
+    Build-Modpack
+    }
+function Build-Forge18 {
+    $mcversion = "1.18.2"
+    $modpacktype = "server"
+    $modloader = "forge"
+    Build-Modpack
+
+    $mcversion = "1.18.2"
+    $modpacktype = "nano"
+    $modloader = "forge"
+    Build-Modpack
+
+    $mcversion = "1.18.2"
+    $modpacktype = "ultra"
+    $modloader = "forge"
+    Build-Modpack
+    }
+function Build-Fabric20 {
+    $mcversion = "1.20.1"
+    $modpacktype = "server"
+    $modloader = "fabric"
+    Build-Modpack
+
+    $mcversion = "1.20.1"
+    $modpacktype = "nano"
+    $modloader = "fabric"
+    Build-Modpack
+
+    $mcversion = "1.20.1"
+    $modpacktype = "ultra"
+    $modloader = "fabric"
+    Build-Modpack
+    }
 function Select-MCVersion {
 # Prompt the user to select a version to build
 Write-Host "[PackFramework Builder $scriptVersion]" -ForegroundColor Green
 Write-Host "Select action to do:"
 Write-Host
-Write-Host "1) All Forge Versions"
-Write-Host "2) Forge 1.20.1 Ultra"
-Write-Host "3) Forge 1.20.1 Nano"
-Write-Host "4) Forge 1.19.2 Ultra"
-Write-Host "5) Forge 1.19.2 Nano"
-Write-Host "6) Forge 1.18.2 Ultra"
-Write-Host "7) Forge 1.18.2 Nano"
+Write-Host "1) All Versions"
 Write-Host
-Write-Host "8) (Forge) Copy Beta to Release folder"
+Write-Host "2) All Forge Versions"
+Write-Host "3) Forge 1.20.1"
+Write-Host "4) Forge 1.19.2"
+Write-Host "5) Forge 1.18.2"
 Write-Host
-Write-Host "9) All Fabric Versions"
+Write-Host "6) All Fabric Versions"
+Write-Host "7) Fabric 1.20.1"
 Write-Host
-Write-Host "10) Fabric 1.20.1 Ultra"
-Write-Host "11) Fabric 1.20.1 Nano"
+Write-Host "8) Copy Beta to Release folders"
 Write-Host
 Write-Host "0) Exit"
 Write-Host
@@ -41,149 +102,63 @@ switch ($selectedMCVersion) {
     "0" {
         exit
     }
-    "1" { 
+    "1" {
+        # 1) All Versions
         Select-NewMPVersion
 
-        $mcversion = "1.20.1"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-        Build-Modpack
+        Build-Forge20
+        Build-Forge19
+        Build-Forge18
 
-        $mcversion = "1.20.1"
-        $modpacktype = "nano"
-        $modloader = "forge"
-        Build-Modpack
+        Build-Fabric20
 
-        $mcversion = "1.19.2"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-        Build-Modpack
-
-        $mcversion = "1.19.2"
-        $modpacktype = "nano"
-        $modloader = "forge"
-        Build-Modpack
-
-        $mcversion = "1.18.2"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-        Build-Modpack
-
-        $mcversion = "1.18.2"
-        $modpacktype = "nano"
-        $modloader = "forge"
-        Build-Modpack
-
-        exit 
+        Select-MCVersion
     }
     "2" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.20.1"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-
-        # Build the modpack
+        # 2) All Forge Versions
         Select-NewMPVersion
-        Build-Modpack
+
+        Build-Forge20
+        Build-Forge19
+        Build-Forge18
+
         Select-MCVersion
     }
     "3" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.20.1"
-        $modpacktype = "nano"
-        $modloader = "forge"
-
-        # Build the modpack
+        # 3) Forge 1.20.1
         Select-NewMPVersion
-        Build-Modpack
+        Build-Forge20
         Select-MCVersion
     }
     "4" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.19.2"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-
-        # Build the modpack
+        # 4) Forge 1.19.2
         Select-NewMPVersion
-        Build-Modpack
+        Build-Forge19
         Select-MCVersion
     }
     "5" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.19.2"
-        $modpacktype = "nano"
-        $modloader = "forge"
-
-        # Build the modpack
+        # 5) Forge 1.18.2
         Select-NewMPVersion
-        Build-Modpack
+        Build-Forge18
         Select-MCVersion
     }
     "6" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.18.2"
-        $modpacktype = "ultra"
-        $modloader = "forge"
-
-        # Build the modpack
+        # 6) All Fabric Versions
         Select-NewMPVersion
-        Build-Modpack
+        Build-Fabric20
         Select-MCVersion
     }
     "7" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.18.2"
-        $modpacktype = "nano"
-        $modloader = "forge"
-
-        # Build the modpack
+        # 7) Fabric 1.20.1
         Select-NewMPVersion
-        Build-Modpack
+        Build-Fabric20
         Select-MCVersion
     }
     "8" {
+        # 8) Copy Beta to Release folders
         Remove-Item -Path "release" -Recurse -Include *.*
         Copy-Item -Path "beta\*" -Destination "release" -Recurse -Force
         Remove-Item -Path "release\lastVersion.txt"
-        exit
-    }
-    "9" {
-        Select-NewMPVersion
-
-        $mcversion = "1.20.1"
-        $modpacktype = "ultra"
-        $modloader = "fabric"
-        Build-Modpack
-
-        $mcversion = "1.20.1"
-        $modpacktype = "nano"
-        $modloader = "fabric"
-        Build-Modpack
-
-        exit 
-    }
-    "10" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.20.1"
-        $modpacktype = "ultra"
-        $modloader = "fabric"
-
-        # Build the modpack
-        Select-NewMPVersion
-        Build-Modpack
-        Select-MCVersion
-    }
-    "11" {
-        # Set the variables for the modpack to be built
-        $mcversion = "1.20.1"
-        $modpacktype = "nano"
-        $modloader = "fabric"
-
-        # Build the modpack
-        Select-NewMPVersion
-        Build-Modpack
-        Select-MCVersion
     }
     default {
         Write-Host "I’m sorry, but it seems you’ve selected the wrong option." -ForegroundColor Red
@@ -208,14 +183,24 @@ function Build-Modpack {
     }
     # Merge the necessary files into the output path
     Write-Host "[$(Get-Date -Format 'mm:ss')] Merging..."
-    Copy-Item -Path "$PSScriptRoot\source\$modloader\shared\nano\*" -Destination "$outputPath" -Recurse -Force
-    if ($modpacktype -eq 'ultra') {
-        Copy-Item -Path "$PSScriptRoot\source\$modloader\shared\ultra\*" -Destination "$outputPath" -Recurse -Force
+
+    if ($modpacktype -eq 'server' -or $modpacktype -eq 'nano' -or $modpacktype -eq 'ultra') {
+        Copy-Item -Path "$PSScriptRoot\source\$modloader\shared\server\*" -Destination "$outputPath" -Recurse -Force
+        Copy-Item -Path "$PSScriptRoot\source\$modloader\$mcversion\server\*" -Destination "$outputPath" -Recurse -Force
     }
-    Copy-Item -Path "$PSScriptRoot\source\$modloader\$mcversion\nano\*" -Destination "$outputPath" -Recurse -Force
-    if ($modpacktype -eq 'ultra') {
-        if (Test-Path -Path "$PSScriptRoot\source\$modloader\$mcversion\ultra") {
-        Copy-Item -Path "$PSScriptRoot\source\$modloader\$mcversion\ultra\*" -Destination "$outputPath" -Recurse -Force
+
+    if ($modpacktype -eq 'nano' -or $modpacktype -eq 'ultra') {
+        Copy-Item -Path "$PSScriptRoot\source\$modloader\shared\nano\*" -Destination "$outputPath" -Recurse -Force
+        if ($modpacktype -eq 'ultra') {
+            Copy-Item -Path "$PSScriptRoot\source\$modloader\shared\ultra\*" -Destination "$outputPath" -Recurse -Force
+            }
+            if (Test-Path -Path "$PSScriptRoot\source\$modloader\$mcversion\nano") {
+        Copy-Item -Path "$PSScriptRoot\source\$modloader\$mcversion\nano\*" -Destination "$outputPath" -Recurse -Force
+            }
+        if ($modpacktype -eq 'ultra') {
+            if (Test-Path -Path "$PSScriptRoot\source\$modloader\$mcversion\ultra") {
+            Copy-Item -Path "$PSScriptRoot\source\$modloader\$mcversion\ultra\*" -Destination "$outputPath" -Recurse -Force
+            }
         }
     }
 
@@ -232,11 +217,14 @@ function Build-Modpack {
     Write-Host "[$(Get-Date -Format 'mm:ss')] Changing versions..."
     
     (Get-Content "$outputPath/pack.toml") | ForEach-Object { $_ -replace "noVersion", "$global:selectedMPVersion" } | Set-Content "$outputPath/pack.toml"
+    if ($modpacktype -eq 'nano' -or $modpacktype -eq 'ultra') {
     (Get-Content "$outputPath/config/fancymenu/custom_locals/meta/en_us.local") | ForEach-Object { $_ -replace "noVersion", "$global:selectedMPVersion" } | Set-Content "$outputPath/config/fancymenu/custom_locals/meta/en_us.local"
-
+    }
     # Copy the changelog to the output path
+    if ($modpacktype -eq 'nano' -or $modpacktype -eq 'ultra') {
     Write-Host "[$(Get-Date -Format 'mm:ss')] Copying Changelog..."
     Copy-Item "$PSScriptRoot\CHANGELOG.md" "$outputPath\config\fancymenu\assets\changelog.md"
+    }
 
     # Update the modpack using packwiz
     Write-Host "[$(Get-Date -Format 'mm:ss')] Updating..."

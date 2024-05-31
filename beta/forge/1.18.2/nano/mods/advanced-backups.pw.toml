@@ -1,0 +1,13 @@
+name = "Advanced Backups"
+filename = "AdvancedBackups-forge-1.18-3.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/OV5VjUWl/AdvancedBackups-forge-1.18-3.5.2.jar"
+hash-format = "sha1"
+hash = "ed34f1d366a4bec1228424d12fb266b1f57a3e45"
+
+[update]
+[update.modrinth]
+mod-id = "Jrmoreqs"
+version = "OV5VjUWl"

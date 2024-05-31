@@ -22,7 +22,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "43e16a20ac70bde49f3ca2e1703ac8372870910f675c01b33d3bd3ca5ec0b577"
+hash = "e45dd8774a9828ee30dce6b88c09fc6822dfaaaea2f6db09267c63f443c671db"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -54,7 +54,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "519fdbad82a75909b673257ca111f323058d748297aa91dd599f24cb17ef456a"
+hash = "c26802070fa2fbf77c1928c7681e9687941e4e59dda82924e2174fdd898446f6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -132,6 +132,11 @@ file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "dc647cd9d4fc0a302fe7837b854a883130b8ea6486e875639070b47fa3196c06"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "a8a03ec020807746de21615cae30585329275e9c4c99875d8b690f1a3b7e0b12"
 metafile = true
@@ -144,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "9e66f32990ecd4cb815cc9c434848e5768d53996f5e2b6ba1f35b88d5ab7aa1d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
 metafile = true
 
 [[files]]
@@ -233,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "d1bb316b96fb60469e4364083725afbd91bce62c7063f8063901b850eeb6fdf5"
+hash = "8980aece46f9a7447bbc1501cdc80de198a56060701d9bd3f39ed3ce586aa8df"
 metafile = true
 
 [[files]]

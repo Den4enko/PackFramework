@@ -1,6 +1,0 @@
-name = "BetterF3"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "8shC1gFX"

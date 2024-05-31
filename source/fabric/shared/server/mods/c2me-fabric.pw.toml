@@ -1,0 +1,6 @@
+name = "Concurrent Chunk Management Engine (Fabric)"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "VSNURh3q"

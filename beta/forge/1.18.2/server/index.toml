@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "dc647cd9d4fc0a302fe7837b854a883130b8ea6486e875639070b47fa3196c06"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "a8a03ec020807746de21615cae30585329275e9c4c99875d8b690f1a3b7e0b12"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3d04d8974dbefaece1fe0222f79a2e936cda6ca1fa05fcda81a3d3725e1e7a95"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "c3d8e3617934cc5f245a8fa16b0697a829c6efb8b636176b9f2034fb030e458a"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "9578c3ad896fdd21eacbd299bbf1982a3fcaf9b635ffc3ae1e06a4cf4e3e3353"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d913180be18a60d5723ca0de9d48a3db35a8213fd2795ac4b566f29788d95922"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "8980aece46f9a7447bbc1501cdc80de198a56060701d9bd3f39ed3ce586aa8df"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "f09534f98487d67cefaa9f7ebfd419c5601113b6adcc22f57df97aa487b5f04c"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "aa7cfb1a828fc186fff465c224ec395461e1d1a40bfd5a45ff130090ae258aff"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "3c1097e1f3ec461cf5fb2610052efae602315e2a9783d839acb6b85168bb3681"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0acbddd05502d805d548e114a82e8b2ede5018b23239f59cdf34a81397d03e95"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7d55d3ce406bae0b380718c5b68167c9cc4eb454c1e78c7b754d6c50d04e2b04"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "529c82bb9c085fb98ee4e428eec8de8cd6d9563295ce80c7afc6c4c53bd7de8b"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+metafile = true
