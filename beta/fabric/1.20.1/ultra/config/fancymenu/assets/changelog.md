@@ -1,5 +1,10 @@
 ## CHANGELOG:
 
+### v3.1 (only Fabric):
+
+- Updated mods
+- Added Krypton
+
 ### v3:
 
 - Updated mods

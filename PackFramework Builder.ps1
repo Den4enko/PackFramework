@@ -172,7 +172,7 @@ function Build-Modpack {
     $outputPath = "$PSScriptRoot\beta\$modloader\$mcversion\$modpacktype"
 
     # Display a message indicating that the build is starting
-    Write-Host "[$(Get-Date -Format 'mm:ss')] Building $mcversion-$modpacktype..."
+    Write-Host "[$(Get-Date -Format 'mm:ss')] Building $modloader-$mcversion-$modpacktype..."
 
     # Clean up any old files in the output path
     Write-Host "[$(Get-Date -Format 'mm:ss')] Cleaning files..."

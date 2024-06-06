@@ -66,7 +66,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "e45dd8774a9828ee30dce6b88c09fc6822dfaaaea2f6db09267c63f443c671db"
+hash = "8057da9dfacb0c28931e14c2f58179aff65a54d1d625b3887e1938d6105fb4f6"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -98,7 +98,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "c26802070fa2fbf77c1928c7681e9687941e4e59dda82924e2174fdd898446f6"
+hash = "3a8f65274c7f3ea46787c8d4d72a6f1cadb41aada3ef6dad58046c71269633d1"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c78aacd238fa9bb71add23feed6189532423aa234b45b04ca695f5af27ac2c9c"
+hash = "4af805e82a1755aa0138826ebe1e6d65342677d1ed76813bc676ac3ff31bbb95"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
+hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
+hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
 metafile = true
 
 [[files]]
@@ -359,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "4309ea8345464a9bf101163d67186ee61c732dc36d2ee74fa99f7a4e9e8a7ae8"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
 
 [[files]]

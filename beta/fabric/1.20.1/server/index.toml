@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
+hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
 metafile = true
 
 [[files]]
@@ -77,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "4309ea8345464a9bf101163d67186ee61c732dc36d2ee74fa99f7a4e9e8a7ae8"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
 
 [[files]]

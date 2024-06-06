@@ -1,0 +1,6 @@
+name = "Raknetify"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "5IovSY3u"
