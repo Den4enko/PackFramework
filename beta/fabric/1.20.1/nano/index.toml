@@ -66,7 +66,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "8057da9dfacb0c28931e14c2f58179aff65a54d1d625b3887e1938d6105fb4f6"
+hash = "4032337185d5f5029e212a222eba51aa424d12100188aff667aea240abcb2f1b"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -98,7 +98,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "3a8f65274c7f3ea46787c8d4d72a6f1cadb41aada3ef6dad58046c71269633d1"
+hash = "9109ffec5fe5dd62a9f5fc240676d563162c1300e6ead82da3ea62c21b631a32"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -175,7 +175,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "16e94eccd085b57c14c094cda06781469dbad5b9bea0a6834ddd8cfbe9961ab9"
+hash = "72cd8f12943349bf20744dd05901a99a0e9df7553961d152623acaaef27eeb68"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1d495b49f833bc12b710224727f332a6848cd0844d1f260fd6da79ef3c51b3bf"
+hash = "431a19387007cc412516ce44e103c8c25b7233dc034140b60f0ff88415459979"
 metafile = true
 
 [[files]]
@@ -317,11 +317,6 @@ hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
@@ -358,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4309ea8345464a9bf101163d67186ee61c732dc36d2ee74fa99f7a4e9e8a7ae8"
+hash = "ef1f961c71b08f2a948299a9a5156aaf4b1628897838aff10c18458c46dc4350"
 metafile = true
 
 [[files]]

@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01088f790773a03f31b2eaa82b74e831c21f9113c166b6141435796dfd0dd8ab"
+hash = "cdb2ffaf0ef8cc5b9344f1f201c4e389c228267d56aac7e1230e7d5d80a46179"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "7b1192ecd2cf1486cac111b51dc85645569be302d7a0e2d8d409fd71ccf207e1"
+hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
 
 [[files]]

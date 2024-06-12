@@ -26,7 +26,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "e45dd8774a9828ee30dce6b88c09fc6822dfaaaea2f6db09267c63f443c671db"
+hash = "4032337185d5f5029e212a222eba51aa424d12100188aff667aea240abcb2f1b"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -58,7 +58,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "c26802070fa2fbf77c1928c7681e9687941e4e59dda82924e2174fdd898446f6"
+hash = "9109ffec5fe5dd62a9f5fc240676d563162c1300e6ead82da3ea62c21b631a32"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d913180be18a60d5723ca0de9d48a3db35a8213fd2795ac4b566f29788d95922"
+hash = "c99f79cf75fe12ee5629034325ca79724cddb52f2623499f1de513b2339dc2a6"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "8980aece46f9a7447bbc1501cdc80de198a56060701d9bd3f39ed3ce586aa8df"
+hash = "d2132a247d6a9c7d588d5f25298170afc267eaa33b91a6a84ce88f2e61f3912f"
 metafile = true
 
 [[files]]
@@ -356,5 +356,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true

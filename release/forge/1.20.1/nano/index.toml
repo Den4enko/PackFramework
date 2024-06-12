@@ -34,7 +34,7 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "e45dd8774a9828ee30dce6b88c09fc6822dfaaaea2f6db09267c63f443c671db"
+hash = "4032337185d5f5029e212a222eba51aa424d12100188aff667aea240abcb2f1b"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "c26802070fa2fbf77c1928c7681e9687941e4e59dda82924e2174fdd898446f6"
+hash = "9109ffec5fe5dd62a9f5fc240676d563162c1300e6ead82da3ea62c21b631a32"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7fe9dc877dd9f42c9f6b376d180ecb9c90415fb1797b2f550af94de6624333df"
+hash = "03163f7a7348bf7b78e5a99558b16749c1c68bfc6f47ad24be72973b5721dbdb"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
+hash = "16b1f287be4abaefb276f61579afe65513cb5a08a647cca28014e892e9ef6324"
 metafile = true
 
 [[files]]
@@ -263,12 +263,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
+hash = "5313dd0c3ee565ae28c29e659db5937c65508220873dce58a70491aab76efb52"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
 metafile = true
 
 [[files]]
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "7b1192ecd2cf1486cac111b51dc85645569be302d7a0e2d8d409fd71ccf207e1"
+hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
 
 [[files]]

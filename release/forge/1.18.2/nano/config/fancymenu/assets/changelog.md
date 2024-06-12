@@ -1,5 +1,15 @@
 ## CHANGELOG:
 
+### v4:
+
+- Updated mods
+- Added optimizations mods for forge
+
+### v3.1 (only Fabric):
+
+- Updated mods
+- Added Krypton
+
 ### v3:
 
 - Updated mods
