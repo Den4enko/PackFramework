@@ -1,0 +1,6 @@
+name = "Distant Horizons"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"

@@ -1,5 +1,11 @@
 ## CHANGELOG:
 
+### v4.1 (only Fabric):
+
+- Updated mods
+- Added Fastbackups
+- Remove Advanced Backups
+
 ### v4:
 
 - Updated mods
