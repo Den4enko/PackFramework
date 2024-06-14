@@ -5,11 +5,6 @@ file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
 [[files]]
-file = "mods/advanced-backups.pw.toml"
-hash = "c7e460fecdc6f3b1b635066dd379daff6b8b5a4c230adfde8cad248ec4f4d4b3"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2cfbf2650cf75fbf2fa43fe42dd3d01bddd8d0df02617d47d91c21a0de775a4f"
 metafile = true
@@ -45,6 +40,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "ccffb0cc8ebbed38e43c980d083b6ff940ff7c43a7fc40af4d0dd15827d78f30"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "6a8154ef8806ca83de866f75f55098807b1820e3167e1c91b03b716e552c785b"
 metafile = true
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
+hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
+hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d6c2e4a684701f313dc2243217d08f300639bc5fceba60a870a7bb298ca0036c"
+hash = "05e85644cd5922f05f678fbd352b25d34d6ae26b16fe87dcd23527a373f59f54"
 metafile = true
 
 [[files]]
