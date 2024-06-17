@@ -25,11 +25,11 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 
 ### Version Support
 
-| MC Version⬇️ | Quilt | Fabric | NeoForge | Forge |
-| ------------ |:-----:|:------:|:--------:|:-----:|
-| 1.20.1       | ❌     | ✅      | ❌        | ✅     |
-| 1.19.2       | ❓     | ❓      | ❌        | ✅     |
-| 1.18.2       | ❓     | ❓      | ❌        | ✅     |
+| MC Version⬇️ | Quilt | Fabric | NeoForge                      | Forge |
+| ------------ |:-----:|:------:|:-----------------------------:|:-----:|
+| 1.20.1       | ❓     | ✅      | ❌ | ✅     |
+| 1.19.2       | ❓     | ❓      | ❌                             | ✅     |
+| 1.18.2       | ❓     | ❓      | ❌                             | ✅     |
 
 ✅ - actively supported. ❌ - is not supported. 🟥 - no longer supported. 🟨 - coming soon. ❓- may be supported.
 
