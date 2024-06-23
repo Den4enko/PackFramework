@@ -1,13 +1,13 @@
 name = "fast-ip-ping"
-filename = "fast-ip-ping-mc1.20.4-forge-v1.0.1.jar"
+filename = "fast-ip-ping-mc1.20.4-forge-v1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/f6pkJC6p/fast-ip-ping-mc1.20.4-forge-v1.0.1.jar"
+url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/bIaMwV7B/fast-ip-ping-mc1.20.4-forge-v1.0.3.jar"
 hash-format = "sha1"
-hash = "d2ae47cc0e30f9dd354de6af5db0a65401dab631"
+hash = "8fbc2176dfc931741a4d7b1213393d2fe893758c"
 
 [update]
 [update.modrinth]
 mod-id = "9mtu0sUO"
-version = "f6pkJC6p"
+version = "bIaMwV7B"

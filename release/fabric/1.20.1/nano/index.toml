@@ -29,10 +29,6 @@ file = "config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
-file = "config/dashloader.json"
-hash = "3985f8a0b78e86dd73044cf8aaceed416967be04d8a6b4f7610b777d96a724f1"
-
-[[files]]
 file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
@@ -65,8 +61,16 @@ file = "config/fancymenu/assets/background.jpg"
 hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
+file = "config/fancymenu/assets/changelog-ru_ru.md"
+hash = "d3d107d2c8fb11083b53e9e668a3ff60a806ada8051ec80f8b3c62f91b11a97d"
+
+[[files]]
+file = "config/fancymenu/assets/changelog-uk_ua.md"
+hash = "7ff5a2eab87dd8d240955f307b0233d0e9966b99a5a7c2d2b882d5ae3b621cf0"
+
+[[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "8296fa81949538034c9d668a1ec113271bd87d6b7ef281d82af6f534daedefea"
+hash = "9701d0f96fa5bab7c73131aa52744674ae632a63a78cf4e0d00e24244f0ee01c"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -98,7 +102,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "54b6fa748291a03dba4011c0960a44196a05a9252511407a0f2054a8f0f01499"
+hash = "6664f11c28b5db3bd0b576866dbf8343b3ea0dec25e03381331f354eb5ca759e"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -114,7 +118,11 @@ hash = "b5b846423882199a35f09d864c56f33b44f441bef7aecbd28db99fca2c6932c2"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "6dd79d1262838d490c6cea524fd141e30570c806a799690b317d1715413d7d34"
+hash = "6282a7ad13674145ec3872b1e4956d58c3ccf9b47cb960ccf36f26d04bbf9b89"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -153,11 +161,6 @@ file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
 
 [[files]]
-file = "config/openloader/resources/Chat_Reporting_Helper.pw.toml"
-hash = "f1f74f07924a5b0eb57e7c662c2e3f8c56d50eaee0dc2cb4cb40985af8eb9cf4"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/en_us.json"
 hash = "5bd5a58d88b5f671151a42bac9976a44e0b71d6da7bc614a8c90be11ef33465c"
 
@@ -170,17 +173,16 @@ file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/
 hash = "27850f9adbc86081a0b7852159002365888e4332ba2f390720f566a420e79cac"
 
 [[files]]
+file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
+hash = "0348c3e979c957cbd26c2bdf32c60de5020cd13ec2848e25340fb21e022a3c15"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/pack.png"
 hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "50e466b2e0b19fa50e15b0e41caf95df52b4659ae0d59d0127a1ba0b29563d70"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/default-dark-mode.pw.toml"
-hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+hash = "a99cf551d68cecf68ed404a03c1376536b9677bbf0d513482098720b96cc277d"
 metafile = true
 
 [[files]]
@@ -190,6 +192,11 @@ hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "64a04a0c63bb4e01e04941d1ca61803bc778eacc00346c22e56bb339b4280d08"
+metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -217,11 +224,6 @@ hash = "f2eb1dd22fc91fb3e47c15cf580d5cc3922ed024fe53f2815964505473469528"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -238,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "431a19387007cc412516ce44e103c8c25b7233dc034140b60f0ff88415459979"
+hash = "e220a511468648bf870055075193e518c96d213f895a9196a587bb17d543c8bd"
 metafile = true
 
 [[files]]
@@ -263,12 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "ccffb0cc8ebbed38e43c980d083b6ff940ff7c43a7fc40af4d0dd15827d78f30"
+hash = "9aa67a829335cb842d77bc0f4949d9a3ff5f449f66377c551b702a8c64dfb04c"
 metafile = true
 
 [[files]]
@@ -373,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "05e85644cd5922f05f678fbd352b25d34d6ae26b16fe87dcd23527a373f59f54"
+hash = "bd13db1716554c5dad77cafcace77b1a8f0c5eb780c8d4e2cadf5068c40a5ec4"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Advanced Backups"
-filename = "AdvancedBackups-forge-1.20-3.5.2.jar"
+filename = "AdvancedBackups-forge-1.20-3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/nJmZOPXd/AdvancedBackups-forge-1.20-3.5.2.jar"
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/zziay959/AdvancedBackups-forge-1.20-3.6.jar"
 hash-format = "sha1"
-hash = "3f62c5eec1dec3b6d702c4b7dc09b27bccae059f"
+hash = "1f4ace26cc5a38138ba94b7f9b5663a7fa4ba273"
 
 [update]
 [update.modrinth]
 mod-id = "Jrmoreqs"
-version = "nJmZOPXd"
+version = "zziay959"

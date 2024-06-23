@@ -5,6 +5,11 @@ file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "64a04a0c63bb4e01e04941d1ca61803bc778eacc00346c22e56bb339b4280d08"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2cfbf2650cf75fbf2fa43fe42dd3d01bddd8d0df02617d47d91c21a0de775a4f"
 metafile = true
@@ -37,11 +42,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "ccffb0cc8ebbed38e43c980d083b6ff940ff7c43a7fc40af4d0dd15827d78f30"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "05e85644cd5922f05f678fbd352b25d34d6ae26b16fe87dcd23527a373f59f54"
+hash = "bd13db1716554c5dad77cafcace77b1a8f0c5eb780c8d4e2cadf5068c40a5ec4"
 metafile = true
 
 [[files]]
