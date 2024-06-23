@@ -1,6 +1,0 @@
-name = "Chat Reporting Helper"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "tN4E9NfV"

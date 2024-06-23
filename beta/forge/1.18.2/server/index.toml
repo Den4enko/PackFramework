@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "dc647cd9d4fc0a302fe7837b854a883130b8ea6486e875639070b47fa3196c06"
+hash = "3cfc3e93134f039be5a85350538a25ad5bf5d9e7522444eafc5ef8745149b531"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0acbddd05502d805d548e114a82e8b2ede5018b23239f59cdf34a81397d03e95"
+hash = "6083a89560085993e3f8d587fbfc0190757822ca04566e400f833197774ff1d6"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "04497acb590ebb90c1a0a86b4a142eed7fe9610cd4e96cde4ac1cb0b35bae9dd"
+hash = "2cba3b66af3e2759938a6c8f9aa5182545d30e6d014fce14c3e6f18ca028f230"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5313dd0c3ee565ae28c29e659db5937c65508220873dce58a70491aab76efb52"
+hash = "e2f18b67d7c5e0bf4dca773a0fe661ba95b424e75f686eb7cc7d5a5eada69815"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0ba94a262f7f8ec584fdf46363c7c2a13f5b23610c8cee9a5423d1ab4a9b19ae"
+hash = "c47911e9120563e98fac92a3c7ef77d473cc28ea7bd4d4d2fb74817f529b231a"
 metafile = true
 
 [[files]]

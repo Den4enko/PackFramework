@@ -1,5 +1,19 @@
 ## CHANGELOG:
 
+### v5:
+
+- Updated mods
+- New MainMenu screen!
+- Fabric: mod "Advanced Backups" is back
+- Removed resoucepack "Chat Reporting Helper"
+
+
+### v4.1 (only Fabric):
+
+- Updated mods
+- Added "Fastbackups"
+- Remove "Advanced Backups"
+
 ### v4:
 
 - Updated mods
@@ -8,7 +22,7 @@
 ### v3.1 (only Fabric):
 
 - Updated mods
-- Added Krypton
+- Added mod "Krypton"
 
 ### v3:
 

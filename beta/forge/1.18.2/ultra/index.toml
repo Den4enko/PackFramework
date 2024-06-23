@@ -25,8 +25,16 @@ file = "config/fancymenu/assets/background.jpg"
 hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
+file = "config/fancymenu/assets/changelog-ru_ru.md"
+hash = "d3d107d2c8fb11083b53e9e668a3ff60a806ada8051ec80f8b3c62f91b11a97d"
+
+[[files]]
+file = "config/fancymenu/assets/changelog-uk_ua.md"
+hash = "7ff5a2eab87dd8d240955f307b0233d0e9966b99a5a7c2d2b882d5ae3b621cf0"
+
+[[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "4032337185d5f5029e212a222eba51aa424d12100188aff667aea240abcb2f1b"
+hash = "9701d0f96fa5bab7c73131aa52744674ae632a63a78cf4e0d00e24244f0ee01c"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -58,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "9109ffec5fe5dd62a9f5fc240676d563162c1300e6ead82da3ea62c21b631a32"
+hash = "6664f11c28b5db3bd0b576866dbf8343b3ea0dec25e03381331f354eb5ca759e"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -78,7 +86,7 @@ hash = "8a09a951bd94fce467999ed2112bd9d44d0b89604cb195de5d6afde1d5eaea3b"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "b6b3b5e51ce2fba57b3a67098787de860da86ecab146aedfc86bd61eb45be065"
+hash = "3e9885a3d4606a3e9a6427e5f8c3fe3f3e46eb6f4da0469f060cdbd47af4b9c1"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -86,7 +94,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "52a3ebc3f286c0e7524fc951632ff4ac2d655a0ff1b6562e2df527b02dce5fb5"
+hash = "3107b630067df5f29c250c28ab8390fe0da012ed962871df9fb4d657ffb540d7"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -141,7 +149,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "dc647cd9d4fc0a302fe7837b854a883130b8ea6486e875639070b47fa3196c06"
+hash = "3cfc3e93134f039be5a85350538a25ad5bf5d9e7522444eafc5ef8745149b531"
 metafile = true
 
 [[files]]
@@ -205,6 +213,11 @@ hash = "eeebfad71b8f761102c9de8a01bde277d42be8fb13ac42a339fe2a9a1be05531"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "6ad99694d004042855d4232d36464935c8b6fae1c7c6edb37b50aade451df96f"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "d40dfcc8b665ad046f35631fe4704089f6c588d90ec1e9f214f6c18d6c5966e8"
 metafile = true
@@ -216,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "99fcb6b894baef33bfa877044c6a8c02c60f8caeb2885a5ebd968a2a6a2725a1"
+hash = "2d208a4eed1431a3f5fb994429684a2816a3704bd7f4ecd90f2f34f1fd4a10f4"
 metafile = true
 
 [[files]]
@@ -236,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "d361c7ac23bb3e13db3b665984858bf4f6380e9b274c08bbfb51a857a39a4fc7"
+hash = "6b6bee8f782f589185cb1b41ba396782695464b84c42c8cd54a1c43585d9c34a"
 metafile = true
 
 [[files]]
@@ -326,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0acbddd05502d805d548e114a82e8b2ede5018b23239f59cdf34a81397d03e95"
+hash = "6083a89560085993e3f8d587fbfc0190757822ca04566e400f833197774ff1d6"
 metafile = true
 
 [[files]]
