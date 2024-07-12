@@ -1,12 +1,16 @@
 ## CHANGELOG:
 
+### v6:
+
+- Updated mods
+- Fixed MainMenu layout
+
 ### v5:
 
 - Updated mods
 - New MainMenu screen!
 - Fabric: mod "Advanced Backups" is back
 - Removed resoucepack "Chat Reporting Helper"
-
 
 ### v4.1 (only Fabric):
 
