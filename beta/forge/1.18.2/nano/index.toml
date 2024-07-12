@@ -22,15 +22,15 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog-ru_ru.md"
-hash = "d3d107d2c8fb11083b53e9e668a3ff60a806ada8051ec80f8b3c62f91b11a97d"
+hash = "b471c3013e72dd4aeaad2e5005748e337da5bcfff7dd5b4f36db80f547b60963"
 
 [[files]]
 file = "config/fancymenu/assets/changelog-uk_ua.md"
-hash = "7ff5a2eab87dd8d240955f307b0233d0e9966b99a5a7c2d2b882d5ae3b621cf0"
+hash = "7006d7d68a12c9fff8112e11db545cf3c69fbc759ec35328be83cf3cbdcdd3c2"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "9701d0f96fa5bab7c73131aa52744674ae632a63a78cf4e0d00e24244f0ee01c"
+hash = "50e17a8d7c9d1b605a77c93ee87f742c29a4b187c7a045cae8cc723de2bb779f"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -62,7 +62,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "6664f11c28b5db3bd0b576866dbf8343b3ea0dec25e03381331f354eb5ca759e"
+hash = "04594e282936347c6cea2bd1263c35ebba1622bc60301d7eeb4ab8acc10490a3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -78,7 +78,7 @@ hash = "8a09a951bd94fce467999ed2112bd9d44d0b89604cb195de5d6afde1d5eaea3b"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "3e9885a3d4606a3e9a6427e5f8c3fe3f3e46eb6f4da0469f060cdbd47af4b9c1"
+hash = "087341cad2bde11717d6cc5661080e2565a47a057f3fc83760998dbfaa0f795b"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6083a89560085993e3f8d587fbfc0190757822ca04566e400f833197774ff1d6"
+hash = "3674566a03e0711290f5e33230414cc05c301600d0906e9928230ce787ecda3b"
 metafile = true
 
 [[files]]

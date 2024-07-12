@@ -38,15 +38,15 @@ hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
 
 [[files]]
 file = "config/fancymenu/assets/changelog-ru_ru.md"
-hash = "d3d107d2c8fb11083b53e9e668a3ff60a806ada8051ec80f8b3c62f91b11a97d"
+hash = "b471c3013e72dd4aeaad2e5005748e337da5bcfff7dd5b4f36db80f547b60963"
 
 [[files]]
 file = "config/fancymenu/assets/changelog-uk_ua.md"
-hash = "7ff5a2eab87dd8d240955f307b0233d0e9966b99a5a7c2d2b882d5ae3b621cf0"
+hash = "7006d7d68a12c9fff8112e11db545cf3c69fbc759ec35328be83cf3cbdcdd3c2"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "9701d0f96fa5bab7c73131aa52744674ae632a63a78cf4e0d00e24244f0ee01c"
+hash = "50e17a8d7c9d1b605a77c93ee87f742c29a4b187c7a045cae8cc723de2bb779f"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -78,7 +78,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "6664f11c28b5db3bd0b576866dbf8343b3ea0dec25e03381331f354eb5ca759e"
+hash = "04594e282936347c6cea2bd1263c35ebba1622bc60301d7eeb4ab8acc10490a3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -98,7 +98,7 @@ hash = "fb7d1778f81039397d18af9872742f22391ae7bdad377e64be8e58abc585e8bf"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "3e9885a3d4606a3e9a6427e5f8c3fe3f3e46eb6f4da0469f060cdbd47af4b9c1"
+hash = "087341cad2bde11717d6cc5661080e2565a47a057f3fc83760998dbfaa0f795b"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "03163f7a7348bf7b78e5a99558b16749c1c68bfc6f47ad24be72973b5721dbdb"
+hash = "7b5e79a876de6088ef7eb7fc70c433d3d7a54682915924660fe47b76c12f37e4"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "cd02549db3972870cdc9e28c3ff181e5c4ab8b784fd9abfa20d60cbec6530978"
+hash = "3859d2b4849ce5d7f7df1daf32762c1a2f180f12bbabef0d92b132d41015f710"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "3e5b28a1518d0d0198951234758b85ffcf1ed156435fa96553c71082effba170"
+hash = "70f677a3c35b5bb6f63450fe9b231529d2f17aefa5cca2cedcd56cb4d5e01e00"
 metafile = true
 
 [[files]]
@@ -264,12 +264,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a3461b342acacec7af9b2c6c99df28fc1653d38e11014143c471904808296bca"
+hash = "8abf1256f66e369ab03f3e4a46c235eb9a4a2ebeeaf9393a810a649592f8b0dc"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "875df93ce922765fea886edc3e3608315c89398dcf9b9da1664db87bda75dc00"
+hash = "3d392f4802461d6473de7836ec3b44fe7bef954832c8315135530be5519f647d"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2f18b67d7c5e0bf4dca773a0fe661ba95b424e75f686eb7cc7d5a5eada69815"
+hash = "886f370aa49b61b6ec0151acaf1d4450834f82ea86241dc11443dbfe08e1dba9"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "69a50ff48ecb46081bdc590cd50e49eaa91034fe338abf5fe611548626c427cc"
+hash = "d3a2af1327edf228d4f1d7a25faeb6bd7100fd65eeadecb0cde50e75c32519ec"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c47911e9120563e98fac92a3c7ef77d473cc28ea7bd4d4d2fb74817f529b231a"
+hash = "0f497918229968f782522446548e80f18d02f92641328db0548354ff5075f68f"
 metafile = true
 
 [[files]]
@@ -389,5 +389,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
+hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
 metafile = true
