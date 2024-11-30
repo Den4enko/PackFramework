@@ -1,0 +1,6 @@
+name = "Reese's Sodium Options"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "Bh37bMuy"

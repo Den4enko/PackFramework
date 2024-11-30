@@ -1,0 +1,13 @@
+name = "Palladium"
+filename = "Palladium-1.20-1.20.4-1.0.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JNRr4jji/versions/lBHCN5vc/Palladium-1.20-1.20.4-1.0.9.2.jar"
+hash-format = "sha512"
+hash = "929fac06415aab871344930b0cdae65782f109d72fa4691dbb591d9b9168edae64a6e1c71ce1a37d3dcc721ba2255c0b8bedcc23f662cdeeb9db92864d888689"
+
+[update]
+[update.modrinth]
+mod-id = "JNRr4jji"
+version = "lBHCN5vc"

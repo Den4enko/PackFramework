@@ -1,6 +1,0 @@
-name = "Melody"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "CVT4pFB2"

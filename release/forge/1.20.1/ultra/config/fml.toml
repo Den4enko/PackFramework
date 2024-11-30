@@ -1,4 +1,0 @@
-#Enable forge global version checking
-versionCheck = false
-#Early window provider
-earlyWindowProvider = "embeddium"

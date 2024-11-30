@@ -1,0 +1,6 @@
+name = "ToadLib"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "CYQ7VYrM"

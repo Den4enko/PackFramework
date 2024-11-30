@@ -1,0 +1,6 @@
+name = "AnimaticaReforged"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "6ABF6Pv3"

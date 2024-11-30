@@ -1,6 +1,0 @@
-name = "Oculus"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "GchcoXML"

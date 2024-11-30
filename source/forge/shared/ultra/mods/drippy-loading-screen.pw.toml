@@ -1,6 +1,0 @@
-name = "Drippy Loading Screen"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "v3CYg2V9"

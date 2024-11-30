@@ -1,6 +1,0 @@
-name = "Default Options"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "WEg59z5b"

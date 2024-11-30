@@ -1,6 +1,0 @@
-name = "ImmediatelyFast"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "5ZwdcRci"

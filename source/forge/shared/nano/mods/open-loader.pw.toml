@@ -1,6 +1,0 @@
-name = "Open Loader"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "KwWsINvD"

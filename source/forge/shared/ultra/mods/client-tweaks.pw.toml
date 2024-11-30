@@ -1,6 +1,0 @@
-name = "Client Tweaks"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "vPNqo58Q"

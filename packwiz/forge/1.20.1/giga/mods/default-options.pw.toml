@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-forge-1.20-18.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar"
+hash-format = "sha512"
+hash = "41ab37f580a1cbcb063958b7ec6034c9bea729aecb5452e5982a21d068617a818e78d31f03e76fc4e06dbf73f066f576d9dd6566f70d4912f29b595ba5c54079"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "CKNINccT"

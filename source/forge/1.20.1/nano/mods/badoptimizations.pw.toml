@@ -1,6 +1,0 @@
-name = "BadOptimizations"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "g96Z4WVZ"

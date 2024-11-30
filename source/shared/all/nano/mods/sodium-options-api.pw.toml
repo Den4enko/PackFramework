@@ -1,0 +1,6 @@
+name = "Sodium Options API"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "Es5v4eyq"

@@ -1,0 +1,6 @@
+name = "Sodium Dynamic Lights"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "PxQSWIcD"
