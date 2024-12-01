@@ -1,0 +1,13 @@
+name = "Dimensional Threading Reforked"
+filename = "dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V92cR3aK/versions/i3nGtwqY/dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+hash-format = "sha512"
+hash = "e09ac584cfc2062eb4204c0a7f0f214035c8f3ebdf881e34b9626e90420ebea1fae9890c97c6a0df16f8d0943d6e1f74f3d9eff742c4eeaa63843a627a361c39"
+
+[update]
+[update.modrinth]
+mod-id = "V92cR3aK"
+version = "i3nGtwqY"

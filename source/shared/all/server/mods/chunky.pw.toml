@@ -1,5 +1,5 @@
 name = "Chunky"
-side = "both"
+side = "server"
 
 [update]
 [update.modrinth]

@@ -1,0 +1,13 @@
+name = "Dimensional Threading Reforked"
+filename = "dimthread-FABRIC-mc1.20.1-v1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V92cR3aK/versions/8NPmVt9m/dimthread-FABRIC-mc1.20.1-v1.2.1.jar"
+hash-format = "sha512"
+hash = "9a45063d4e492e4e189fe6d318d91df7dbefac538d0b01d6beb29f7550ce4e2f21e951201d0566759d93efd9070c276ff1e4c811105a82aa89b322ab8868da98"
+
+[update]
+[update.modrinth]
+mod-id = "V92cR3aK"
+version = "8NPmVt9m"

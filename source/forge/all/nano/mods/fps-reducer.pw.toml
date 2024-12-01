@@ -1,6 +1,0 @@
-name = "FPS Reducer"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "iZ10HXDj"

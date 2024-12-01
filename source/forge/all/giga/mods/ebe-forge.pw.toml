@@ -1,6 +1,0 @@
-name = "EnlightenedBlockEntities"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "ntz4ZX7h"

@@ -1,0 +1,13 @@
+name = "BlinkLoad"
+filename = "blinkload-forge-1.1.0+mc1.20-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2qcrCATG/versions/bAsteREW/blinkload-forge-1.1.0%2Bmc1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "0a112fa84b01ff900a2d47852ced969d0ec8a61b5363f1efb84d39533f482702eae0cefca633b96f97c2f327d3490a9a0debbabfbdf8b23fe8b9c150d0f9a68b"
+
+[update]
+[update.modrinth]
+mod-id = "2qcrCATG"
+version = "bAsteREW"

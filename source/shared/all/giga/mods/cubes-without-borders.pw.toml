@@ -1,6 +1,0 @@
-name = "Cubes Without Borders"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "ETlrkaYF"

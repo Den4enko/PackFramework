@@ -1,0 +1,13 @@
+name = "Save My Shaky Network"
+filename = "smsn-fabric-1.1.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oXzIQwRj/versions/hTuyZ0J4/smsn-fabric-1.1.2%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "317cc60e7d664aa94015b946ccb2ca01d80c9f85123b31b8598d4167628c523412830f6610c079b59ccb914c8f17fbaec18e10fb93d9abf40300a0fc192cf452"
+
+[update]
+[update.modrinth]
+mod-id = "oXzIQwRj"
+version = "hTuyZ0J4"

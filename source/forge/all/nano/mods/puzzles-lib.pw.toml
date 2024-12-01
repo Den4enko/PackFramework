@@ -1,6 +1,0 @@
-name = "Puzzles Lib"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "QAGBst4M"

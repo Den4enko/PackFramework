@@ -1,0 +1,6 @@
+name = "Cloth Config API"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"

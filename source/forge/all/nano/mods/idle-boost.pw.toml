@@ -1,0 +1,6 @@
+name = "Idle Boost"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "REC6ythZ"

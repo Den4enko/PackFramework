@@ -3,7 +3,7 @@ import shutil
 import subprocess
 from datetime import datetime
 
-script_version = "v3"
+script_version = "v4"
 
 def select_new_mp_version():
     script_root = os.path.dirname(os.path.abspath(__file__))

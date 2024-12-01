@@ -1,0 +1,13 @@
+name = "Idle Boost"
+filename = "idle_boost-forge-1.2.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/REC6ythZ/versions/wrgHebmW/idle_boost-forge-1.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "9a187d1e0fa04286f43b6114fd916da089ef3919bc8dd6905b6ab3b03b481c25e90cedcbee358f2ff7e99e662fb76c3ce9102659bef4c95f9da434b0da1fba27"
+
+[update]
+[update.modrinth]
+mod-id = "REC6ythZ"
+version = "wrgHebmW"

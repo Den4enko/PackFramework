@@ -1,0 +1,7 @@
+name = "Resourceful Config"
+side = "both"
+
+
+[update]
+[update.modrinth]
+mod-id = "M1953qlQ"

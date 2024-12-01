@@ -1,0 +1,6 @@
+name = "Almanac"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "Gi02250Z"
