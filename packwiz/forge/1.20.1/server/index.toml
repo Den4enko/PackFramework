@@ -131,11 +131,6 @@ hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
 metafile = true
 
 [[files]]
-file = "mods/smsn.pw.toml"
-hash = "df03cb359f0039e6d17ac549429fb2f98e5c232119330691967b111a3e46580a"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
