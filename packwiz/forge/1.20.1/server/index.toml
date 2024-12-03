@@ -41,11 +41,6 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
-metafile = true
-
-[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "40c648e92daa23cac15fd27d703e0bdb400712a755f59f1f235fede70302d8a8"
 metafile = true
@@ -58,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/icterine.pw.toml"
 hash = "718f446359f3a69ec2d537744bf089c13b681464f630ea75d8d771c4121c4394"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
 metafile = true
 
 [[files]]

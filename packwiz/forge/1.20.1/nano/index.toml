@@ -204,11 +204,6 @@ hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
-metafile = true
-
-[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "40c648e92daa23cac15fd27d703e0bdb400712a755f59f1f235fede70302d8a8"
 metafile = true
@@ -266,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "646e07186d74573a2fbe26164fb39f037ae614c9ddcda21e969603d825d2aae5"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
 metafile = true
 
 [[files]]
