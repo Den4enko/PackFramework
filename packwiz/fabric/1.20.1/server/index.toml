@@ -60,11 +60,6 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "656f912ca80b45e3ed39cf5d7ce7e707cdd629f0c089cd716e2910df753d9cb6"
-metafile = true
-
-[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "1e02d06e830d181762123e355353dc6b184bbbba4331c35a45ea68343666e384"
 metafile = true
@@ -100,6 +95,11 @@ hash = "182066632bd840c8adc22890a0714ba9dd6e4c39c27122c2b116c6234caf94f1"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "f4028c108eeadb5f916bcd043e85d8c34dd0f28d10a65595b7ee676f219439c6"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
+hash = "9adb166dcf4d40b81dae783ed5ae90cf46e4f5e251f41c5d58853c4607e5f183"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "ef247aad684978b2d36824e262a50d26e103b254c8c2a9e91642eee8564b100b"
+hash = "77c059da1c8711f34d6eeaf52dea012b7f43b34f9063b1b1fcd5a31e82cbd309"
 metafile = true
 
 [[files]]
@@ -162,11 +162,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
-metafile = true
-
-[[files]]
-file = "mods/smsn.pw.toml"
-hash = "1bdc4fa63216002f9d1a45abcd13f47e2f6cfd43e7a82377ca77cbe2c0b06c31"
 metafile = true
 
 [[files]]
