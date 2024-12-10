@@ -20,16 +20,6 @@ hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
-metafile = true
-
-[[files]]
-file = "mods/blinkload.pw.toml"
-hash = "e67a9052b2cebc46243cb58f6c0839019e318c3886408828bcf73ce9b094cbe3"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
 metafile = true
@@ -47,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
-metafile = true
-
-[[files]]
-file = "mods/coroutil.pw.toml"
-hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
@@ -80,11 +65,6 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
-file = "mods/icterine.pw.toml"
-hash = "74bc91c604bab9438fbfc7ca08f745ed3cd65aefefb30fc4a78de0f931314528"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -105,18 +85,8 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/mobtimizations.pw.toml"
-hash = "8b3772892d5e87a10c9535e22e40bbfae00dda4fc1faf6250e0eef9f577da840"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "9adb166dcf4d40b81dae783ed5ae90cf46e4f5e251f41c5d58853c4607e5f183"
-metafile = true
-
-[[files]]
-file = "mods/nerb.pw.toml"
-hash = "d0a83e9b910ef2453a36f844603ba40af10e76e6ee9339ef38f1e445c5669584"
 metafile = true
 
 [[files]]
@@ -127,11 +97,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
 metafile = true
 
 [[files]]
@@ -150,11 +115,6 @@ hash = "d0292fa422a4ff040669df2b354218a6a3c93607fe86e1c863e2ea2550831cae"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
 metafile = true
@@ -167,16 +127,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
-metafile = true
-
-[[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "9c1376cfdcdd099f6d5a63634a62ee0bee7f27d1c71b44fc6024d4001aaf1607"
-metafile = true
-
-[[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "20325f6b15e166034388f0a7deaa6c3103d74a8e93e1d4541e580f577fce829d"
 metafile = true
 
 [[files]]

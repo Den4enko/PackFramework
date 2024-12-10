@@ -215,11 +215,6 @@ hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "2172dc580a6d48e3e0dd1350c6ce12b9360b9ba971fb09ecbf0ccbf7e7eef1a5"
 metafile = true
@@ -227,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
-metafile = true
-
-[[files]]
-file = "mods/blinkload.pw.toml"
-hash = "e67a9052b2cebc46243cb58f6c0839019e318c3886408828bcf73ce9b094cbe3"
 metafile = true
 
 [[files]]
@@ -262,11 +252,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
-metafile = true
-
-[[files]]
-file = "mods/coroutil.pw.toml"
-hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
@@ -365,16 +350,6 @@ hash = "a87febb1a064e3f9e9d7b3a2855f047356f5edd2fd520b1aade632b8bbe4da12"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "2389205b402466abd03bb3ab0f9e48d30f9a082a0a55f74b6c28be00259722b4"
-metafile = true
-
-[[files]]
-file = "mods/icterine.pw.toml"
-hash = "74bc91c604bab9438fbfc7ca08f745ed3cd65aefefb30fc4a78de0f931314528"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
@@ -401,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "81ad81d5109957c587c35b160eebbb6304218b8a153f1ab9ec6095fc22396d2d"
+hash = "4605b060a4451e17bb75788be82cf1efb0622957278697287baea7e6f17ae6e7"
 metafile = true
 
 [[files]]
@@ -425,11 +400,6 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/mobtimizations.pw.toml"
-hash = "8b3772892d5e87a10c9535e22e40bbfae00dda4fc1faf6250e0eef9f577da840"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -450,16 +420,6 @@ hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "52c97fa20afbf19c63d6a87b9ef33948323ca40c942e836520de01dabbf1b7f6"
-metafile = true
-
-[[files]]
-file = "mods/nerb.pw.toml"
-hash = "d0a83e9b910ef2453a36f844603ba40af10e76e6ee9339ef38f1e445c5669584"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
@@ -472,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
 metafile = true
 
 [[files]]
@@ -525,11 +480,6 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "964da9ed4bdd490258a05d249e13b8d90d82f71591c793bc93e29840e4e9fe1b"
 metafile = true
@@ -567,21 +517,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
-metafile = true
-
-[[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "9c1376cfdcdd099f6d5a63634a62ee0bee7f27d1c71b44fc6024d4001aaf1607"
-metafile = true
-
-[[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "20325f6b15e166034388f0a7deaa6c3103d74a8e93e1d4541e580f577fce829d"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "5a68813ac1c3a6773fc15b723380e9af199f7ee6543b84265c74310b5ebf0369"
 metafile = true
 
 [[files]]

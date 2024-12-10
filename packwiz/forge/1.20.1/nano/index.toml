@@ -62,7 +62,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "497bc9c6b14eda3620690234e868a50ab83b0b389a261c51999a648d13c467fd"
+hash = "b54e4a3b3743f8c9aa8665da166e9e464b3247b1ea669c5177d0a36635a1f01c"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -154,11 +154,6 @@ hash = "b9e6e6a4a26ff1421620ea6cd99c0be1caaa66a1277c8cc72d2f64443be1fbcf"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
@@ -174,8 +169,8 @@ hash = "bfce4b91fe7c691dc04afda24f60453a74f49c8d3cf763e80095673d1299375d"
 metafile = true
 
 [[files]]
-file = "mods/blinkload.pw.toml"
-hash = "e464902140f2ae86a8e6236eba62b410e414c48142ed8cf1b9f35c2ad6c99bd4"
+file = "mods/canary.pw.toml"
+hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
 
 [[files]]
@@ -186,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
-metafile = true
-
-[[files]]
-file = "mods/coroutil.pw.toml"
-hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -239,23 +229,13 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "92583d55550188a261ac857c3e6c4d15d0783b6f9b7cca6fe36847afb922a6d6"
-metafile = true
-
-[[files]]
-file = "mods/icterine.pw.toml"
-hash = "718f446359f3a69ec2d537744bf089c13b681464f630ea75d8d771c4121c4394"
-metafile = true
-
-[[files]]
 file = "mods/idle-boost.pw.toml"
 hash = "57408db8bc25c96286748412c38cb3e151c7e1c272e8dc867ad1cb20ba666a94"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "05796c1a9f35a5af165f54b733c85470e9354196d91b69505a301d96ef8599d0"
 metafile = true
 
 [[files]]
@@ -279,23 +259,8 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
-file = "mods/mobtimizations.pw.toml"
-hash = "18e911c5a0308b2b6bcde2e4c4ac0cf1ff6d2a7b9d4e82ba4c80d97ae0b2a79e"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "696de7db2aeed8bec1b9a39364dffd9eeef81ea6481b8ef2fb53d30224982f1c"
-metafile = true
-
-[[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "0d7bbab1f9f61a41e33c2a1a6d26e6094d853e46296fd21d5383eacdb3632a50"
-metafile = true
-
-[[files]]
-file = "mods/nerb.pw.toml"
-hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
@@ -305,12 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
@@ -324,28 +284,13 @@ hash = "a50cf466fa2262f8a9cef3d7dfe60dae300b95dfc5cc052f909f86c5ba7698f7"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
-metafile = true
-
-[[files]]
 file = "mods/redirector.pw.toml"
 hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "26ee02ad42278b3050bbd31e66d3d8ad774ed4e46f27dbb34a30f54a5a9617fe"
-metafile = true
-
-[[files]]
 file = "mods/saturn.pw.toml"
 hash = "3602f220a9d98e89d44168a6e84dc7bb169fb8b8209b4b966288d1fa1c3650bc"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "aeac77b331e0f9fd478b197f898e99e7bd4cd5812fcccae5c2ef069304217266"
 metafile = true
 
 [[files]]
@@ -366,21 +311,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "0af21ce28282387f15ee211cf921353263d4de060c0e1a3ce1bc32271233189e"
-metafile = true
-
-[[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "9de2a5e8c0bc77c743503b3c417be726cf7a4a528cb9c254e5de4e3456552ce2"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "e32ab929e81fb57602e902a686ddb5aa744a75288efee74387395efc66490513"
 metafile = true
 
 [[files]]

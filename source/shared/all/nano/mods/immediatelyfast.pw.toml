@@ -1,6 +1,6 @@
 name = "ImmediatelyFast"
-side = "client"
+side = "both"
 
 [update]
-[update.modrinth]
-mod-id = "5ZwdcRci"
+[update.curseforge]
+project-id = 686911
