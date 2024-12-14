@@ -1,13 +1,13 @@
 name = "ModernFix"
-filename = "modernfix-forge-5.19.6+mc1.20.1.jar"
+filename = "modernfix-forge-5.19.7+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmDcB62a/versions/XlmOKkqg/modernfix-forge-5.19.6%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/vX1O3CGg/modernfix-forge-5.19.7%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "b1edfd64134a770664af133b2843443a533fc7456dabc048b25b22dadf2dfbd6aa02e3ad9f8edb9b0ee74688c352126ef941b61432c91b999a95f514a260ba62"
+hash = "506fa3384231ca993fa6deaf19123a2fa016f23468dd05eeb7e005204df06420f6a1a1734ecd50fda2b447da5d732c6147d37b6bc74178457824d13d7aa378a8"
 
 [update]
 [update.modrinth]
 mod-id = "nmDcB62a"
-version = "XlmOKkqg"
+version = "vX1O3CGg"

@@ -1,0 +1,6 @@
+name = "Cupboard"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 326652

@@ -1,0 +1,13 @@
+name = "Connectivity"
+filename = "connectivity-fabric-1.20.1-6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35139f5c4ff4f408c33ff6fe0cbf4e5ce0a71a61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5986378
+project-id = 470193

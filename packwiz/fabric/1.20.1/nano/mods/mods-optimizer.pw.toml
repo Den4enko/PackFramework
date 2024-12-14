@@ -1,0 +1,6 @@
+name = "Mods Optimizer"
+side = "server"
+
+[update]
+[update.modrinth]
+mod-id = "hlVtb1H0"
