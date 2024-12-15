@@ -56,6 +56,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
 metafile = true

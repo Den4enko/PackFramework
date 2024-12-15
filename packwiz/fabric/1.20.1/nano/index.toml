@@ -201,6 +201,11 @@ hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2172dc580a6d48e3e0dd1350c6ce12b9360b9ba971fb09ecbf0ccbf7e7eef1a5"
 metafile = true

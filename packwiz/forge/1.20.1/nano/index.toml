@@ -62,7 +62,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "c6ab1b3b2a3baaf323896300051fd830f3c052beea884c08613ccc4cae889873"
+hash = "e9883cafccfb4227fd9b1be3a289cf90c6af73ef3f6fbaaf174d5b941719f3dc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -254,6 +254,11 @@ hash = "646e07186d74573a2fbe26164fb39f037ae614c9ddcda21e969603d825d2aae5"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
 metafile = true
@@ -316,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
 metafile = true
 
 [[files]]

@@ -1,0 +1,6 @@
+name = "Krypton Reforged"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 549394
