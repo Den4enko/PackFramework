@@ -178,7 +178,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "418faddd7556037b0991bd562470580839a90c299866a7f5b403044c510c04fb"
+hash = "ead279ac3c9ab8d11afc0e97857e248fc60ba89608632219255ab37d5da92b44"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2172dc580a6d48e3e0dd1350c6ce12b9360b9ba971fb09ecbf0ccbf7e7eef1a5"
+hash = "c8f84fa9a47ff31bc6524480c6bbcb08f3776587855008ca8953eda44243426d"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "1552ffbe9ef9cd182f847784a9f1038c8e53c0bd0a4c672b3aa3dd06ec49283e"
+hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "0ed0d91f528449075f5972c305ffdeac73a1109c0762012611e268aa0ecccd13"
+hash = "281aa03158eca64c57df1b45cd1d0cc5f3c76e7612835739715a6d81f20f471d"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
+hash = "a39c072b0e054e1480579c1efb67a710acbd5256aeaa8dbb611945f2f0c76d3d"
 metafile = true
 
 [[files]]
@@ -427,11 +427,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
-metafile = true
-
-[[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "84b7d880b523fcb34ef50e451ab30358eee0233165576613c4f2407d245beeed"
 metafile = true
 
 [[files]]
@@ -481,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "be3ee581f0d4d6c74b5a9d54ba8083c50b437479ac399988bed857eafdc69f21"
+hash = "638567f499675815cb60744092dc3ebb8a7d889500604e190074aca83f055030"
 metafile = true
 
 [[files]]
@@ -491,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "77c059da1c8711f34d6eeaf52dea012b7f43b34f9063b1b1fcd5a31e82cbd309"
+hash = "07f9fd3a474ea732dd281c1895d546ca6489d66941ee2a19fbbff8d6cdf8e192"
 metafile = true
 
 [[files]]
@@ -516,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
+hash = "d7062507251f577355a3c3e4fd3bc33ea9ac0e74ad0da2c8f0eb6c9b9c182b99"
 metafile = true
 
 [[files]]

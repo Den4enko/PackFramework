@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "1552ffbe9ef9cd182f847784a9f1038c8e53c0bd0a4c672b3aa3dd06ec49283e"
+hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
 metafile = true
 
 [[files]]
@@ -105,11 +105,6 @@ hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "84b7d880b523fcb34ef50e451ab30358eee0233165576613c4f2407d245beeed"
-metafile = true
-
-[[files]]
 file = "mods/nerb.pw.toml"
 hash = "d0a83e9b910ef2453a36f844603ba40af10e76e6ee9339ef38f1e445c5669584"
 metafile = true
@@ -131,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "77c059da1c8711f34d6eeaf52dea012b7f43b34f9063b1b1fcd5a31e82cbd309"
+hash = "07f9fd3a474ea732dd281c1895d546ca6489d66941ee2a19fbbff8d6cdf8e192"
 metafile = true
 
 [[files]]
@@ -146,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
+hash = "d7062507251f577355a3c3e4fd3bc33ea9ac0e74ad0da2c8f0eb6c9b9c182b99"
 metafile = true
 
 [[files]]
