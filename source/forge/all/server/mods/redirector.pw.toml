@@ -1,6 +1,0 @@
-name = "Redirector"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "nzRWPE5v"

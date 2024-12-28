@@ -66,7 +66,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e361a42c90d58ae7ac1a37c18a5c31ae14f93a6abfe5b26eab6ddf93cfb02cd6"
+hash = "1f1723c6220f70861c2920614159266eacf7a964e6be9ce26231774acf34f6ce"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a77186c42b3385f777722ad96f80f6bda946460ba3bcd1638367dca113f8500b"
+hash = "dcd4e240c0a28f6f1f7899aa3c80193894791e7a44b7759e22787cf24f83ea1f"
 metafile = true
 
 [[files]]
@@ -379,11 +379,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "62d04c7619c1e926092a000ceabae604bbda3e8ea8400b0403ec5f45649005a1"
-metafile = true
-
-[[files]]
-file = "mods/redirector.pw.toml"
-hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 metafile = true
 
 [[files]]
