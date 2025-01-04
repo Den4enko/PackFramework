@@ -62,7 +62,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "1f1723c6220f70861c2920614159266eacf7a964e6be9ce26231774acf34f6ce"
+hash = "8e1ea48616e5b1bcece23a18122cfee7f1a1e34bb960f07e6d9567a53da565f1"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "78459b7609cbf110e640bdb5712d11f72e19830297ecaec5274a660f55e7b06e"
+hash = "9a236307deb2c8e352f465a5883e10bd2b068f8579993c0a7da562e453055e45"
 metafile = true
 
 [[files]]
@@ -325,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "56cdda51ec38e06d12d1158f3a1115c7fc3086bd02bb0f30cac84ba5934a701a"
+hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "7a09d176e167b5d497098e5b442d9cd6b878b144e17519c2b9cbefa7d7090d45"
+hash = "85526f775c7d38f45ddae2f1bf00778dbeb991355c1a82a5eac12bf5a4d35f32"
 metafile = true
 
 [[files]]

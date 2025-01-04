@@ -1,13 +1,13 @@
 name = "Sodium Options API"
-filename = "sodiumoptionsapi-forge-1.0.8-1.20.1.jar"
+filename = "sodiumoptionsapi-forge-1.0.9-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/Lm9hPdyx/sodiumoptionsapi-forge-1.0.8-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/gjPKRTS7/sodiumoptionsapi-forge-1.0.9-1.20.1.jar"
 hash-format = "sha512"
-hash = "b7924683d6c810a03b06fc38b5411349606e318b3b555d6d91496946aa5f40b964a3044947f62f1ce6f9b9b8f5bdc42623281bfc081a5f399e516df2c8e0e25b"
+hash = "89178cc4b3d6f9b490a54a545089f395fe257508f7d4d4bb73b7bb8c7caff8a55330b48018484dbe392c3be2d154d195f7ae13ee54cb825f5803917e506583ee"
 
 [update]
 [update.modrinth]
 mod-id = "Es5v4eyq"
-version = "Lm9hPdyx"
+version = "gjPKRTS7"

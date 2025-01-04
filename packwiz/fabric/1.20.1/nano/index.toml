@@ -174,7 +174,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "4aca521d159247d55e569f6b9dc6a29a516349bda99559b7734a59b60fadd66e"
+hash = "b26cf8c6dedf46ea8ce41c1ec445e43b72c36dc6689636734ed00416e2452847"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
@@ -417,17 +417,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "076ca2b418baa1ecfacca16e4f54be9114424298e559aa0ed54ccd7d98fbf71b"
+hash = "83cf89128bfc6d4a5d1da20565e461f89183127d5960935c1f783ba38b0cb53c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extras.pw.toml"
-hash = "8075d605f49f411c8ae5377b16bd7aeb208d16f356a342fae616553421c09172"
+hash = "4a00b722b443dd9a833c1941d0cb3457745c6b7d35df9ac4d2c0987d856b8f0c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "aea7d09e604eb052e6e3b06e46892893458da45a6e343df188d14dca959f43f3"
+hash = "cc4a74c1471e14616e771a226d1dec2bb56f7cff18364cf0cc3b024fde9f403e"
 metafile = true
 
 [[files]]
