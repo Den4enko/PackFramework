@@ -6,7 +6,7 @@ hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "3eac7979c2860e3b0455f22f62a2a29e6f626d26ae4a9a5bfa82372683a5773b"
+hash = "1e8af2f55b23c27cffc9a3c4ac012ae06c6124efb7bbcb820480047890f89174"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+hash = "85767e8112e440488a02b18545a6a3565097fb54834c0c421eb9e87de00a1380"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "182066632bd840c8adc22890a0714ba9dd6e4c39c27122c2b116c6234caf94f1"
+hash = "3570ac1fbaf9e7c7555f7a875b049a3b80bb22541666d10d48db7369bd2fe55c"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
+hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "07f9fd3a474ea732dd281c1895d546ca6489d66941ee2a19fbbff8d6cdf8e192"
+hash = "ac5bf356b34af3bd1565712aa5ca46ca088ba3618f1c95835721d1bede512376"
 metafile = true
 
 [[files]]

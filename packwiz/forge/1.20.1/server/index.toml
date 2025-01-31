@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "7bca7e06b9dd6bfabb7c1eb81ce73105cce73e38a8273eeec72cf2d89dd8f9c0"
+hash = "7d86ce233c1b7ecd6badb6b0473a57dd8ded857ae74604423c943fc137c63b8a"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "dcd4e240c0a28f6f1f7899aa3c80193894791e7a44b7759e22787cf24f83ea1f"
+hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
 metafile = true
 
 [[files]]
