@@ -1,13 +1,13 @@
 name = "Advanced Backups"
-filename = "AdvancedBackups-fabric-1.20-3.7.jar"
+filename = "AdvancedBackups-fabric-1.20-3.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/LRDTfGyR/AdvancedBackups-fabric-1.20-3.7.jar"
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/GGnVhNaL/AdvancedBackups-fabric-1.20-3.7.1.jar"
 hash-format = "sha512"
-hash = "2d105fbb07d16b58d71512e40e597e3504d0d5802b8deb7b93224c66ae3a61dc3507395b8cdc53349c1b4bfee0b7538ea5a346e476808e20db51be401bfeb7ba"
+hash = "6f4c0de3d2eac775a9149e8db137c5065ee1e66712621fffbf2ed5b7a1a786c45dfd208961df019f010cd6cb960b6270ba18e7b5bc8ee9de35d46cbf72d82a45"
 
 [update]
 [update.modrinth]
 mod-id = "Jrmoreqs"
-version = "LRDTfGyR"
+version = "GGnVhNaL"

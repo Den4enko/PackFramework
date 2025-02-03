@@ -13,6 +13,10 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "f6bac24e982c1b2840d5fd2d7ee3ca565d5fbb9653f87f0c9715441dda00c07c"
+
+[[files]]
 file = "config/cull-less-leaves.json"
 hash = "f905b94a10cd01a281b422d7eda25a6850bd8e2d50997d640f223e43b5108262"
 
@@ -66,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "bd9cf445640487bd6cfdcddac96b414593f6362babdb2cd3066f471a649c7641"
+hash = "72b29b433827b735003746de0135e068bae7090b522b2be33d4b793bd495cfb1"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -153,7 +157,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "7d86ce233c1b7ecd6badb6b0473a57dd8ded857ae74604423c943fc137c63b8a"
+hash = "1e04444d1b4e35dcdc2c8437f9869c3a90bfcb11954072e641ed5874741eb994"
 metafile = true
 
 [[files]]
@@ -184,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "8be69989d5929422feb539ae4c74ce1a73a2f9991ab3c63e6c56b7d5c965dc4b"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
@@ -228,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "9a236307deb2c8e352f465a5883e10bd2b068f8579993c0a7da562e453055e45"
+hash = "71249184c5506b137bed55fe2014637a34ff4f7fc79be9d7e416fcc7dbd7a6f7"
 metafile = true
 
 [[files]]

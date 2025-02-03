@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "f6bac24e982c1b2840d5fd2d7ee3ca565d5fbb9653f87f0c9715441dda00c07c"
+
+[[files]]
 file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "1e8af2f55b23c27cffc9a3c4ac012ae06c6124efb7bbcb820480047890f89174"
+hash = "f5ec909119a903f0f118ad60a122510c63e562a0e6de3640113fc79ce70058d9"
 metafile = true
 
 [[files]]
@@ -22,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a9a1cab9799d53f3166d46f5cb4471772fd412208c3695e2d58dded70c4447b7"
 metafile = true
 
 [[files]]
@@ -46,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
+hash = "d27b6f10a26fd6c405ccadb6f0aaea1c0fdb63409827113b138e90f382062e74"
 metafile = true
 
 [[files]]

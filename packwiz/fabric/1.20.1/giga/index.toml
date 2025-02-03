@@ -17,6 +17,10 @@ file = "config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "f6bac24e982c1b2840d5fd2d7ee3ca565d5fbb9653f87f0c9715441dda00c07c"
+
+[[files]]
 file = "config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
@@ -178,7 +182,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "25c7e4bd4a2fd5ed17df98cba0adaff824af54a9c59df5edf29c4c1873cb2270"
+hash = "344762a676ab589eba4c8d07e90960e3bbf6defb82b2c15e7175de168b01250a"
 metafile = true
 
 [[files]]
@@ -196,7 +200,7 @@ hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "1e8af2f55b23c27cffc9a3c4ac012ae06c6124efb7bbcb820480047890f89174"
+hash = "f5ec909119a903f0f118ad60a122510c63e562a0e6de3640113fc79ce70058d9"
 metafile = true
 
 [[files]]
@@ -222,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "64db90c39e76aa2b5fc82f9398e1f9114f2e4e6f7b071439a49e3d0077659fc3"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a9a1cab9799d53f3166d46f5cb4471772fd412208c3695e2d58dded70c4447b7"
 metafile = true
 
 [[files]]
@@ -256,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
+hash = "d27b6f10a26fd6c405ccadb6f0aaea1c0fdb63409827113b138e90f382062e74"
 metafile = true
 
 [[files]]

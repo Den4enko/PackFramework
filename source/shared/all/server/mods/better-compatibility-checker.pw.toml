@@ -1,0 +1,6 @@
+name = "Better Compatibility Checker"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 551894
