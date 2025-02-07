@@ -39,6 +39,11 @@ hash = "85767e8112e440488a02b18545a6a3565097fb54834c0c421eb9e87de00a1380"
 metafile = true
 
 [[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "cb8b7d68293611608536faabe366b2f510c6521aef6e5d338b5ada876da3c961"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
@@ -55,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "d27b6f10a26fd6c405ccadb6f0aaea1c0fdb63409827113b138e90f382062e74"
+hash = "e704b72bb8862471f209c4ec01d3e7b616a0d1d3fd95a1baac8df5926be860a5"
 metafile = true
 
 [[files]]
@@ -70,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "1e02d06e830d181762123e355353dc6b184bbbba4331c35a45ea68343666e384"
+hash = "d5c5ff8e8bae81e608579724ef67d1ab5ce456d10f9b20e7d721858198fbd1f9"
 metafile = true
 
 [[files]]
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "afeb531826af02bbed02c66add559cda5864f268d4b433b4af17ed4850480615"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "aa8ca7c6b77cc8b027d7f402faa0b1e692d4e489f7063a6cec49b6a0af225c66"
 metafile = true
 
 [[files]]

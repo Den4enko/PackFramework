@@ -1,0 +1,6 @@
+name = "Chunk Activity Tracker"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 1193454
