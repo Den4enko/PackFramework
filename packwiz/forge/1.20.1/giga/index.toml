@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "97b03477a9b4e371d69f189a42df79d69ab56c41b67bd4d88eb33edbc8c8b32b"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -70,7 +74,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "732a5718afdf103d6a02a55db5eb5b23c6f5b040aabd9655f85b7bb50a10c2ed"
+hash = "5e53b8e68bd593f8402a631330faa94f6b985613cdf5af72ff7cf220afe38b41"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -187,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "103fe4cdc6fe56f4a8087fec024f67ef073cb1f7718ce5fbfcb4939bacd3f79f"
+hash = "5a996c0bf2d472d9bbb2e5aacbafb46fbd124565d979ee3d518ea791066b1a79"
 metafile = true
 
 [[files]]
@@ -302,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c4266eeec21ddafbaa23c5ff32176b3c923d764a1ecde79589790b6d322f05cc"
+hash = "504e0cfc210ab2f7b7201346de653edb72c29601f3d4972a3a78c223094e3a1f"
 metafile = true
 
 [[files]]

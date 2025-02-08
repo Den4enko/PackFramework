@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "97b03477a9b4e371d69f189a42df79d69ab56c41b67bd4d88eb33edbc8c8b32b"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -182,7 +186,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "344762a676ab589eba4c8d07e90960e3bbf6defb82b2c15e7175de168b01250a"
+hash = "2b331ca335929b8703c5d788da04a189e9a9ab10cf583143d8cac0a126e58243"
 metafile = true
 
 [[files]]
@@ -225,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "375f2dec779b65075269e29f365aec1b003f183828a550ff8ba8e2787e062647"
+hash = "b531c635352acadaabac1403bab24ffca9859d20fc5c8ae3617f62e45201214c"
 metafile = true
 
 [[files]]
@@ -355,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "ec6707720623388660810fb686d2ef54b16100cafcf4e2171e8505a33fe24734"
+hash = "aa5a4697982b3dbf5dbebbb019e0a8bc861bf84b6c6197d7d85ee94a846d0e4b"
 metafile = true
 
 [[files]]

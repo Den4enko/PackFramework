@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "ac9591d067711db6f0c665c94db11617cfb2b6653ca4b343ad903aa29a8a170b"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -66,7 +70,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "732a5718afdf103d6a02a55db5eb5b23c6f5b040aabd9655f85b7bb50a10c2ed"
+hash = "5e53b8e68bd593f8402a631330faa94f6b985613cdf5af72ff7cf220afe38b41"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -169,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "103fe4cdc6fe56f4a8087fec024f67ef073cb1f7718ce5fbfcb4939bacd3f79f"
+hash = "5a996c0bf2d472d9bbb2e5aacbafb46fbd124565d979ee3d518ea791066b1a79"
 metafile = true
 
 [[files]]
@@ -218,6 +222,11 @@ hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "393d87e7f52a2f9552255e1e28843e51b8679254a34216d0134ea4865977d7c2"
 metafile = true
@@ -239,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c4266eeec21ddafbaa23c5ff32176b3c923d764a1ecde79589790b6d322f05cc"
+hash = "504e0cfc210ab2f7b7201346de653edb72c29601f3d4972a3a78c223094e3a1f"
 metafile = true
 
 [[files]]
