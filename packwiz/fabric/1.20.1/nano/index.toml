@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ac9591d067711db6f0c665c94db11617cfb2b6653ca4b343ad903aa29a8a170b"
+hash = "f5af4335b9d8d1fff4366b34247097b534938e3a59841e3bfa0b2383f85f999c"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "aa5a4697982b3dbf5dbebbb019e0a8bc861bf84b6c6197d7d85ee94a846d0e4b"
+hash = "125c3440461197fc66ffceabc62e65d6619324bb64f1e90b9735160ad975462b"
 metafile = true
 
 [[files]]

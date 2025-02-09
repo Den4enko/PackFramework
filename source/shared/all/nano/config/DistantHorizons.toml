@@ -25,7 +25,7 @@ _version = 2
 				maxHorizontalResolution = "TWO_BLOCKS"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 64
+				lodChunkRenderDistanceRadius = 32
 				#
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 

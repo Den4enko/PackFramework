@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ac9591d067711db6f0c665c94db11617cfb2b6653ca4b343ad903aa29a8a170b"
+hash = "f5af4335b9d8d1fff4366b34247097b534938e3a59841e3bfa0b2383f85f999c"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -70,7 +70,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5e53b8e68bd593f8402a631330faa94f6b985613cdf5af72ff7cf220afe38b41"
+hash = "870f55ea0cf220bca61c3180c0f258e21673216026cfa18e2d95f2ac5da38835"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"

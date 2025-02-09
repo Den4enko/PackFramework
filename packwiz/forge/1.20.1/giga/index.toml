@@ -74,7 +74,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5e53b8e68bd593f8402a631330faa94f6b985613cdf5af72ff7cf220afe38b41"
+hash = "870f55ea0cf220bca61c3180c0f258e21673216026cfa18e2d95f2ac5da38835"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "355be694ecb0d3e8ee1e75e31f8a0e9bf00ef853896942f688bcbef371cfea1d"
+hash = "10c2ddc0f372c88bffe54f7720b2fd5b15e404e2ae303bfd02f23f4f15cfa81b"
 metafile = true
 
 [[files]]

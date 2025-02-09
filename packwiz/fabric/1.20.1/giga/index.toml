@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "f9657a30d3e6e351f505fc4661373eb6028a4c1679b37f57430ea89a4a88fb9c"
+hash = "55297192c119eff218c0f62719769fe54fa03fbfead832d6c08c43df955b2c98"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "aa5a4697982b3dbf5dbebbb019e0a8bc861bf84b6c6197d7d85ee94a846d0e4b"
+hash = "125c3440461197fc66ffceabc62e65d6619324bb64f1e90b9735160ad975462b"
 metafile = true
 
 [[files]]
