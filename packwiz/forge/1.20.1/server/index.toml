@@ -90,11 +90,6 @@ hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "798292034e87cf33f6120f82b546985341b1bf91f2734b6305e331cd03fb5cc9"
-metafile = true
-
-[[files]]
 file = "mods/nerb.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true

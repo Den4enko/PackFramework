@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "97b03477a9b4e371d69f189a42df79d69ab56c41b67bd4d88eb33edbc8c8b32b"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -74,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "870f55ea0cf220bca61c3180c0f258e21673216026cfa18e2d95f2ac5da38835"
+hash = "23f24b57913d9c1e235ae5b9286c6baf063734d7cded5ca1699f7f60a2326dc5"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -90,11 +86,11 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "1437dcdabba502c4309a7d521312f7ec128a130fef6afa1c28b87ccc1b8283a9"
+hash = "853c6254dbafdc5c454c8f5deb0ef47f6741f358d3bcd38fa6e7bf7956868b38"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "834b889055cd9875e13c0ee591d99ff5cea4a0adbd3fbea8aee64ffecd7d250a"
+hash = "75b1e45e35fb475954cd1ea27d0fec8702dcd013f3b6176d19853c7ff561f61c"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -360,11 +356,6 @@ hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "798292034e87cf33f6120f82b546985341b1bf91f2734b6305e331cd03fb5cc9"
-metafile = true
-
-[[files]]
 file = "mods/nerb.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
@@ -396,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4cb14611957ebe2e3ff3885dac75dd814bec38ea5830fb2b985ad4a902f9c099"
+hash = "fa29eb980ce8f70ef2ede2921fd6ec8aed4750b8658e04cb0e28db5ba990e934"
 metafile = true
 
 [[files]]
