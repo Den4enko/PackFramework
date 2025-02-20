@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "e704b72bb8862471f209c4ec01d3e7b616a0d1d3fd95a1baac8df5926be860a5"
+hash = "8b647bdc5e02f35c1a5a793768a50b8eb1f233220397f2f3371e64e0604aa12e"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "ac5bf356b34af3bd1565712aa5ca46ca088ba3618f1c95835721d1bede512376"
+hash = "ddd0ed52dfe52bd29d454bd943405b788a9ea75c0410e934ad79b2cea116e6b7"
 metafile = true
 
 [[files]]

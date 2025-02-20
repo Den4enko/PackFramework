@@ -98,7 +98,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "23f24b57913d9c1e235ae5b9286c6baf063734d7cded5ca1699f7f60a2326dc5"
+hash = "b1b0b946ea3886da41ba393b46abf34387210c1225a456b20e3aaeb2eb7c0123"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b531c635352acadaabac1403bab24ffca9859d20fc5c8ae3617f62e45201214c"
+hash = "2ecb6e6e05de4bed889d41a44535329cd748aa0e97bcd54afab3ecf96e745a22"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "e704b72bb8862471f209c4ec01d3e7b616a0d1d3fd95a1baac8df5926be860a5"
+hash = "8b647bdc5e02f35c1a5a793768a50b8eb1f233220397f2f3371e64e0604aa12e"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
+hash = "6c7cfd796ed04de94465181859b963b0915e2dfce64a0c4b31129ffff505b622"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "125c3440461197fc66ffceabc62e65d6619324bb64f1e90b9735160ad975462b"
+hash = "6c09d181d897a259267a5d67c1cbd61a4925aa024f3bf2d71521f3cd29589744"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "ac5bf356b34af3bd1565712aa5ca46ca088ba3618f1c95835721d1bede512376"
+hash = "ddd0ed52dfe52bd29d454bd943405b788a9ea75c0410e934ad79b2cea116e6b7"
 metafile = true
 
 [[files]]

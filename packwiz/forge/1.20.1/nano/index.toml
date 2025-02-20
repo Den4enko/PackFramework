@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "23f24b57913d9c1e235ae5b9286c6baf063734d7cded5ca1699f7f60a2326dc5"
+hash = "b1b0b946ea3886da41ba393b46abf34387210c1225a456b20e3aaeb2eb7c0123"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5a996c0bf2d472d9bbb2e5aacbafb46fbd124565d979ee3d518ea791066b1a79"
+hash = "d50b040dac14e03a44fddd60e2d1943e8865efc03c1e7b125a0318c27d38cd0b"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "504e0cfc210ab2f7b7201346de653edb72c29601f3d4972a3a78c223094e3a1f"
+hash = "41050972d50dab8699a193a220d84002466934d686128c0e07f9682c9bf706f1"
 metafile = true
 
 [[files]]
