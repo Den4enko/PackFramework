@@ -8,7 +8,7 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 
 * **Two Variants:**
   
-  * **Ultra:** Comprehensive selection of optimization and utility mods.
+  * **Giga:** Comprehensive selection of optimization and utility mods.
   * **Nano:** Lightweight variant focused purely on optimization for streamlined performance boosts.
 
 * **All at once:**
@@ -29,8 +29,8 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 | MC Version⬇️ | Quilt | Fabric | NeoForge | Forge |
 | ------------ |:-----:|:------:|:--------:|:-----:|
 | 1.20.1       | ❓     | ✅      | ❌        | ✅     |
-| 1.19.2       | ❓     | ❓      | ❌        | ✅     |
-| 1.18.2       | ❓     | ❓      | ❌        | ✅     |
+| 1.19.2       | ❓     | ❓      | ❌        | 🟥     |
+| 1.18.2       | ❓     | ❓      | ❌        | 🟥     |
 
 ✅ - actively supported. ❌ - is not supported. 🟥 - no longer supported. 🟨 - coming soon. ❓- may be supported.
 
@@ -42,7 +42,7 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
   
   * 1.20.1:
     
-    * Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Fabric%201.20.1%20Ultra.zip)
+    * Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Fabric%201.20.1%20Giga.zip)
     * Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Fabric%201.20.1%20Nano.zip)
 
 #### Forge Versions
@@ -51,15 +51,5 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
   
   - 1.20.1:
     
-    - Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.20.1%20Ultra.zip)
+    - Giga: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.20.1%20Giga.zip)
     - Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.20.1%20Nano.zip)
-  
-  - 1.19.2:
-    
-    - Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.19.2%20Ultra.zip)
-    - Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.19.2%20Nano.zip)
-  
-  - 1.18.2:
-    
-    - Ultra: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.18.2%20Ultra.zip)
-    - Nano: [Click or Drag-n-Drop](https://den4enko.github.io/PackFramework/downloads/mmc/PackFramework%20Forge%201.18.2%20Nano.zip)
