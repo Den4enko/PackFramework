@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "2ca034cc8455abf96488505709b78baee7f2887047f52147bc437c1a9a19fd85"
+hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
+hash = "5d608562aae7967c72f0711fb3836ce341aed463491d987fcf9e6a15fdeda841"
 metafile = true
 
 [[files]]

@@ -1,0 +1,6 @@
+name = "Seamless Loading Screen "
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "TyTPFOiF"
