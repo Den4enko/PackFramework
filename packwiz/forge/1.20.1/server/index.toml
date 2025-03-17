@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
+hash = "d171acd90da5df8212928557ec535d47d82a1daccc6b8e279af8941c5925d46a"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
+hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
@@ -131,5 +131,5 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "9ef27cfb0042b2187d677c3db6d605427887228e151a3c644704db50b35fe2ac"
+hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true

@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e40b863907e3c4205e032fa706f0da6dbb78303d4b3803acdefb6099cb6cabc1"
+hash = "85732a3d1a59dd5c23b772463f2dc559d5b5796b22abb79adf04ce061652d7dc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "a7c037a5b9863f7104d5495ec0bb5df56c4d4cff49e351a3cd1db7690dc7031d"
+hash = "cd68d11fd7af4b726229bbf9e225a57a5ceb20d2cf2c290ba32eecac805ab810"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2044e3d144cee4b7016d22d6c4c74f362288261b1e1bd01da4b919d116d6d016"
+hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
+hash = "d171acd90da5df8212928557ec535d47d82a1daccc6b8e279af8941c5925d46a"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
+hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "9ef27cfb0042b2187d677c3db6d605427887228e151a3c644704db50b35fe2ac"
+hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true
 
 [[files]]

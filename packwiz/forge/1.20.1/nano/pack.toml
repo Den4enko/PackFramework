@@ -1,13 +1,13 @@
 name = "PackFramework 1.20.1"
 author = "Den4enko"
-version = "v22"
+version = "v23"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e7700b3ae1cab85914eaf7be4c349101e1cb5efbed9f970d0f8a40d945e7eae5"
+hash = "d197b913071feebb2de2f528926de0bacadc6ea18dbc13dbc3dc163397fdbafe"
 
 [versions]
-forge = "47.3.29"
+forge = "47.4.0"
 minecraft = "1.20.1"
