@@ -17,16 +17,16 @@ file = "config/bcc-common.toml"
 hash = "f6bac24e982c1b2840d5fd2d7ee3ca565d5fbb9653f87f0c9715441dda00c07c"
 
 [[files]]
+file = "config/chloride-client.json"
+hash = "2cbfc420520d5f0f2bd2497d41d4af67c24413d70dd6e2e9574e1ceea170d18e"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "bb4cb5fc75d9426d1474ee41456be3eb2501be4c5d98bcc5aba03519219dae39"
-
-[[files]]
-file = "config/embeddium++.toml"
-hash = "ab9a0e58a7acac1fb16093c01e971d31d5b877d3db84ec44c93db78e01e4fbe4"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "85732a3d1a59dd5c23b772463f2dc559d5b5796b22abb79adf04ce061652d7dc"
+hash = "110dbc8cb0c6ac9cede0809781573c36b883a7e0b78f9eaf3a3b7aca5f51f27f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -139,6 +139,10 @@ hash = "69561a54b8e46b61eb6504ee4b7240c55cc3fc7088ba1bd89876a7e158d69e8c"
 metafile = true
 
 [[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "a42981d3f5a22fcb90659582b2a28fe75a1c9ef88165d4fb3bb59ba1ea328020"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
@@ -169,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3b645145bcd4f93150658e2122ad36ba23db9799ba175d17b1fb3e31b8d02c5a"
+hash = "3963c0d3a3c94099d5bf9920de2de9d1bd32147d76ce935bfccca6983dc45cb5"
 metafile = true
 
 [[files]]
