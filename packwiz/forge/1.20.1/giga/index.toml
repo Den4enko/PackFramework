@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "110dbc8cb0c6ac9cede0809781573c36b883a7e0b78f9eaf3a3b7aca5f51f27f"
+hash = "4d3570c669e71e9e2db5a6c56ef01b3debd1b36f28d04de6b724a6e42a918756"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -150,10 +150,6 @@ metafile = true
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
 hash = "69561a54b8e46b61eb6504ee4b7240c55cc3fc7088ba1bd89876a7e158d69e8c"
 metafile = true
-
-[[files]]
-file = "config/seamless_loading_screen.json"
-hash = "ee9a8cad68309f37436f558433496082c3d12de92a2a6d71c6376c1a87133c4f"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -406,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "5922477d07b7331f7659766c0d79d8c54ae2b77680f6473abef3199ee8296b8c"
-metafile = true
-
-[[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
 metafile = true
 
 [[files]]
