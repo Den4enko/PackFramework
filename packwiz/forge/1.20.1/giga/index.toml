@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "4d3570c669e71e9e2db5a6c56ef01b3debd1b36f28d04de6b724a6e42a918756"
+hash = "73e25daf1708f6f1fd357cc5cd675455daf051595ad9545c6eb52d572e90f106"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "a667c1e826438c5d879ff19c99d1544b726eb96e52bd9567ff40de908cf144ec"
+hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
 metafile = true
 
 [[files]]

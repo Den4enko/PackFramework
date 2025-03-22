@@ -1,5 +1,5 @@
 name = "Open Loader"
-side = "client"
+side = "both"
 
 [update]
 [update.modrinth]
