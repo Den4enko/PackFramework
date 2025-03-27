@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "393d87e7f52a2f9552255e1e28843e51b8679254a34216d0134ea4865977d7c2"
+hash = "ed5f1ebd22c22e84d6f4c6eb0c940deeb6f6e528b1608debd4c7d9fb1088df5b"
 metafile = true
 
 [[files]]
