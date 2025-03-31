@@ -1,13 +1,13 @@
 name = "Does It Tick?"
-filename = "does_it_tick-fabric-1.1.0-1.20.1.jar"
+filename = "does_it_tick-fabric-1.1.4-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vmg6jaPW/versions/gEkl0iqh/does_it_tick-fabric-1.1.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/vmg6jaPW/versions/B77nTlT0/does_it_tick-fabric-1.1.4-1.20.1.jar"
 hash-format = "sha512"
-hash = "66fc170af54554a11205005342263e79b3e30a50989c011bb694e595255b5d1e7d2f332ca05a4661b7f31b22a0cb6ab610b0e73d1e2b8ae53dfec57e0d292287"
+hash = "181f22c37eea35fe16e927ef53c12824f6d781f5cc66bc277833fede6f92810c51ac6b15c70cbe6ff15c366131a7a15b39eae71ce84f1219e00b081205691618"
 
 [update]
 [update.modrinth]
 mod-id = "vmg6jaPW"
-version = "gEkl0iqh"
+version = "B77nTlT0"

@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f3415d72ef498809afddb684e4c99c4c1acc1f99fc307128827fdbfea26f4949"
+hash = "2dc1d6a0c0d643943349b45c53452fbe09ce7adbb446ee7b39669c2b6a63924f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7765c7651011d2d485ebe58122fd43925e94701f586319b198187ad2b373c2d3"
+hash = "45de83c4be12de7eb3566c7e3add9d864383981aba86bb6e73aad593b85cb91a"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "cd68d11fd7af4b726229bbf9e225a57a5ceb20d2cf2c290ba32eecac805ab810"
+hash = "7f6d7abe24c06c193599342cb5573493caee0da018a139b7e2e942833c0d28b9"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+hash = "5729774a3c6a2cfc193c07ff4155f8d6d3d86c6241c6109ab3ba9ef92298a092"
 metafile = true
 
 [[files]]

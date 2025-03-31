@@ -1,5 +1,5 @@
 name = "Krypton Reforged"
-side = "both"
+side = "server"
 
 [update]
 [update.curseforge]

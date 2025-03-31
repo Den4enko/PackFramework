@@ -75,17 +75,17 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "d5c5ff8e8bae81e608579724ef67d1ab5ce456d10f9b20e7d721858198fbd1f9"
+hash = "645dac73665db45c8ddb5e5e5afaebfe11eb4eb24641a91d75a9a6122bfb2412"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+hash = "c56ddfdfccf143c8c6b5b93e9555d1c2d80ff7c1bdacd91dfede65785fa686b0"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "f4028c108eeadb5f916bcd043e85d8c34dd0f28d10a65595b7ee676f219439c6"
+hash = "34b09a15f7842e62815678ed519432c922c10773ed2bcaade898054e0b676de8"
 metafile = true
 
 [[files]]
@@ -135,12 +135,17 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "7c0f3fe405636e29bc5c72ca8c7df5edd29ec5ea005af68cac65d61fc7b60688"
+hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "bbf5b5be9b231e704301b4f28b8353f06a720a798eb518f960f3a1879825ffcf"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "75c6c91ac4b0a79ef8bc109bb44dda1c090835ee6f8406f4f5a7ee6803f634bd"
+hash = "01909d63f598c157e43d6fbdfb2dc33307d1b0a4fabd3df07df0ec8d844d4837"
 metafile = true
 
 [[files]]
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "aa8ca7c6b77cc8b027d7f402faa0b1e692d4e489f7063a6cec49b6a0af225c66"
+hash = "aaa4777fa08ae6054753e654effa299f31252499709838b87a99cbea56bcee3e"
 metafile = true
 
 [[files]]

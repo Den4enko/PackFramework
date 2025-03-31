@@ -1,5 +1,5 @@
 name = "Krypton"
-side = "both"
+side = "server"
 
 [update]
 [update.modrinth]
