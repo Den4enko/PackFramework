@@ -94,7 +94,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "2dc1d6a0c0d643943349b45c53452fbe09ce7adbb446ee7b39669c2b6a63924f"
+hash = "5d22484f8e4c2c55feb8c5df67014e78eca62282df3160aa1fa038324fa3d8e9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -174,7 +174,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "40f9a4c854911d93f310971ff48cf20ae7f78935678832e6406f1403fd969ebe"
+hash = "50eb7b6f55cbd0c16f0e2681d7af25df265074c38660ce46cd5942b2a4d609a5"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ce99f1de3591cde7ff20a2edfcd75f36d85c364ca5e169cbd92c4d9cff65e840"
+hash = "9ac19e450b2ab871a645079b185bdf976891c62702b4d3b07307941feee0632a"
 metafile = true
 
 [[files]]
