@@ -94,7 +94,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5d22484f8e4c2c55feb8c5df67014e78eca62282df3160aa1fa038324fa3d8e9"
+hash = "a32bb00c5609bc6747f5d30a8382bd64047646c3ca3f34d43fe4a9ac2ed52819"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -178,7 +178,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "50eb7b6f55cbd0c16f0e2681d7af25df265074c38660ce46cd5942b2a4d609a5"
+hash = "171d456f0b6bfc98fc19f1e4d863954747de01bb7ad2ef5fc0f0ffff444bad09"
 metafile = true
 
 [[files]]
@@ -305,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "55297192c119eff218c0f62719769fe54fa03fbfead832d6c08c43df955b2c98"
+hash = "d9778545b64403309a610324c4f0ca1c993e1130d516fa6ba54279334005d32d"
 metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "bd7946933f6160fd766ba5a6d85ac7bf0fde6b21eb29054eaf3a9da71c4ed7e8"
+hash = "db3fa4102f18a949deabf4260b695a068552ed3f43b40a5dbb9ca7cb71a8bd6c"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e383eb644716cdb4e1bb8324b2a0aeb194c8e415c84f5703f2bef59fe106fb0b"
+hash = "07e1fccd1841a9a0cd1f5e6dacfe24b83b90f9ce148fd390e666c28c82c755b5"
 metafile = true
 
 [[files]]
