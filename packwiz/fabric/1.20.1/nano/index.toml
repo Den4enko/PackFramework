@@ -94,7 +94,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "a32bb00c5609bc6747f5d30a8382bd64047646c3ca3f34d43fe4a9ac2ed52819"
+hash = "e5352de0e24ad75066e65c6e931eb1e107e2e72744e7f7494a16c7f51d0d6bd3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -174,7 +174,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "171d456f0b6bfc98fc19f1e4d863954747de01bb7ad2ef5fc0f0ffff444bad09"
+hash = "75be044fd34c97898d14248c48cbfae0da039f0c823d2ed867079e0ed702588c"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "db3fa4102f18a949deabf4260b695a068552ed3f43b40a5dbb9ca7cb71a8bd6c"
+hash = "8697b0c71170d6e9bc4c30726581a63ad0ff9b15dbc810e295169234a6a0849e"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "01909d63f598c157e43d6fbdfb2dc33307d1b0a4fabd3df07df0ec8d844d4837"
+hash = "f5b156b3463fd19fd72f6a2dead9411236d721bdafec7b76ab03b39cdd6c77e1"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9ac19e450b2ab871a645079b185bdf976891c62702b4d3b07307941feee0632a"
+hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
 metafile = true
 
 [[files]]

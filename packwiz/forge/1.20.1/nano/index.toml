@@ -18,7 +18,7 @@ hash = "f6bac24e982c1b2840d5fd2d7ee3ca565d5fbb9653f87f0c9715441dda00c07c"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "2cbfc420520d5f0f2bd2497d41d4af67c24413d70dd6e2e9574e1ceea170d18e"
+hash = "a05f6387483763685fff641e5b46c9f36665315a90d96fc1f843db8ea0f6d68d"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -66,7 +66,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "a32bb00c5609bc6747f5d30a8382bd64047646c3ca3f34d43fe4a9ac2ed52819"
+hash = "e5352de0e24ad75066e65c6e931eb1e107e2e72744e7f7494a16c7f51d0d6bd3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
+hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "7f6d7abe24c06c193599342cb5573493caee0da018a139b7e2e942833c0d28b9"
+hash = "7a0a042489785f6725c6d1fa74de9910d129cae88735f00b55f2407b97c5a849"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8446832787bf2307f3fd5d98dd77ba119fe8b6801ba195ea2d3b6a904e8320bd"
+hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
 metafile = true
 
 [[files]]

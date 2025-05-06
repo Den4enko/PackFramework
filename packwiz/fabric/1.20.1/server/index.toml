@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "01909d63f598c157e43d6fbdfb2dc33307d1b0a4fabd3df07df0ec8d844d4837"
+hash = "f5b156b3463fd19fd72f6a2dead9411236d721bdafec7b76ab03b39cdd6c77e1"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9ac19e450b2ab871a645079b185bdf976891c62702b4d3b07307941feee0632a"
+hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
 metafile = true
 
 [[files]]

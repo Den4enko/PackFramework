@@ -11,7 +11,7 @@
   "cloudsHeight": 192,
   "disableNameTagRender": false,
   "chunkFadeSpeed": "SLOW",
-  "darknessMode": "OFF",
+  "darknessMode": "VANILLA",
   "darknessOnOverworld": true,
   "darknessOnNether": false,
   "darknessNetherFogBright": 0.5,
