@@ -1,12 +1,12 @@
 name = "PackFramework 1.20.1"
 author = "Den4enko"
-version = "v28"
+version = "v28.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "82b18dbd38e36f7e57c3c54e729e6c0ec18ac8ead1f6ce478451f7066d00dc66"
+hash = "271bad7c71bb96bac8563b3eca4dcf6a77f870ff52e91a8da223d9561e2bbb6a"
 
 [versions]
 fabric = "0.16.14"

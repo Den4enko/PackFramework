@@ -94,7 +94,7 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e5352de0e24ad75066e65c6e931eb1e107e2e72744e7f7494a16c7f51d0d6bd3"
+hash = "aa27cf6046d0f99643fab427fcea3c16cc4090ef3f68d8bbc50f18b8a7b77db9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -225,11 +225,6 @@ hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
 
 [[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "cb8b7d68293611608536faabe366b2f510c6521aef6e5d338b5ada876da3c961"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
@@ -262,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
-metafile = true
-
-[[files]]
-file = "mods/does-it-tick.pw.toml"
-hash = "645dac73665db45c8ddb5e5e5afaebfe11eb4eb24641a91d75a9a6122bfb2412"
 metafile = true
 
 [[files]]
@@ -457,11 +447,6 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "afeb531826af02bbed02c66add559cda5864f268d4b433b4af17ed4850480615"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "aaa4777fa08ae6054753e654effa299f31252499709838b87a99cbea56bcee3e"
 metafile = true
 
 [[files]]

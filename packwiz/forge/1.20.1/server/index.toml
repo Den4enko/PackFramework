@@ -35,11 +35,6 @@ hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
 
 [[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "3f356a958e4e34d15ec7fac9b881f2ca914ad46c8f067e467c12de8f072a9768"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "2274e08910d949f9962383e2314e8d42490f2e8195782786392614d0f0879629"
 metafile = true
@@ -57,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
-metafile = true
-
-[[files]]
-file = "mods/does-it-tick.pw.toml"
-hash = "ed5f1ebd22c22e84d6f4c6eb0c940deeb6f6e528b1608debd4c7d9fb1088df5b"
 metafile = true
 
 [[files]]
@@ -132,9 +122,4 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true

@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e5352de0e24ad75066e65c6e931eb1e107e2e72744e7f7494a16c7f51d0d6bd3"
+hash = "aa27cf6046d0f99643fab427fcea3c16cc4090ef3f68d8bbc50f18b8a7b77db9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -215,11 +215,6 @@ hash = "a7ba514a40fce692ccd896b49727ff1db3975aa284a2adf3c04f9dd7b6fdc82f"
 metafile = true
 
 [[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "3f356a958e4e34d15ec7fac9b881f2ca914ad46c8f067e467c12de8f072a9768"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "2274e08910d949f9962383e2314e8d42490f2e8195782786392614d0f0879629"
 metafile = true
@@ -270,11 +265,6 @@ hash = "dcab5d2d9fce2c003e5f2578c696b41a69d80c16e5748d39cdc9848f72a4b277"
 metafile = true
 
 [[files]]
-file = "mods/does-it-tick.pw.toml"
-hash = "ed5f1ebd22c22e84d6f4c6eb0c940deeb6f6e528b1608debd4c7d9fb1088df5b"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "b3f89cbb1789f86dfe52f10a31fdfcea64a9474715c8170f218ae35fc9dcaf92"
 metafile = true
@@ -286,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "7a0a042489785f6725c6d1fa74de9910d129cae88735f00b55f2407b97c5a849"
+hash = "81171a4b08141222856eba06bb571eb415acb56153566fe8b29afd581db2d8fd"
 metafile = true
 
 [[files]]
@@ -432,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true
 
 [[files]]
