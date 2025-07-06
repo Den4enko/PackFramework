@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "859fd42bdc2aad18998e946f011f015ed163e11f9fa8eccafe897f05b2a0218a"
+hash = "595eb7a73806546934d68baaec1da8aa3002efa32de24ecfa82a315ad196b44f"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
+hash = "b46ef85a3d919e5ddaf02a07f44f8e385a8089d7c7c926c2135cd6ed8b23495d"
 metafile = true
 
 [[files]]

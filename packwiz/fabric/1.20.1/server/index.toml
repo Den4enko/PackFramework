@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
+hash = "f149a969021fee77abd79fee4906f80abbbd928b3f68bf14de1a2685ee9a2a80"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "f5b156b3463fd19fd72f6a2dead9411236d721bdafec7b76ab03b39cdd6c77e1"
+hash = "5fde9f421ee79bb8d89b64a80c58b1be180ab78c792146392767638f5c43cacc"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
+hash = "633c545cef2b18aa859888279ceab943f63a50409cfe6aecb85c91e530e7f7b0"
 metafile = true
 
 [[files]]
