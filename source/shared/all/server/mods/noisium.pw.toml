@@ -2,5 +2,5 @@ name = "Noisium"
 side = "both"
 
 [update]
-[update.curseforge]
-project-id = 930207
+[update.modrinth]
+mod-id = "KuNKN7d2"

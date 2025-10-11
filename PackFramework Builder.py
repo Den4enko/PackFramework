@@ -3,7 +3,7 @@ import shutil
 import subprocess
 from datetime import datetime
 
-script_version = "v4"
+script_version = "v5"
 
 def select_new_mp_version():
     script_root = os.path.dirname(os.path.abspath(__file__))
@@ -152,10 +152,12 @@ def select_mc_version():
     while True:
         print(f"[PackFramework Builder {script_version}]")
         print("Select versions to build:\n")
-        print("1) All Versions\n")
+        print("1) All Versions")
         print("2) Forge 1.20.1")
-        print("3) Fabric 1.20.1\n")
-        print("0) Exit\n")
+        print("3) Fabric 1.20.1")
+        print("4) NeoForge 1.21.1")
+        print("5) Fabric 1.21.1")
+        print("0) Exit")
         selected_option = input("Enter number: ").strip()
         os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -165,12 +167,20 @@ def select_mc_version():
             selected_mp_version = select_new_mp_version()
             build_modpack_set('forge', ['1.20.1'], selected_mp_version)
             build_modpack_set('fabric', ['1.20.1'], selected_mp_version)
+            build_modpack_set('neoforge', ['1.21.1'], selected_mp_version)
+            build_modpack_set('fabric', ['1.21.1'], selected_mp_version)
         elif selected_option == '2':
             selected_mp_version = select_new_mp_version()
             build_modpack_set('forge', ['1.20.1'], selected_mp_version)
         elif selected_option == '3':
             selected_mp_version = select_new_mp_version()
             build_modpack_set('fabric', ['1.20.1'], selected_mp_version)
+        elif selected_option == '4':
+            selected_mp_version = select_new_mp_version()
+            build_modpack_set('neoforge', ['1.21.1'], selected_mp_version)
+        elif selected_option == '5':
+            selected_mp_version = select_new_mp_version()
+            build_modpack_set('fabric', ['1.21.1'], selected_mp_version)
         else:
             print("I'm sorry, but it seems you've selected the wrong option.")
 

@@ -1,0 +1,6 @@
+name = "Model Gap Fix"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "QdG47OkI"

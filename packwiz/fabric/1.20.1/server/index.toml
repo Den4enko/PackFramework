@@ -9,11 +9,6 @@ file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
 [[files]]
-file = "mods/advanced-backups.pw.toml"
-hash = "f5ec909119a903f0f118ad60a122510c63e562a0e6de3640113fc79ce70058d9"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "d8577a489a8e9c90a4207931ebba22d2ef81bacfb68e794032d78952173e95f8"
 metafile = true
@@ -30,12 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "a9a1cab9799d53f3166d46f5cb4471772fd412208c3695e2d58dded70c4447b7"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+hash = "f060633ec58d2c5498c963d00de015e3946ee8a1bc1043f7bc4782ddcf44051f"
 metafile = true
 
 [[files]]
@@ -55,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "3771ae493844608b70847d7489a43f91077f6db20e46f89437e2d5c286d4e021"
+hash = "6d791ef916287123f72c518b7b57a952ca25171542fb42393ffc48cd11cf17a4"
 metafile = true
 
 [[files]]
@@ -75,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -105,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f149a969021fee77abd79fee4906f80abbbd928b3f68bf14de1a2685ee9a2a80"
+hash = "25eaf217efd36d674b35fe2577c41736bcceb2961224ce9dd3e67be0bd483d1d"
 metafile = true
 
 [[files]]
@@ -120,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
+hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]
@@ -135,12 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "5fde9f421ee79bb8d89b64a80c58b1be180ab78c792146392767638f5c43cacc"
-metafile = true
-
-[[files]]
-file = "mods/recipecooldown.pw.toml"
-hash = "d0292fa422a4ff040669df2b354218a6a3c93607fe86e1c863e2ea2550831cae"
+hash = "1bd16c36df6be2752be3da5fcf414b252e4f6f8bb4cb086d0eca02e66afd7555"
 metafile = true
 
 [[files]]
@@ -150,17 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "633c545cef2b18aa859888279ceab943f63a50409cfe6aecb85c91e530e7f7b0"
+hash = "7f9f50fd60eea1c941566c12cdada291f480b21edc6222df30083651fd2fc348"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "afeb531826af02bbed02c66add559cda5864f268d4b433b4af17ed4850480615"
 metafile = true
 
 [[files]]

@@ -1,0 +1,6 @@
+name = "Sodium Extra"
+side = "client"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"

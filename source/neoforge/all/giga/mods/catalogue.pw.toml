@@ -1,0 +1,6 @@
+name = "Catalogue"
+side = "client"
+
+[update]
+[update.curseforge]
+project-id = 459701

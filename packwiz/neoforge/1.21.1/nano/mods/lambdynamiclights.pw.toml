@@ -1,0 +1,13 @@
+name = "LambDynamicLights - Dynamic Lights"
+filename = "lambdynamiclights-4.8.4+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/UKOTbtYN/lambdynamiclights-4.8.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0ac9e56b1493b03848b0ff6df1d3f32b69a7d07b95909ba35949552364c40ac3315c46e6a7948c2290311d6fdae5f83186244d13f75e970f4e3f09d3485bafca"
+
+[update]
+[update.modrinth]
+mod-id = "yBW8D80W"
+version = "UKOTbtYN"
