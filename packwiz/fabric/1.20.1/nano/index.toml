@@ -94,7 +94,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "ddae9e0257af7d02daa79021f5df0a1ffaa9da5aa169bfbf189c0e8963b7940e"
+hash = "3394b16bf2a616b979abc1dab327d9ab459aa04e4ec968adcf1db6a83e6ded0f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -106,15 +106,15 @@ hash = "8b8d63ecc8fdd9e5a755644c2532acad534b6f4a41144b2ea977857d625f6a72"
 
 [[files]]
 file = "config/fancymenu/customization/boot_screen.txt"
-hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
+hash = "11325aff7e8406df84968674bd79c79be5ff82eea927c49d402cee115f7f1ab5"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "853c6254dbafdc5c454c8f5deb0ef47f6741f358d3bcd38fa6e7bf7956868b38"
+hash = "078cfaf6c297ebac3f484178e26ce400654acf9dd6acb4abe18ac69546b60294"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "9f6a5f438b1c592e8ac878728ceae734977ea82a5cba2f9ecba2334c513c5c82"
+hash = "c2479dd71eb67a2bfbd21a3fc40733bb9034a72579c462fecae782e80afc73eb"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -174,7 +174,12 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "4b64e5d5e9f6ed45ef1b88baa4e72621bd0c8ff89eaa4d5bbb90813cc3867762"
+hash = "a89b8b8a7a07e376c916438fc2f26bdbb5a2fc6d10f9d42e3933ecfa0b4fe376"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/default-dark-mode.pw.toml"
+hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
 metafile = true
 
 [[files]]
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "28fd7affac87b7e24f63d17bdf36569ac724c2e46d7a5feec1014dc12aae437e"
+hash = "fc2a74fbafdb73e3e087fa3861ceb0c64b88d0771555ed5bef08a84f6cfed481"
 metafile = true
 
 [[files]]
@@ -401,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7f9f50fd60eea1c941566c12cdada291f480b21edc6222df30083651fd2fc348"
+hash = "fae2bc6c282159f6a2e55e22d19241c625a9795dddbe8bd0f0b501c8aa709be1"
 metafile = true
 
 [[files]]

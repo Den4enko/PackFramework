@@ -119,6 +119,11 @@ hash = "5ea6f9fdefad7193d99da78fd4aebb62957ff5ae749bc3ea67abbe7272bcac63"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "1bd16c36df6be2752be3da5fcf414b252e4f6f8bb4cb086d0eca02e66afd7555"
 metafile = true
@@ -130,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4cc45241bb00faec68c6fa2f030ed3f6a1b95954baf8bbd7ddf54cdfedc69c57"
+hash = "272b27d64cd27b909567437683287909b35de9f78db27214efb1d5e4334f9f82"
 metafile = true
 
 [[files]]

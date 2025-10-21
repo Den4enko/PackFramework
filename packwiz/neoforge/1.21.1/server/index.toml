@@ -90,13 +90,18 @@ hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "cc5914bc09a7362dfd660fbeff105d3595b19de9c6491327272f85c557d4aa3b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d443ed7871b1aebdcac6d3b9212676c576e6c4d86ba0eb03ddd85349f12a74e1"
+hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
 metafile = true
 
 [[files]]

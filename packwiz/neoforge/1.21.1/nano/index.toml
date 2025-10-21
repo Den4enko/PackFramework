@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "ddae9e0257af7d02daa79021f5df0a1ffaa9da5aa169bfbf189c0e8963b7940e"
+hash = "3394b16bf2a616b979abc1dab327d9ab459aa04e4ec968adcf1db6a83e6ded0f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -82,15 +82,15 @@ hash = "8b8d63ecc8fdd9e5a755644c2532acad534b6f4a41144b2ea977857d625f6a72"
 
 [[files]]
 file = "config/fancymenu/customization/boot_screen.txt"
-hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
+hash = "11325aff7e8406df84968674bd79c79be5ff82eea927c49d402cee115f7f1ab5"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "853c6254dbafdc5c454c8f5deb0ef47f6741f358d3bcd38fa6e7bf7956868b38"
+hash = "078cfaf6c297ebac3f484178e26ce400654acf9dd6acb4abe18ac69546b60294"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "a25416be93729724b33b3bea5d59f2d5bb706aa4de198daaa5e67ea47df3e93a"
+hash = "c57ad0e21f9b1aab335c4572ed755feb05e223212aed19c689523e81d3dd736d"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -142,7 +142,12 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/packs/SodiumTranslations.pw.toml"
-hash = "4b64e5d5e9f6ed45ef1b88baa4e72621bd0c8ff89eaa4d5bbb90813cc3867762"
+hash = "a89b8b8a7a07e376c916438fc2f26bdbb5a2fc6d10f9d42e3933ecfa0b4fe376"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/default-dark-mode.pw.toml"
+hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2355aae21dc167cf3af34b83ed642b23b314eeea825ed56705467e2548b2ba4e"
+hash = "95218d2192befc4f1f60adda3e7898f38af351df02f78e1e481b77a8afd6d01c"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "941504ab833a0757f600bda4c49422ec35c05ffe90b354b7becef94fb970a2fd"
+hash = "1cf89ce7378bd8fee782ea2a6f57e520b3109331b2dbb4b01f2c85d9db3e5814"
 metafile = true
 
 [[files]]
@@ -311,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d443ed7871b1aebdcac6d3b9212676c576e6c4d86ba0eb03ddd85349f12a74e1"
+hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
 metafile = true
 
 [[files]]

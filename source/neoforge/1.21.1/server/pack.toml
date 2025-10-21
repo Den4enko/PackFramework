@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = ""
 
 [versions]
-neoforge = "21.1.210"
+neoforge = "21.1.212"
 minecraft = "1.21.1"
