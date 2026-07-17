@@ -9,16 +9,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -35,37 +33,42 @@ jobs:
           go install github.com/packwiz/packwiz@latest
           echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
 
-      - name: Determine version
+      - name: Determine version and deploy directory
         run: |
           if [[ "${{ github.ref_type }}" == "tag" && "${{ github.ref_name }}" == v* ]]; then
-            VERSION="${GITHUB_REF_NAME#v}"
+            VERSION="${{ github.ref_name }}"
+            VERSION="${VERSION#v}"
+            DEPLOY_DIR="release"
           else
-            VERSION="dev-${GITHUB_RUN_NUMBER}"
+            VERSION="dev-${{ github.run_number }}"
+            DEPLOY_DIR="beta"
           fi
           echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "DEPLOY_DIR=$DEPLOY_DIR" >> $GITHUB_ENV
           echo "Determined version: $VERSION"
+          echo "Determined deploy directory: $DEPLOY_DIR"
 
       - name: Build modpack variants
         run: |
-          mkdir -p packwiz
+          mkdir -p build_output/server
+          mkdir -p build_output/nano
+          mkdir -p build_output/giga
+
+          # server
+          cp -a server/. build_output/server/
+
+          # nano
+          cp -a server/. build_output/nano/
+          cp -a nano/. build_output/nano/
+
+          # giga
+          cp -a server/. build_output/giga/
+          cp -a nano/. build_output/giga/
+          cp -a giga/. build_output/giga/
 
           for variant in server nano giga; do
-            echo "Building variant: $variant..."
-            output_dir="packwiz/$variant"
-            
-            rm -rf "$output_dir"
-            mkdir -p "$output_dir"
-
-            if [ "$variant" = "server" ]; then
-              cp -a server/. "$output_dir/"
-            elif [ "$variant" = "nano" ]; then
-              cp -a server/. "$output_dir/"
-              cp -a nano/. "$output_dir/"
-            elif [ "$variant" = "giga" ]; then
-              cp -a server/. "$output_dir/"
-              cp -a nano/. "$output_dir/"
-              cp -a giga/. "$output_dir/"
-            fi
+            echo "Processing variant: $variant..."
+            output_dir="build_output/$variant"
 
             if [ -f "$output_dir/filesToRemove.txt" ]; then
               echo "Applying prune list in $variant..."
@@ -83,7 +86,7 @@ jobs:
               rm -f "$output_dir/filesToRemove.txt"
             fi
 
-            for file_rel in "pack.toml" "config/fancymenu/custom_locals/meta/en_us.local"; do
+            for file_rel in "pack.toml" "config/fancymenu/custom_locals/meta/en_us.local" "config/fancymenu/custom_locals/mod/en_us.local" "config/bcc-common.toml"; do
               file_path="$output_dir/$file_rel"
               if [ -f "$file_path" ]; then
                 echo "Replacing version placeholder in $file_path with $VERSION"
@@ -98,22 +101,10 @@ jobs:
             )
           done
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: packwiz
-
-  deploy:
-    needs: build
-    if: github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build_output
+          target-folder: ${{ env.DEPLOY_DIR }}
+          branch: gh-pages
+          clean: true
