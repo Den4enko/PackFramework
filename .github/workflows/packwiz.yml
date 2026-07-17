@@ -86,7 +86,7 @@ jobs:
               rm -f "$output_dir/filesToRemove.txt"
             fi
 
-            for file_rel in "pack.toml" "config/fancymenu/custom_locals/meta/en_us.local" "config/fancymenu/custom_locals/mod/en_us.local" "config/bcc-common.toml"; do
+            for file_rel in "pack.toml" "config/fancymenu/custom_locals/meta/en_us.local" "config/bcc-common.toml"; do
               file_path="$output_dir/$file_rel"
               if [ -f "$file_path" ]; then
                 echo "Replacing version placeholder in $file_path with $VERSION"
