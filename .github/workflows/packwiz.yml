@@ -28,6 +28,7 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: 'stable'
+          cache: false
 
       - name: Install packwiz
         run: |
@@ -56,14 +57,14 @@ jobs:
             mkdir -p "$output_dir"
 
             if [ "$variant" = "server" ]; then
-              cp -a source/server/. "$output_dir/"
+              cp -a server/. "$output_dir/"
             elif [ "$variant" = "nano" ]; then
-              cp -a source/server/. "$output_dir/"
-              cp -a source/nano/. "$output_dir/"
+              cp -a server/. "$output_dir/"
+              cp -a nano/. "$output_dir/"
             elif [ "$variant" = "giga" ]; then
-              cp -a source/server/. "$output_dir/"
-              cp -a source/nano/. "$output_dir/"
-              cp -a source/giga/. "$output_dir/"
+              cp -a server/. "$output_dir/"
+              cp -a nano/. "$output_dir/"
+              cp -a giga/. "$output_dir/"
             fi
 
             if [ -f "$output_dir/filesToRemove.txt" ]; then
