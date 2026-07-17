@@ -1,0 +1,15 @@
+name = "PackFramework"
+author = "Den4enko"
+version = "noVersion"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.213"
+
+[options]
+no-internal-hashes = true

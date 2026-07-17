@@ -1,6 +1,0 @@
-name = "Screenshot to Clipboard"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "1KiJRrTg"

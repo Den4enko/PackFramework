@@ -1,6 +1,0 @@
-name = "Puzzle"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "3IuO68q1"

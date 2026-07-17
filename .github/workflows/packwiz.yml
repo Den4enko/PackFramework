@@ -1,0 +1,118 @@
+name: Build and Deploy Modpacks with packwiz
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+
+      - name: Determine version
+        run: |
+          if [[ "${{ github.ref_type }}" == "tag" && "${{ github.ref_name }}" == v* ]]; then
+            VERSION="${GITHUB_REF_NAME#v}"
+          else
+            VERSION="dev-${GITHUB_RUN_NUMBER}"
+          fi
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "Determined version: $VERSION"
+
+      - name: Build modpack variants
+        run: |
+          mkdir -p packwiz
+
+          for variant in server nano giga; do
+            echo "Building variant: $variant..."
+            output_dir="packwiz/$variant"
+            
+            rm -rf "$output_dir"
+            mkdir -p "$output_dir"
+
+            if [ "$variant" = "server" ]; then
+              cp -a source/server/. "$output_dir/"
+            elif [ "$variant" = "nano" ]; then
+              cp -a source/server/. "$output_dir/"
+              cp -a source/nano/. "$output_dir/"
+            elif [ "$variant" = "giga" ]; then
+              cp -a source/server/. "$output_dir/"
+              cp -a source/nano/. "$output_dir/"
+              cp -a source/giga/. "$output_dir/"
+            fi
+
+            if [ -f "$output_dir/filesToRemove.txt" ]; then
+              echo "Applying prune list in $variant..."
+              while IFS= read -r line || [ -n "$line" ]; do
+                line=$(echo "$line" | xargs)
+                if [ -z "$line" ] || [[ "$line" =~ ^# ]]; then
+                  continue
+                fi
+                target_path="$output_dir/$line"
+                if [ -e "$target_path" ]; then
+                  echo "Removing $target_path"
+                  rm -rf "$target_path"
+                fi
+              done < "$output_dir/filesToRemove.txt"
+              rm -f "$output_dir/filesToRemove.txt"
+            fi
+
+            for file_rel in "pack.toml" "config/fancymenu/custom_locals/meta/en_us.local"; do
+              file_path="$output_dir/$file_rel"
+              if [ -f "$file_path" ]; then
+                echo "Replacing version placeholder in $file_path with $VERSION"
+                sed -i "s/noVersion/$VERSION/g" "$file_path"
+              fi
+            done
+
+            echo "Refreshing packwiz index for $variant..."
+            (
+              cd "$output_dir"
+              packwiz refresh --build
+            )
+          done
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: packwiz
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

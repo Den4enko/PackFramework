@@ -1,6 +1,0 @@
-name = "Configured"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 457570

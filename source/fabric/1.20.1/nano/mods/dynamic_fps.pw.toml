@@ -1,6 +1,0 @@
-name = "Dynamic FPS"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "LQ3K71Q1"

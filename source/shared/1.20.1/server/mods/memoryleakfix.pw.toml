@@ -1,6 +1,0 @@
-name = "Memory Leak Fix"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "NRjRiSSD"

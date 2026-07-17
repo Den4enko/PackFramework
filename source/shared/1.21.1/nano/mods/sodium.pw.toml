@@ -1,6 +1,0 @@
-name = "Sodium"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "AANobbMI"

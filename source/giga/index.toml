@@ -1,0 +1,53 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
+file = "config/embeddium-options.json"
+
+[[files]]
+file = "config/puzzle.json"
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity_model_features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true

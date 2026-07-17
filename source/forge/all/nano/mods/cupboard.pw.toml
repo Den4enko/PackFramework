@@ -1,6 +1,0 @@
-name = "Cupboard"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 326652

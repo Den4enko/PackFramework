@@ -1,6 +1,0 @@
-name = "fast-ip-ping"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "9mtu0sUO"

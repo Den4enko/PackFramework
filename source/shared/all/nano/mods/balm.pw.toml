@@ -1,6 +1,0 @@
-name = "Balm"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "MBAkmtvl"

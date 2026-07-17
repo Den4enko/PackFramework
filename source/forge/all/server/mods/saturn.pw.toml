@@ -1,6 +1,0 @@
-name = "Saturn"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "2eT495vq"

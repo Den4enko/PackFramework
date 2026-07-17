@@ -1,6 +1,0 @@
-name = "Better Fps - Render Distance"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 551520

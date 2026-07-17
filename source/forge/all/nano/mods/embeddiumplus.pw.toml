@@ -1,6 +1,0 @@
-name = "Embeddium++"
-side = "client"
-
-[update]
-[update.curseforge]
-project-id = 931925

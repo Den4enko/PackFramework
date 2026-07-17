@@ -1,0 +1,79 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bcc-common.toml"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+metafile = true

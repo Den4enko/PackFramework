@@ -1,6 +1,0 @@
-name = "Better Mount HUD"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "kqJFAPU9"

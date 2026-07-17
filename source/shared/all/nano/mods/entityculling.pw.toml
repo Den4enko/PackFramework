@@ -1,6 +1,0 @@
-name = "Entity Culling"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "NNAgCjsB"

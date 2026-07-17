@@ -1,6 +1,0 @@
-name = "Indium"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "Orvt0mRa"

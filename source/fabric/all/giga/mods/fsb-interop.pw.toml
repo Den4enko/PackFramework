@@ -1,6 +1,0 @@
-name = "FabricSkyBoxes Interop"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "HpdHOPOp"

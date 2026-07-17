@@ -1,6 +1,0 @@
-name = "Continuity"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "1IjD5062"

@@ -1,6 +1,0 @@
-name = "Krypton"
-side = "server"
-
-[update]
-[update.modrinth]
-mod-id = "fQEb0iXm"

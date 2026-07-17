@@ -1,0 +1,187 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "config/PaginatedAdvancements.json5"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
+file = "config/dynamic_fps.json"
+
+[[files]]
+file = "config/embeddium-options.json"
+
+[[files]]
+file = "config/fancymenu/assets/background.jpg"
+
+[[files]]
+file = "config/fancymenu/assets/icon.icns"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/custom_locals/framework/en_us.local"
+
+[[files]]
+file = "config/fancymenu/custom_locals/framework/ru_ru.local"
+
+[[files]]
+file = "config/fancymenu/custom_locals/framework/uk_ua.local"
+
+[[files]]
+file = "config/fancymenu/custom_locals/meta/en_us.local"
+
+[[files]]
+file = "config/fancymenu/custom_locals/mod/en_us.local"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/boot_screen.txt"
+
+[[files]]
+file = "config/fancymenu/customization/ingame_menu.txt"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/immediatelyfast.json"
+
+[[files]]
+file = "config/iris.properties"
+
+[[files]]
+file = "config/lambdynlights.toml"
+
+[[files]]
+file = "config/moreculling.toml"
+
+[[files]]
+file = "config/openloader/packs/ModPack Resources/assets/packframework/lang/en_us.json"
+
+[[files]]
+file = "config/openloader/packs/ModPack Resources/assets/packframework/lang/ru_ru.json"
+
+[[files]]
+file = "config/openloader/packs/ModPack Resources/assets/packframework/lang/uk_ua.json"
+
+[[files]]
+file = "config/openloader/packs/ModPack Resources/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/packs/ModPack Resources/pack.png"
+
+[[files]]
+file = "config/openloader/packs/SodiumTranslations.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/default-dark-mode.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic_fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+metafile = true
