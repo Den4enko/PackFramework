@@ -1,13 +1,13 @@
 name = "Balm"
-filename = "balm-neoforge-1.21.1-21.0.54.jar"
+filename = "balm-neoforge-1.21.1-21.0.63.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yiybaaus/balm-neoforge-1.21.1-21.0.54.jar"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yl3tIBea/balm-neoforge-1.21.1-21.0.63.jar"
 hash-format = "sha512"
-hash = "c07f28847484d877b0ee5437ab3207265483f767bac8f39cbd25dbb3e34b53e056bd054b8a622970c17a1bf24083535ab93e09a09d754816e6d82b51e459fd41"
+hash = "36c8e23702ffada79f944e4bad5e9c4538fb4a8804e970dfb738e1da21065fc4ddb7a75636d327d0cb567f3e0e6c5c7a560d2f28fd070bc768aeeb849e2087fb"
 
 [update]
 [update.modrinth]
 mod-id = "MBAkmtvl"
-version = "Yiybaaus"
+version = "Yl3tIBea"
