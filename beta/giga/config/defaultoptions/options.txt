@@ -1,0 +1,11 @@
+version:3120
+autoJump:false
+darkMojangStudiosBackground:true
+enableVsync:false
+guiScale:3
+joinedFirstServer:true
+maxFps:260
+skipMultiplayerWarning:true
+snooperEnabled:false
+soundCategory_music:0.0
+tutorialStep:none
