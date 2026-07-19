@@ -123,6 +123,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 metafile = true
 
@@ -180,6 +184,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/superresolution.pw.toml"
 metafile = true
 
 [[files]]
