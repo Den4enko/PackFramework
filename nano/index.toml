@@ -187,9 +187,5 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/superresolution.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 metafile = true
