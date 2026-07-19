@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1661bbfff593d1c8eb8697421d7809bcfa8068778f3429d99ae71273e7b1fa39"
+hash = "2f36e7a82e8979b3beb6118575b4aa8ea9fb1ece4b32826d1e6858faf394986c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -74,7 +74,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "bef666879b328178f9c9fa5ab2d5caf62015f4bfe2e9c4cb6b516e94cfb6b0ef"
+hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -210,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]

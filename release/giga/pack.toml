@@ -1,12 +1,12 @@
 name = "PackFramework"
 author = "Den4enko"
-version = "34"
+version = "35"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5d6e478ec67693e017b393a64374c8450a3371ac10e2398c4b6a15d7bdb11e00"
+hash = "ab9441982aa370e32771d19374c372d14d6f1baa5e9e9bf378539e1f990e3685"
 
 [versions]
 minecraft = "1.21.1"
