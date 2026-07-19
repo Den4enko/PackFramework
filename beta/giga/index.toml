@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5f360dbec8d1eec516d5bb390870e3c5b6e5a3b189c24430c5675cee1b1c1a40"
+hash = "b1bd7c3af2c440c5f3e24ffd4732eba36aceaa613458863d6b269c06eeb6c8e1"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -74,7 +74,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "0e3307563d1422a4f69b90dd7ea59a2becd0a0fb7c10f5dc97082b2bbe295c64"
+hash = "55381df3c05307108f4cdc4913b08089b50e3c128a4ccefc2d05f7ceeebdfb57"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -210,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
@@ -380,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/superresolution.pw.toml"
+hash = "a74f503e3ffb635828d2583a0f5ed294c7e09f2750b52c3757f14cdde574a13c"
 metafile = true
 
 [[files]]
