@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "812a7df744106ca8cc67762e92c2f5304bd345f219338384c9676a336d9969e1"
+hash = "5f360dbec8d1eec516d5bb390870e3c5b6e5a3b189c24430c5675cee1b1c1a40"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -74,7 +74,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "05f367dab9939da22e079188744f1e181791f3b066210ffa12c9cac4f962b270"
+hash = "0e3307563d1422a4f69b90dd7ea59a2becd0a0fb7c10f5dc97082b2bbe295c64"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -146,7 +146,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/packs/SodiumTranslations.pw.toml"
-hash = "aad872fcdf260fd9069b0ee7f46a0ca56f7562185cf8992bdae766b3ac963a1c"
+hash = "a3695e5a2c33614cde5fda7fece30ac3171eada2b67ff13ad1ccea1f78df58c9"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
+hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "67ea71a3edcd88bb031720932f519151923b8dbb94633ddd8fb0f9585e8d9e7a"
+hash = "c54d8e0f882ebcd3bffab840b1ecd4dbd59ca566f8b0cd93dca50c5183fbb18a"
 metafile = true
 
 [[files]]
