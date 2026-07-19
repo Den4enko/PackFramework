@@ -1,16 +1,16 @@
 name = "PackFramework"
 author = "Den4enko"
-version = "33.1"
+version = "34"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5e1f1e6df35eb3600975f09149bfc5164d4a3571c575d01fea66ab34875c4c3e"
+hash = "5d6e478ec67693e017b393a64374c8450a3371ac10e2398c4b6a15d7bdb11e00"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.238"
+neoforge = "21.1.241"
 
 [options]
 no-internal-hashes = true
