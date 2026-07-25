@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1a15b798357f5cfe27479865b380e979dfecee658d0edd3cddebb8a0eb169007"
+hash = "f1f9219a18a08e9d13ec2a5c808c1aaeccd7df7f477eaa4cd7fe7fcd9894ebd2"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "150a1451f06b26fbfc56cd51aa632a012a6059d0df62c2e7323e7c0aabd20fea"
+hash = "d5a80aa432aab7965161b21ef30c196259d6ffb105aa49156120fd4241509ea6"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
+hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
 
 [[files]]

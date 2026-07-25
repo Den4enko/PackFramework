@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1a15b798357f5cfe27479865b380e979dfecee658d0edd3cddebb8a0eb169007"
+hash = "f1f9219a18a08e9d13ec2a5c808c1aaeccd7df7f477eaa4cd7fe7fcd9894ebd2"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -70,7 +70,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "ece53eb6ba5db699a5e00f71914d903d02893fb5870f4fee9e94bfcd6c997fff"
+hash = "6cab85806242737509296ed0b8af3e59a6e42e7285941de0093c1fab81f2da39"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -142,7 +142,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/packs/SodiumTranslations.pw.toml"
-hash = "a3695e5a2c33614cde5fda7fece30ac3171eada2b67ff13ad1ccea1f78df58c9"
+hash = "48e4286af5aa195c90190884192c77001da714f5d6d2e58f1a5516921a115773"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "2cfb28351a5a5d4af8b38130cca9f935c26c22524e0b6823196f0eb39ec55ead"
+hash = "e68a8f42735f487cfe40419b719b3fd59e1698661949a76bbcbfb53c42295908"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "150a1451f06b26fbfc56cd51aa632a012a6059d0df62c2e7323e7c0aabd20fea"
+hash = "d5a80aa432aab7965161b21ef30c196259d6ffb105aa49156120fd4241509ea6"
 metafile = true
 
 [[files]]
@@ -206,12 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
+hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
+hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
 
 [[files]]
