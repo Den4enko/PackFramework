@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f1f9219a18a08e9d13ec2a5c808c1aaeccd7df7f477eaa4cd7fe7fcd9894ebd2"
+hash = "bc171d2256e2499ddaeb962167c8ac6c7f00e03d68c865edb6b5a57ea3242f41"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3a890887dc978c2831963814f0e245a133be02fee467d03b30f9b0d79672a8a8"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "3dc1fef085adf1ca4b5e3e729fe834f71a2b37bc91d1a37fd87d469af700ec89"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"

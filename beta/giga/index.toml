@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f1f9219a18a08e9d13ec2a5c808c1aaeccd7df7f477eaa4cd7fe7fcd9894ebd2"
+hash = "bc171d2256e2499ddaeb962167c8ac6c7f00e03d68c865edb6b5a57ea3242f41"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -74,7 +74,7 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "6cab85806242737509296ed0b8af3e59a6e42e7285941de0093c1fab81f2da39"
+hash = "47282313a271bfed8dedbe2d20e4a5043e66d3a4add47649a1b4c2100cc0c7e9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -157,6 +157,10 @@ metafile = true
 [[files]]
 file = "config/puzzle.json"
 hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "3dc1fef085adf1ca4b5e3e729fe834f71a2b37bc91d1a37fd87d469af700ec89"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
